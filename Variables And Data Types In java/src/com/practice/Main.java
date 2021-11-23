@@ -50,7 +50,7 @@ public class Main {
        System.out.println("Kapasitas tipe data long : "+Long.BYTES+" bytes");
        System.out.println("Kapasitas tipe data long : "+Long.SIZE+" bit");
 
-       //Float adalah tipe data yang termasuk numerik/angka yang bersifat bilangan pecahan yang berkapasitas 32 bit.
+       //Float adalah tipe data yang termasuk numerik/angka yang bersifat bilangan desimal yang berkapasitas 32 bit.
        float flt = 12.3f;
        System.out.println("(###############-Tipe Data Float-###############)");
        System.out.println("Nilai variabel flt yang bertipe data float : "+flt);
@@ -59,7 +59,7 @@ public class Main {
        System.out.println("Kapasitas tipe data float : "+Float.BYTES+" bytes");
        System.out.println("Kapasitas tipe data float : "+Float.SIZE+" bit");
 
-       //Double adalah tipe data yang termasuk numerik/angka yang bersifat bilangan pecahan yang berkapasitas 64 bit.
+       //Double adalah tipe data yang termasuk numerik/angka yang bersifat bilangan desimal yang berkapasitas 64 bit.
        double dbl = 125.5d;
        System.out.println("(###############-Tipe Data Double-###############)");
        System.out.println("Nilai variabel dbl yang bertipe data double : "+dbl);
