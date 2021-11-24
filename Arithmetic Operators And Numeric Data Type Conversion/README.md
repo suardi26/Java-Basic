@@ -25,7 +25,7 @@ Note !!! : script ini diperuntukan bagi yang baru memulai belajar java. Jika Sud
 
 - Dan untuk konversi/casting tipe data numerik pada java, yang harus diperhatikan adalah pada saat melakukan konversi dari tipe data yang memiliki kapasitas interval yang besar ke tipe data yang memiliki kapasitas interval yang kecil. 
 
--contoh : int i = 257; 
+- contoh : int i = 257; 
           byte bt = (byte) i;
 - Keterangan : Variabel 'bt' dengan tipe data byte tidak akan sama dengan nilai variabel 'i' yang bertipe Integer,  dikarenakan kapasitas dari tipe data byte adalah 8 bit, dengan interval mulai dari -128 s.d 127 sedangkan nilai dari variabel 'i' yang bertipe data integer adalah 257.
 
