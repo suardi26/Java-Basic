@@ -28,7 +28,7 @@ Notes !!! : this script is intended for those who are just starting to learn jav
 
 - For the boolean data type, it is a data type that belongs to a logical group and has a value of true or false.
 
-- For more details, please open Main.java in repositories suardi26/Java-Basic/Variables And Data Types In Java/src/com/practice.
+- For more details, please open Main.java in repositories suardi26/Java-Basic/Variables And Data Types In Java/src/com/practice/.
 
 - Have a nice day.
  
@@ -64,7 +64,7 @@ Note !!! : script ini diperuntukan bagi yang baru memulai belajar java. Jika Sud
 
 - Untuk tipe data boolean adalah tipe data yang termasuk dalam kelompok logika dan memiliki nilai true atau false.
 
-- Untuk lebih jelas, silahkan buka Main.java pada repositories suardi26/Java-Basic/Variables And Data Types In Java/src/com/practice.
+- Untuk lebih jelas, silahkan buka Main.java pada repositories suardi26/Java-Basic/Variables And Data Types In Java/src/com/practice/.
 
 - Semoga harimu menyenangkan.
 
