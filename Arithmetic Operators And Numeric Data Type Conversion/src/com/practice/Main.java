@@ -75,5 +75,6 @@ public class Main {
         Hasil Konfersi dari tipe data double ke long tidak jauh beda dikarenakan hasilnya adalah bilangan bulat,
         namun pada tipe data double hasilnya tetap menambahkan 2 angka dibelakang koma.
          */
+
     }
 }
