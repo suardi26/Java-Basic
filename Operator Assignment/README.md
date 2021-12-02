@@ -14,7 +14,7 @@ Notes !!! : this script is intended for those who are just starting to learn jav
      D = D / 4 can be simplified using the assignment operator to D /= 4;
      E = E % 4 can be simplified using the assignment operator to E %= 4;
      
- - For more details, please open Main.java in repositories suardi26/Java-Basic/Operator Assignment/src/com/practice/
+- For more details, please open Main.java in repositories suardi26/Java-Basic/Operator Assignment/src/com/practice/
      
 - Have a nice day.
 
