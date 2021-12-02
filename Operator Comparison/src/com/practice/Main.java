@@ -25,7 +25,7 @@ public class Main {
         System.out.printf("(==)Apakah %d Sama Dengan %d ? => %s.\n",i,o,value);
 
         System.out.println("(###############-Tidak Sama Besar-###############)");
-        i =  80;
+        i = 80;
         o = 60;
         value = (i != o);
         System.out.printf("(!=)Apakah %d Tidak Sama Dengan %d ? => %s.\n",i,o,value);
