@@ -25,6 +25,8 @@ Notes !!! : this script is intended for those who are just starting to learn jav
               //Note : In the Increment postfix the result is 10 because the value of the variable "numberB" is displayed first and then added up.
               
 - Invert/Negation (inverts a value of boolean data type).
+- 
+- For more details, please open Main.java in repositories suardi26/Java-Basic/Operator Unary/src/com/practice/
 
 - Have a nice day.
 
@@ -57,6 +59,8 @@ Note !!! : script ini diperuntukan bagi yang baru memulai belajar java. Jika Sud
               // Ket : Pada Increment postfix hasilnya 10 dikarenakan nilai variabel "numberB" di tampilkan terlebih dahulu baru di dijumlahkan.
               
 - Invert/Negasi (membalikan suatu nilai tipe data boolean).
+
+- Untuk lebih jelasnya, silahkan buka Main.java di repositori suardi26/Java-Basic/Operator Unary/src/com/practice/.
 
 - Semoga harimu menyenangkan.
 
