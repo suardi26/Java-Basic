@@ -84,14 +84,5 @@ public class Main {
        System.out.println("Nilai maximum boolean : "+Boolean.TRUE);
        System.out.println("Nilai minimum boolean : "+Boolean.FALSE);
 
-
-
-
-
-
-
-
-
-
     }
 }
