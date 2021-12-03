@@ -42,6 +42,8 @@ Notes !!! : this script is intended for those who are just starting to learn jav
 
 Note !!! : script ini diperuntukan bagi yang baru memulai belajar java. Jika Sudah Memahami Java dasar Silahkan Di skip.
 
+------------------------------Operators Logical------------------------------
+
 - Operator Logika adalah operator yang dipakai pada 2 kondisi atau lebih sehingga menghasilkan nilai boolean true atau false.
 
 - Ada beberapa jenis operator logika pada Java yaitu OR (||), AND (&&), NOT (!), XOR (^).
