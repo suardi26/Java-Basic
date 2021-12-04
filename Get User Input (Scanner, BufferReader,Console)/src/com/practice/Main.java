@@ -12,7 +12,7 @@ public class Main {
 
         /*
             Ada 3 class yang digunakan untuk mengambil input pada program berbasis teks (Console), yaitu Class Scanner,
-            Class BufferREader, Class Console.
+            Class BufferReader, Class Console.
 
          */
 
