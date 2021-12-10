@@ -77,9 +77,12 @@ public class Main {
             System.out.println("(Rumah) update project java Basic di Github.");
 
         }else{
-            System.out.println("Kode yang anda masukan salah !!!\nperintah yang valid adalah angka 1,2,3,4 dan 5.\n");
-            System.out.println("(###############-Terima Kasih-###############)");
+
+            System.out.println("Kode yang anda masukan salah !!!\nperintah yang validadalah angka 1,2,3,4 dan 5.");
+
         }
+
+        System.out.println("\n(###############-Terima Kasih-###############)");
 
     }
 }
