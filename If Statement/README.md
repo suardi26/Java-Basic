@@ -84,15 +84,15 @@ Note !!! : script ini diperuntukan bagi yang baru memulai belajar java. Jika Sud
   
      if (Kondisi1) {
     
-      // jika Kondisi1 benar maka code 'A' akan di eksekusi.
+      // jika Kondisi1 benar maka Kode 'A' akan di eksekusi.
       
     } else if (Kondisi2) {
     
-      // jika Kondisi2 benar maka code 'B' akan di eksekusi.
+      // jika Kondisi2 benar maka Kode 'B' akan di eksekusi.
     
     } else if (Kondisi3){
     
-      // jika Kondisi3 benar maka code 'C' akan di eksekusi.
+      // jika Kondisi3 benar maka Kode 'C' akan di eksekusi.
     
     } else if{
     
