@@ -36,7 +36,7 @@ Notes !!! : this script is intended for those who are just starting to learn jav
     
       // if the condition3 is false then code 'C' will be executed
     
-    } .
+    } else if{
       .
       .
     }else{
@@ -89,7 +89,7 @@ Note !!! : script ini diperuntukan bagi yang baru memulai belajar java. Jika Sud
     
       // jika Kondisi3 benar maka code 'C' akan di eksekusi.
     
-    } .
+    } else if{
       .
       .
     }else{
