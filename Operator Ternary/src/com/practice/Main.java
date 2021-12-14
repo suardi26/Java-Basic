@@ -11,7 +11,7 @@ public class Main {
      Operator adalah instruksi yang digunakan untuk mendapatkan hasil dari proses. Sedangkan
      Operand adalah nilai asal yang digunakan dalam sebuah proses operasi.
      Contoh : 5 + 8;
-     '5 dan 8' adalah operand.
+     '5' dan '8' adalah operand.
      '+' adalah operator.
 
      Operator Ternary / Operator Kondisional adalah operator yang terdiri dari 3 operand.
