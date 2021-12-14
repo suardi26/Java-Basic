@@ -8,15 +8,15 @@ Notes !!! : this script is intended for those who are just starting to learn jav
 
   Format : 
   
-    if (condition) {
-    
-      // if the condition is true then code 'A' will be executed
-      
-    } else {
-    
-      // if the condition is false then code 'B' will be executed
-    
-    }
+      if (condition) {
+
+        // if the condition is true then code 'A' will be executed
+
+      } else {
+
+        // if the condition is false then code 'B' will be executed
+
+      }
     
 - if-else if statement / branching is the same as 'if-else statement' which is a programming technique that used to determine the flow of program execution, 
 
