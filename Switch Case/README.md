@@ -82,4 +82,4 @@ Note !!! : script ini diperuntukan bagi yang baru memulai belajar java. Jika Sud
   
 - Untuk lebih jelasnya, silahkan buka Main.java di repositori suardi26/Java-Basic/Switch Case/src/com/practice/
 
-- Have a nice day.
+- Semoga harimu menyenangkan.
