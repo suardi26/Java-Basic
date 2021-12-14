@@ -50,9 +50,9 @@ Notes !!! : this script is intended for those who are just starting to learn jav
       
     }
     
- - if else nested is a programming technique used to define the execution flow program, but in if else nested there is a branch in the branch.
+- if else nested is a programming technique used to define the execution flow program, but in if else nested there is a branch in the branch.
   
-   So that when a condition is met there is still another branch that determines a condition is true or not.
+  So that when a condition is met there is still another branch that determines a condition is true or not.
    
   Format :
     
@@ -132,9 +132,9 @@ Note !!! : script ini diperuntukan bagi yang baru memulai belajar java. Jika Sud
       
     }
     
- - if else nested adalah teknik pemrograman yang digunakan untuk menentukan alur eksekusi program, namun pada if else nested terdapat percabangan 
+- if else nested adalah teknik pemrograman yang digunakan untuk menentukan alur eksekusi program, namun pada if else nested terdapat percabangan 
 
-   di dalam percabangan. Sehingga pada saat suatu kondisi terpenuhi masih ada percabangan lain yang menentukan suatu kondisi bernilai benar atau tidak.
+  di dalam percabangan. Sehingga pada saat suatu kondisi terpenuhi masih ada percabangan lain yang menentukan suatu kondisi bernilai benar atau tidak.
    
   Format :
     
