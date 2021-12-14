@@ -106,31 +106,31 @@ Note !!! : script ini diperuntukan bagi yang baru memulai belajar java. Jika Sud
   
   Format :
   
-     if (Kondisi1) {
-    
-      // jika Kondisi1 benar maka Kode 'A' akan di eksekusi.
-      
-    } else if (Kondisi2) {
-    
-      // jika Kondisi2 benar maka Kode 'B' akan di eksekusi.
-    
-    } else if (Kondisi3){
-    
-      // jika Kondisi3 benar maka Kode 'C' akan di eksekusi.
-    
-    } else if{
-    
-      // . . . . .
-      
-      // . . . . .
-      
-      // . . . . .
-      
-    }else{
-    
-      // Kode ini akan di eksekusi  jika semua kondisi tidak benar.
-      
-    }
+       if (Kondisi1) {
+
+        // jika Kondisi1 benar maka Kode 'A' akan di eksekusi.
+
+      } else if (Kondisi2) {
+
+        // jika Kondisi2 benar maka Kode 'B' akan di eksekusi.
+
+      } else if (Kondisi3){
+
+        // jika Kondisi3 benar maka Kode 'C' akan di eksekusi.
+
+      } else if{
+
+        // . . . . .
+
+        // . . . . .
+
+        // . . . . .
+
+      }else{
+
+        // Kode ini akan di eksekusi  jika semua kondisi tidak benar.
+
+      }
     
 - if else nested adalah teknik pemrograman yang digunakan untuk menentukan alur eksekusi program, namun pada if else nested terdapat percabangan 
 
@@ -138,23 +138,23 @@ Note !!! : script ini diperuntukan bagi yang baru memulai belajar java. Jika Sud
    
   Format :
     
-    if (kondisi1) {
-      
-      if (kondisi2) {
-      
-        // Jika Kondisi1 dan Kondisi2 benar maka Kode 'A' akan di eksekusi.
-      
-      else{
-      
-        // Jika Kondisi1 benar dan Kondisi2 salah maka Kode 'B' akan di eksekusi.
-      
+      if (kondisi1) {
+
+        if (kondisi2) {
+
+          // Jika Kondisi1 dan Kondisi2 benar maka Kode 'A' akan di eksekusi.
+
+        else{
+
+          // Jika Kondisi1 benar dan Kondisi2 salah maka Kode 'B' akan di eksekusi.
+
+        }
+
+      }else{
+
+        // Jika Kondisi1 salah maka Kode 'C' akan di eksekusi.
+
       }
-      
-    }else{
-    
-      // Jika Kondisi1 salah maka Kode 'C' akan di eksekusi.
-      
-    }
 
 - Untuk lebih jelasnya, silahkan buka Main.java di repositori suardi26/Java-Basic/If Statement/src/com/practice/.
 
