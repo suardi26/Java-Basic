@@ -24,31 +24,31 @@ Notes !!! : this script is intended for those who are just starting to learn jav
   
   Format :
   
-     if (condition1) {
-    
-      // if the condition1 is true then code 'A' will be executed
-      
-    } else if (condition2) {
-    
-      // if the condition2 is false then code 'B' will be executed
-    
-    } else if (condition3){
-    
-      // if the condition3 is false then code 'C' will be executed
-    
-    } else if{
-    
-      // . . . . .
-      
-      // . . . . .
-      
-      // . . . . .
-      
-    }else{
-    
-      // This code will be executed if all conditions are not true
-      
-    }
+       if (condition1) {
+
+        // if the condition1 is true then code 'A' will be executed
+
+      } else if (condition2) {
+
+        // if the condition2 is false then code 'B' will be executed
+
+      } else if (condition3){
+
+        // if the condition3 is false then code 'C' will be executed
+
+      } else if{
+
+        // . . . . .
+
+        // . . . . .
+
+        // . . . . .
+
+      }else{
+
+        // This code will be executed if all conditions are not true
+
+      }
     
 - if else nested is a programming technique used to define the execution flow program, but in if else nested there is a branch in the branch.
   
@@ -56,23 +56,23 @@ Notes !!! : this script is intended for those who are just starting to learn jav
    
   Format :
     
-    if (condition1) {
-      
-      if (condition2) {
-      
-        // if the condition1 and condition2 is true then code 'A' will be executed
-      
-      else{
-      
-        // if the condition1 is true and condition2 is false then code 'B' will be execute 
-      
+      if (condition1) {
+
+        if (condition2) {
+
+          // if the condition1 and condition2 is true then code 'A' will be executed
+
+        else{
+
+          // if the condition1 is true and condition2 is false then code 'B' will be execute 
+
+        }
+
+      }else{
+
+        // if the condition1 is false then code 'C' will be execute.
+
       }
-      
-    }else{
-    
-      // if the condition1 is false then code 'C' will be execute.
-      
-    }
 
 - For more details, please open Main.java in repositories suardi26/Java-Basic/If Statement/src/com/practice/
 
@@ -90,15 +90,15 @@ Note !!! : script ini diperuntukan bagi yang baru memulai belajar java. Jika Sud
   
   Format : 
   
-    if (Kondisi) {
-    
-      // jika kondisi benar maka code 'A' akan di eksekusi
-      
-    } else {
-    
-      // jika kondisi salah maka code 'B' akan di eksekusi
-    
-    }
+      if (Kondisi) {
+
+        // jika kondisi benar maka code 'A' akan di eksekusi
+
+      } else {
+
+        // jika kondisi salah maka code 'B' akan di eksekusi
+
+      }
     
 - if-else if statement / percabangan sama saja dengan if-else statement yang merupakan teknik pemrograman yang digunakan untuk menentukan alur eksekusi program namun 
 
