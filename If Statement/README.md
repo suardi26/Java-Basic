@@ -49,6 +49,30 @@ Notes !!! : this script is intended for those who are just starting to learn jav
       // This code will be executed if all conditions are not true
       
     }
+    
+ - if else nested is a programming technique used to define the execution flow program, but in if else nested there is a branch in the branch.
+  
+   So that when a condition is met there is still another branch that determines a condition is true or not.
+   
+  Format :
+    
+    if (condition1) {
+      
+      if (condition2) {
+      
+        // if the condition1 and condition2 is true then code 'A' will be executed
+      
+      else{
+      
+        // if the condition1 is true and condition2 is false then code 'B' will be execute 
+      
+      }
+      
+    }else{
+    
+      // if the condition1 is false then code 'C' will be execute.
+      
+    }
 
 - For more details, please open Main.java in repositories suardi26/Java-Basic/If Statement/src/com/practice/
 
@@ -105,6 +129,30 @@ Note !!! : script ini diperuntukan bagi yang baru memulai belajar java. Jika Sud
     }else{
     
       // Kode ini akan di eksekusi  jika semua kondisi tidak benar.
+      
+    }
+    
+ - if else nested adalah teknik pemrograman yang digunakan untuk menentukan alur eksekusi program, namun pada if else nested terdapat percabangan 
+
+   di dalam percabangan. Sehingga pada saat suatu kondisi terpenuhi masih ada percabangan lain yang menentukan suatu kondisi bernilai benar atau tidak.
+   
+  Format :
+    
+    if (kondisi1) {
+      
+      if (kondisi2) {
+      
+        // Jika Kondisi1 dan Kondisi2 benar maka Kode 'A' akan di eksekusi.
+      
+      else{
+      
+        // Jika Kondisi1 benar dan Kondisi2 salah maka Kode 'B' akan di eksekusi.
+      
+      }
+      
+    }else{
+    
+      // Jika Kondisi1 salah maka Kode 'C' akan di eksekusi.
       
     }
 
