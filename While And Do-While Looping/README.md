@@ -32,6 +32,8 @@ Notes !!! : this script is intended for those who are just starting to learn jav
 
 - Have a nice day. 
 
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
 Note !!! : script ini diperuntukan bagi yang baru memulai belajar java. Jika Sudah Memahami Java dasar Silahkan Di skip.
 
 ----------------------------------------While And Do-While Looping----------------------------------------
