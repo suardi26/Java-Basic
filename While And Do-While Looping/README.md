@@ -49,11 +49,11 @@ Note !!! : script ini diperuntukan bagi yang baru memulai belajar java. Jika Sud
         }
           
           
-- Sama seperti 'While', 'do-while' adalah teknik pemrograman yang digunakan untuk melakukan proses perulangan,
-  
-  namun pada 'do-while' mengeksekusi pernyataan terlebih dahulu kemudian memeriksa suatu kondisi. sedangkan pada 'while' memeriksa suatu kondisi
-  
-  terlebih dahulu setelah itu pernyataan akan dieksekusi bila kondisi terpenuhi / bernilai benar.
+- Sama seperti 'While', 'do-while' adalah teknik pemrograman yang digunakan untuk melakukan proses perulangan, namun pada 'do-while' mengeksekusi
+
+  pernyataan terlebih dahulu kemudian memeriksa suatu kondisi. sedangkan pada 'while' memeriksa suatu kondisi terlebih dahulu setelah itu pernyataan
+
+  akan dieksekusi bila kondisi terpenuhi / bernilai benar.
   
   Format :
   
