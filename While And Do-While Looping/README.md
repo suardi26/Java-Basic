@@ -41,11 +41,12 @@ Note !!! : script ini diperuntukan bagi yang baru memulai belajar java. Jika Sud
   sehingga kode program dapat dieksekusi berulang kali sesuai dengan kondisi yang ditentukan.
   
   Format : 
-          while (kondisi){
-            
-            // Kode akan dieksekusi.
-            
-          }
+  
+        while (kondisi){
+
+          // Kode akan dieksekusi.
+
+        }
           
           
 - Sama seperti 'While', 'do-while' adalah teknik pemrograman yang digunakan untuk melakukan proses perulangan,
