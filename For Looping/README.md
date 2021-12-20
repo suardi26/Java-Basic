@@ -86,7 +86,7 @@ Note !!! : script ini diperuntukan bagi yang baru memulai belajar java. Jika Sud
         
 - Nested For / For bersarang sama seperti 'for loop' yang merupakan teknik pemrograman yang digunakan untuk melakukan proses perulangan sampai suatu kondisi tidak 
 
-  terpenuhi.namun pada 'nested for' terdapat perulangan dalam perulangan.
+  terpenuhi. namun pada 'nested for' terdapat perulangan dalam perulangan.
   
   Format :
   
