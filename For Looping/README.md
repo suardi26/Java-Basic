@@ -30,7 +30,7 @@ Notes !!! : this script is intended for those who are just starting to learn jav
 
         for (Initialization; condition; Increment/decrement) {
 
-            for((Initialization; condition; Increment/decrement){
+            for(Initialization; condition; Increment/decrement){
 
             // Code will be executed.
 
