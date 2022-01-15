@@ -37,8 +37,8 @@ Note !!! : script ini diperuntukan bagi yang baru memulai belajar java. Jika Sud
   Contoh :
   
             int[ ] arrayInt = {2,4,6,8};
-                                | | | |
-                        index = 0 1 2 3
+                               | | | |
+                       index = 0 1 2 3
               
 - Untuk lebih jelasnya, silahkan buka Main.java di repositori suardi26/Java-Basic/Array/src/com/practice/.
 
