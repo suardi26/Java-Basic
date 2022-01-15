@@ -12,7 +12,7 @@ Notes !!! : this script is intended for those who are just starting to learn jav
     
   Example :
   
-    int[] arrayInt = {2,4,6,8};
+    int[ ] arrayInt = {2,4,6,8};
                       | | | |
               index = 0 1 2 3
               
@@ -36,7 +36,7 @@ Note !!! : script ini diperuntukan bagi yang baru memulai belajar java. Jika Sud
     
   Contoh :
   
-    int[] arrayInt = {2,4,6,8};
+    int[ ] arrayInt = {2,4,6,8};
                       | | | |
               index = 0 1 2 3
               
