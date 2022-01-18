@@ -56,7 +56,7 @@ public class Main {
 
         // Comparison Array.
         System.out.println("\n= = = = = Comparison Array = = = = =");
-        int[] dataArray6 = {10,2,3,4,5,6,7,8,9,10};
+        int[] dataArray6 = {10,5,3,4,5,6,7,8,9,10};
         int[] dataArray7 = {1,2,3,4,5,6,7,8,9,10};
 
         printDataArray("Data Array 6",dataArray6);
@@ -84,11 +84,10 @@ public class Main {
         printDataArray("Data Array 8 => ",dataArray8);
         Arrays.sort(dataArray8);
         printDataArray("Data Array 8 (Sort) => ",dataArray8);
-
-
+        
         // Search Index Data Array
         System.out.println("\n= = = = = Search Index Data Array = = = = =");
-        int number = 9;
+        int number = 5;
         int index = Arrays.binarySearch(dataArray8,number);
         System.out.printf("Angka %d terdapat pada index ke %d yang ada pada Data Array 8. \n",number,index);
 
