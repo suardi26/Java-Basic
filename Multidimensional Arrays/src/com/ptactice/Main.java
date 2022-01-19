@@ -6,7 +6,8 @@ public class Main {
 
     public static void main (String[] args){
 
-        //
+        // Array 2 dimensi adalah array yang memiliki 2 indeks yaitu baris dan kolom.
+        // Array 2 dimensi termasuk array multidimensi karena memiliki lebih dari 1 index.
         System.out.println("= = = = = Array Multidimensi = = = = =");
 
         // Assignment variabel array multidimensi
