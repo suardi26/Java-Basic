@@ -54,10 +54,12 @@ Note !!! : script ini diperuntukan bagi yang baru memulai belajar java. Jika Sud
 
     - 'equals' untuk membandingkan kedua nilai string apakah bernilai sama.
     
-    - 'compareTo' untuk membandingkan nilai String berdasarkan abjad, ketika nilai String yang pertama lebih besar dari nilai String kedua maka nilainya positif namun ketika string kedua lebih besar dari string pertama maka nilainya negatif, ketika kedua nilai sama maka akan bernilai 0.
+    - 'compareTo' untuk membandingkan nilai String berdasarkan abjad, ketika nilai String yang pertama lebih besar dari nilai String kedua maka nilainya positif namun ketika 
+    
+       string kedua lebih besar dari string pertama maka nilainya negatif, ketika kedua nilai sama maka akan bernilai 0.
 
     - Concatenation '+' digunakan untuk penggabungan nilai String.
 
-    - Untuk lebih jelasnya, silahkan buka Main.java di repositori suardi26/Java-Basic/String/src/com/practice/.
+- Untuk lebih jelasnya, silahkan buka Main.java di repositori suardi26/Java-Basic/String/src/com/practice/.
 
-    - Semoga harimu menyenangkan.
+- Semoga harimu menyenangkan.
