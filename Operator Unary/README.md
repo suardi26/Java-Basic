@@ -14,15 +14,19 @@ Notes !!! : this script is intended for those who are just starting to learn jav
 
 - Increment prefix.
   
-    Example : int numberA = 10;
-              System.out.printf("Value is ",++numberA);
-              //Note : In the Increment prefix the result is 11 because the value of the variable "numberA" is added up first and then displayed. 
+        Example : int numberA = 10;
+
+                System.out.printf("Value is ",++numberA);
+
+                //Note : In the Increment prefix the result is 11 because the value of the variable "numberA" is added up first and then displayed. 
 
 - Increment postfix. 
 
-    Example : int numberB = 10;
-              System.out.printf("Value is ",numberB++);
-              //Note : In the Increment postfix the result is 10 because the value of the variable "numberB" is displayed first and then added up.
+        Example : int numberB = 10;
+        
+                  System.out.printf("Value is ",numberB++);
+        
+                  //Note : In the Increment postfix the result is 10 because the value of the variable "numberB" is displayed first and then added up.
               
 - Invert/Negation (inverts a value of boolean data type).
 
