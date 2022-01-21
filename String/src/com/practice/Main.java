@@ -9,12 +9,6 @@ public class Main {
         /*
          String adalah Tipe data yang dapat menampung kumpulan karakter misalnya kata atau kalimat.
          String object pada java bersidat immutable, maka ketika string itu dibuat, maka nilainya tidak bisa diganti.
-
-         Memory pada Java :
-         Heap
-         Stack
-         String Pool memory Khusus String.
-
          */
         String word = "good";
         char[] charc =  {'g','o','o','d'};
