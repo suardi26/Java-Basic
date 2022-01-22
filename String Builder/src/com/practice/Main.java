@@ -43,8 +43,8 @@ public class Main {
         stringBuilder.reverse();
         printDataBuilder(stringBuilder);
         stringBuilder.reverse();
-        
-        //
+
+        // toString adalah method yang digunakan untuk mengubah nilai StringBuilder menjadi nilai String (Casting to String).
         String kalimat = stringBuilder.toString();
         System.out.println("Value String : "+kalimat);
         System.out.println("Length : "+kalimat.length());
