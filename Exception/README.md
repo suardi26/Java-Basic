@@ -14,7 +14,9 @@ Notes !!! : this script is intended for those who are just starting to learn jav
 
       - Try.
            
-        Try is a keyword that is used to try to run a program block that has the potential to cause an error at runtime. This keyword is paired with the catch or finally keyword.
+        Try is a keyword that is used to try to run a program block that has the potential to cause an error at runtime. This keyword is paired with the catch or finally       
+        
+        keyword.
         
       - Catch.
         
