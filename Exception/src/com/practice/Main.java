@@ -27,7 +27,7 @@ public class Main {
             Ada beberapa keywword pada java dalam hal Exception Handling.
             1 . Try
                 try adalah keyword yang digunakan untuk mencoba menjalankan block program yang berpotensi menyebabkan error pada saat
-                runtime keyword ini dipasangkan dengan keyword catch atau finallu.
+                runtime keyword ini dipasangkan dengan keyword catch atau finally.
             2.  Catch
                 Catch adalah keyword yang digunakan untuk menangkap kesalahan yang terjadi dari block try dan dapat ditampilkan
                 pada block catch ini.
@@ -41,8 +41,6 @@ public class Main {
             5.  throws
                 throws adalah keyword yang digunakan pada suatu method yang mungkin menghasilkan suatu kesalahan sehingga untuk
                 memanggil method tersebut maka harus dilakukan handling exception (try-catch) terlebih dahulu.
-                
-
         */
 
         // Exception Handling {try,catch,finally}
