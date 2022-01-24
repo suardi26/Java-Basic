@@ -12,31 +12,31 @@ Notes !!! : this script is intended for those who are just starting to learn jav
   
 - There are several keywords in java in terms of Exception Handling : 
 
-      - Try.
-           
-        Try is a keyword that is used to try to run a program block that has the potential to cause an error at runtime. This keyword is paired with the catch or finally       
-        
-        keyword.
-        
-      - Catch.
-        
-        Catch is the keyword used to catch errors that occur from the try block and can be displayed in this catch block.
-        
-      - Finally.
-       
-        Finally is the keyword used to run the program block that will be executed after the program block in the try and catch. 
-        
-        The program block in finally will be executed when there is an error or no error.
-        
-      - Throw
-       
-        throw is the keyword used to throw a manually generated error message.
-        
-        format : 'throw new Exception("Error Occurred!!")'.
-        
-      - Throws
-       
-        throws is a keyword used in a method that might generate an error, so to call the method, an exception handling (try-catch) must be done first.
+   - Try.
+
+     Try is a keyword that is used to try to run a program block that has the potential to cause an error at runtime. This keyword is paired with the catch or finally       
+
+     keyword.
+
+   - Catch.
+
+     Catch is the keyword used to catch errors that occur from the try block and can be displayed in this catch block.
+
+   - Finally.
+
+     Finally is the keyword used to run the program block that will be executed after the program block in the try and catch. 
+
+     The program block in finally will be executed when there is an error or no error.
+
+   - Throw
+
+     throw is the keyword used to throw a manually generated error message.
+
+     format : 'throw new Exception("Error Occurred!!")'.
+
+   - Throws
+
+     throws is a keyword used in a method that might generate an error, so to call the method, an exception handling (try-catch) must be done first.
         
 - For more details, please open Main.java in repositories suardi26/Java-Basic/Exception/src/com/practice/
 
