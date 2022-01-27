@@ -1,0 +1,2 @@
+google,facebook,twitter
+youtube,instagram
