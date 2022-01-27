@@ -114,7 +114,7 @@ public class Main {
             System.out.print("Jumlah character adalah "+fileInputStream2.available()+" Character.\n");// mengambil panjang character pada file.
 
             bufferedInputStream.mark(50); // Memberi mark dengan parameter 'readlimit' untuk batas read data,
-            // sehingga dapat dilakukan pemanggilan method reset.
+            // sehingga dapat dilakukan pemanggilan method 'reset'.
 
             // Menghitung Durasi Membaca File Menggunakan Buffered Byte Stream.
             tStart = System.nanoTime();
