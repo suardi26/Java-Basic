@@ -1,7 +1,9 @@
 package com.practice;
 
 // import library java.
-import java.sql.*;
+import java.sql.PreparedStatement;
+import java.sql.ResultSet;
+import java.sql.SQLException;
 import java.util.Scanner;
 
 // import class.
@@ -19,7 +21,6 @@ public class Main {
     static PreparedStatement statement;
     public static void main(String[] args){
 
-        Connect.connect();
         Scanner enq = new Scanner(System.in);
         String ops,nama,jur,no_tlp;
         int finalStb;

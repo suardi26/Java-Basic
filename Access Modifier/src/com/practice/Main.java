@@ -3,6 +3,17 @@ package com.practice;
 public class Main {
 
     public static void main(String[] args){
+        // Access modifier adalah sebuah "hak akses" yang diberikan kepada sebuah class/method/variabel dengan tujuan untuk menjaga
+        // integritas dari data, ketika ingin diakses oleh object lain.
+
+        // Access modifier : public, private, protected, default (no modifier).
+
+        // modifier public    : method atau variabel dapat diakses pada class yang berbeda serta pada
+        //                      package yang berbeda.
+        // modifier private   : method atau variabel hanya dapat diakses pada class yang sama.
+        // modifier protected : method atau variabel dapat diakses pada class yang berbeda dalam package yang sama
+        //                      serta subclassnya.
+        // modifier default   : method atau variabel dapat diakses pada class yang berbeda dalam package yang sama.
 
         // method dapat diakses karena meodifier (public), dapat diakses pada class yang berbeda bahkan pada package yang berbeda
         // dengan melakukan import class.
