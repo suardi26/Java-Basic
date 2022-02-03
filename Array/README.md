@@ -34,7 +34,7 @@
 - <samp>Format :</samp>
 
  ```java
-  tipe Data[] namaVariabel = {data1, data2, data3, ...}
+  tipeData[] namaVariabel = {data1, data2, data3, ...}
   ```
   
 - <samp>Contoh :</samp>
