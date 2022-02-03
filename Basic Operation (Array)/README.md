@@ -78,11 +78,23 @@
 
   <samp>data array 1 dan data array 2. ketika data 1 lebih besar dari data 2 maka  return value adalah 1, namun  ketika data 2 lebih besar</samp>
   
-  <samp>greater than data 1 then the return value is -1 and when 2 is data array the same value will return a return value of 0.</samp>
+  <samp>dari data 1 maka return value adalah -1 dan ketika 2 data array bernilai sama maka akan menghasilkan return value 0.</samp>
  
+- <samp>Fungsi 'mismatch' pada class 'Arrays'  yaitu untuk mencari nilai yang berbeda pada kedua data array. fungsi 'mismatch'</samp>  
+  
+  <samp>memiliki 2 parameter yaitu data array 1 dan data array 2. jika kedua data memiliki perbedaan data lebih dari 1 index</samp>   
+  
+  <samp>maka data yang berbeda pertama akan diambil indexnya dan akan dimasukan pada return value.</samp>
  
- 
+- <samp>Fungsi 'sort' pada class 'Arrays' yaitu mengurutkan data dari nilai terkecil sampai nilai terbesar</samp>
 
+  <samp>pada data array. fungsi 'sort' memiliki 1 parameter yaitu data array.</samp>
+
+- <samp>Fungsi 'binarySearch' pada class 'Arrays' yaitu mencari data dan mengembalikan index data sebagai return value. fungsi 'binarySearch'</samp> 
+ 
+  <samp>function 'binarySearch' has 2 parameters, namely the data array and the value to be searched. When the searched</samp> 
+  
+  <samp>value is in the data array and more than one, the first data index will be taken.</samp>
  
 
   
