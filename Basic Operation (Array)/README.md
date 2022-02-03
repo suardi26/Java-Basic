@@ -12,3 +12,7 @@
 - <samp>Copying array data by specifying the range index can use the 'copyOfRange' function in the 'Arrays' class and has 3 parameters,</samp> 
   
   <samp> namely array data, the beginning and end of the range index to be copied.</samp>
+  
+-  <samp>Filling Values in Arrays with the same Value can use the 'fill' function in the 'Arrays' class. The 'fill' function has 2 parameters,</samp> 
+
+   <samp>namely the Array data and the value of each Array index.</samp>
