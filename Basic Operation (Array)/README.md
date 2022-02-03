@@ -21,6 +21,8 @@
  
   <samp>function 'equals' has 2 parameters, namely data Array 1 and data Array 2 and has a return value is a boolean value (true / false).</samp>
   
-- <samp>The 'compare' function in the 'Arrays' class is to compare 2 arrays of data. the 'compare' function has 2 parameters, namely data array 1</samp>
+- <samp>The 'compare' function in the 'Arrays' class is to compare 2 arrays of data. the 'compare' function has 2 parameters, </samp>
 
-  <samp>and data array 2. when data 1 is greater than data 2 then the return value is 1, but when data 2 is greater than data 1 then the return value is -1</samp>
+  <samp>namely data array 1 and data array 2. when data 1 is greater than data 2 then the return value is 1, but when data 2 is greater than</samp>
+  
+  <samp>data 1 then the return value is -1 and when 2 is data array the same value will return a return value of 0.</samp>
