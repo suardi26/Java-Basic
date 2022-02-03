@@ -9,6 +9,6 @@
  
   <samp>and has 2 parameters, namely the Array data and the index length of the Array data to be copied.</samp>
   
-- <samp>Copying array data by specifying the range index can use the 'copyOfRange' function in the 'Arrays' class and has 3 parameters, namely array data,</samp> 
+- <samp>Copying array data by specifying the range index can use the 'copyOfRange' function in the 'Arrays' class and has 3 parameters,</samp> 
   
-  <samp>the beginning and end of the range index to be copied.</samp>
+  <samp> namely array data, the beginning and end of the range index to be copied.</samp>
