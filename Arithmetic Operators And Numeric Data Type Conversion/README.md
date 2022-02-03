@@ -5,9 +5,9 @@
 
 - <samp>Multiplication and division operators will be performed first, then addition and subtraction operations.</samp>
 
-- <samp>If the multiplication and division operators are combined they will be executed from left to right, as well as addition and subtraction,</samp>
+- <samp>If the multiplication and division operators are combined they will be executed from left to right, as well as addition </samp>
   
-  <samp>will be executed from left to right.</samp>
+  <samp>and subtraction, will be executed from left to right.</samp>
 
 - <samp>When you want to perform an addition or subtraction operation first, you can use the '( )' symbol.</samp> 
   
@@ -30,9 +30,9 @@
   
   ```  
   </samp>
--<samp> Note: The variable 'bt' with byte data type will not be the same as the value of variable 'i' of type Integer, because the capacity of the byte</samp>
+- <samp>Note: The variable 'bt' with byte data type will not be the same as the value of variable 'i' of type Integer, because the capacity </samp>
 
-  <samp>data type is 8 bits, with intervals ranging from -128 to 127 while the value of the variable 'i' is integer data type is 257.</samp>
+  <samp>of the byte data type is 8 bits, with intervals ranging from -128 to 127 while the value of the variable 'i' is integer data type is 257.</samp>
 
 - <samp>For more details, please open Main.java in repositories suardi26/Java-Basic/Arithmetic Operators And Numeric Data Type Conversion/src/com/practice/<samp>
 
