@@ -14,10 +14,4 @@
 </samp>
 - <samp>Example :</samp>
 
-<samp>
-  ```java
-   int[ ] arrayInt = {2,4,6,8};
-                      | | | |
-              index = 0 1 2 3
-  ```
-</samp>
+
