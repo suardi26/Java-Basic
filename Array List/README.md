@@ -23,11 +23,13 @@
 
 - <samp>dapat berubah secara dinamis sesuai jumlah data yang dimasukan.</samp>
 
-- <samp>Ketika array tidak bisa menyimpan beberapa data dengan tipe data yang berbeda, maka pada Array list dapat menyimpan beberapa data dengan tipe data yang berbeda.</samp>
-
-- <samp>Ketika Array jumlah nilainya tidak fleksibel, karena jumlah nilai array tidak dapat dijumlahkan atau dikurangi sedangkan Array List dapat menampung</samp> 
+- <samp>Ketika array tidak bisa menyimpan beberapa data dengan tipe data yang berbeda, maka pada Array list dapat menyimpan beberapa</samp> 
  
- <samp>data secara dinamis artinya ukurannya dapat berubah sesuai jumlah data yang dimasukan.</samp>
+ <samp>data dengan tipe data yang berbeda.</samp>
+
+- <samp>Ketika Array jumlah nilainya tidak fleksibel, karena jumlah nilai array tidak dapat dijumlahkan atau dikurangi sedangkan 
+ 
+  <samp>Array List dapat menampung data secara dinamis artinya ukurannya dapat berubah sesuai jumlah data yang dimasukan.</samp>
   
 - <samp>Untuk lebih jelasnya, silahkan buka [Main.java](https://github.com/suardi26/Java-Basic/blob/main/Array%20List/src/com/practice/Main.java) di repositori suardi26/Java-Basic/Array List/src/com/practice/.</samp>
 
