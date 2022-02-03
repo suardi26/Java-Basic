@@ -25,7 +25,7 @@
 
 - <samp>Ketika array tidak bisa menyimpan beberapa data dengan tipe data yang berbeda, maka pada Array list dapat menyimpan beberapa</samp> 
  
- <samp>data dengan tipe data yang berbeda.</samp>
+  <samp>data dengan tipe data yang berbeda.</samp>
 
 - <samp>Ketika Array jumlah nilainya tidak fleksibel, karena jumlah nilai array tidak dapat dijumlahkan atau dikurangi sedangkan 
  
