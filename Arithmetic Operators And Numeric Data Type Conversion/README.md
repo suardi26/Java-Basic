@@ -7,23 +7,33 @@
 
 - <samp>If the multiplication and division operators are combined they will be executed from left to right, as well as addition and subtraction,</samp>
   
-  will be executed from left to right.</samp>
+  <samp>will be executed from left to right.</samp>
 
 - <samp>When you want to perform an addition or subtraction operation first, you can use the '( )' symbol.</samp> 
   
-- <samp>javaFor example : </samp>
+- <samp>For example : </samp>
    <samp>
   ```java
-  int result = (2 + 3) * 5;</samp>
+  int result = (2 + 3) * 5;
   ```
-  <samp> 
-- And for the conversion/casting of numeric data types in java, must be considered is when converting from data types that have a large interval capacity to data types that have a small interval capacity.
+  </samp>
+- <samp>And for the conversion/casting of numeric data types in java, must be considered is when converting from data types that have a large </samp>
+    
+  <samp>interval capacity to data types that have a small interval capacity.</samp>
 
-- For example : int i = 257;
-                bytes bt = (bytes) i;
+- <samp>For example : </samp>
+  <samp>
+  ```java
+    int i = 257;
                
-- Note: The variable 'bt' with byte data type will not be the same as the value of variable 'i' of type Integer, because the capacity of the byte data type is 8 bits, with intervals ranging from -128 to 127 while the value of the variable 'i' is integer data type is 257.
+    bytes bt = (bytes) i;
+  
+  ```  
+  </samp>
+-<samp> Note: The variable 'bt' with byte data type will not be the same as the value of variable 'i' of type Integer, because the capacity of the byte</samp>
 
-- For more details, please open Main.java in repositories suardi26/Java-Basic/Arithmetic Operators And Numeric Data Type Conversion/src/com/practice/
+  <samp>data type is 8 bits, with intervals ranging from -128 to 127 while the value of the variable 'i' is integer data type is 257.</samp>
 
-- Have a nice day.
+- <samp>For more details, please open Main.java in repositories suardi26/Java-Basic/Arithmetic Operators And Numeric Data Type Conversion/src/com/practice/<samp>
+
+- <samp>Have a nice day.</samp>
