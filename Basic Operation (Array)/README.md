@@ -60,9 +60,17 @@
  
   <samp>dan memiliki 2 parameter yaitu data Array serta panjang index dari data Array yang akan di copy.</samp>
  
-- <samp>Menyalin data array dengan menentukan range indexnya dapat menggunakan fungsi 'copyOfRange' pada class 'Arrays'</samp> 
+- <samp>Copy data array dengan menentukan range indexnya dapat menggunakan fungsi 'copyOfRange' pada class 'Arrays'</samp> 
   
   <samp> dan memiliki 3 parameter  yaitu data array, awal dan akhir indeks rentang yang akan disalin.</samp>
+ 
+- <samp>Mengisi Nilai pada Array dengan Nilai yang sama dapat menggunakan fungsi 'fill' pada class 'Arrays'.</samp> 
+
+  <samp>Fungsi 'fill' memiliki 2 parameter yaitu data Array dan nilai dari setiap index Array.</samp>
+ 
+
+ 
+
   
 
 
