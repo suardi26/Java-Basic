@@ -13,6 +13,6 @@
   
   <samp> namely array data, the beginning and end of the range index to be copied.</samp>
   
--  <samp>Filling Values in Arrays with the same Value can use the 'fill' function in the 'Arrays' class. The 'fill' function has 2 parameters,</samp> 
+-  <samp>Filling Values in Arrays with the same Value can use the 'fill' function in the 'Arrays' class. The 'fill' function </samp> 
 
-   <samp>namely the Array data and the value of each Array index.</samp>
+   <samp>has 2 parameters, namely the Array data and the value of each Array index.</samp>
