@@ -90,11 +90,11 @@
 
   <samp>pada data array. fungsi 'sort' memiliki 1 parameter yaitu data array.</samp>
 
-- <samp>Fungsi 'binarySearch' pada class 'Arrays' yaitu mencari data dan mengembalikan index data sebagai return value. fungsi 'binarySearch'</samp> 
+- <samp>Fungsi 'binarySearch' pada class 'Arrays' yaitu mencari data dan mengembalikan index data sebagai return value.</samp> 
  
-  <samp>function 'binarySearch' has 2 parameters, namely the data array and the value to be searched. When the searched</samp> 
+  <samp>fungsi 'binarySearch' memiliki 2 parameter yaitu data array dan nilai yang akan dicari. Ketika nilai yang dicari terdapat pada data array</samp> 
   
-  <samp>value is in the data array and more than one, the first data index will be taken.</samp>
+  <samp>dan lebih dari satu maka data yang pertama akan diambil indexnya./samp>
  
 
   
