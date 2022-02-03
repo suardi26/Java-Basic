@@ -32,7 +32,9 @@
   </samp>
 - <samp>Note: The variable 'bt' with byte data type will not be the same as the value of variable 'i' of type Integer, because the capacity </samp>
 
-  <samp>of the byte data type is 8 bits, with intervals ranging from -128 to 127 while the value of the variable 'i' is integer data type is 257.</samp>
+  <samp>of the byte data type is 8 bits, with intervals ranging from -128 to 127 while the value of the variable 'i' is integer</samp> 
+  
+  <samp>data type is 257.</samp>
 
 - <samp>For more details, please open Main.java in repositories suardi26/Java-Basic/Arithmetic Operators And Numeric Data Type Conversion/src/com/practice/<samp>
 
