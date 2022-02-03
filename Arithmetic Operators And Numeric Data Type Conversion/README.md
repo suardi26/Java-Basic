@@ -19,9 +19,7 @@
   </samp>
 - <samp>And for the conversion/casting of numeric data types in java, must be considered is when converting from data types</samp> 
   
-  <samp>that have a large </samp>
-    
-  <samp>interval capacity to data types that have a small interval capacity.</samp>
+  <samp>that have a large interval capacity to data types that have a small interval capacity.</samp>
 
 - <samp>For example : </samp>
   <samp>
