@@ -18,6 +18,14 @@
    //               | | | |
    //       index = 0 1 2 3
   ```
+  
+- <samp>For more details, please open [Main.java](https://github.com/suardi26/Java-Basic/blob/main/Array/src/practice/com/Main.java) in repositories suardi26/Java-Basic/Array/src/com/practice/</samp>
+
+- <samp>Have a nice day.</samp>
+
+---
+
+##### Note !!! : script ini diperuntukan bagi yang baru memulai belajar java. Jika Sudah Memahami Java dasar Silahkan Di skip.
 
 
 
