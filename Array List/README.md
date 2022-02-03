@@ -27,7 +27,7 @@
 
 - <samp>Ketika Array jumlah nilainya tidak fleksibel, karena jumlah nilai array tidak dapat dijumlahkan atau dikurangi sedangkan Array List dapat menampung</samp> 
  
-  <samp>data secara dinamis artinya ukurannya dapat berubah sesuai jumlah data yang dimasukan.</samp>
+ <samp>data secara dinamis artinya ukurannya dapat berubah sesuai jumlah data yang dimasukan.</samp>
   
 - <samp>Untuk lebih jelasnya, silahkan buka [Main.java](https://github.com/suardi26/Java-Basic/blob/main/Array%20List/src/com/practice/Main.java) di repositori suardi26/Java-Basic/Array List/src/com/practice/.</samp>
 
