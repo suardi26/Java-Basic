@@ -7,6 +7,6 @@
 
 - <samp>Copy Array data can use the 'for' loop or can use the 'copyOf' function from the 'Arrays' class</samp>  
  
-  <samp>and has 2 parameters, namely the Array data</samp>
+  <samp>and has 2 parameters, namely the Array data and the index length of the Array data to be copied.</samp>
   
 - 
