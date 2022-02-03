@@ -21,3 +21,22 @@
 
 ---
 
+##### Note !!! : script ini diperuntukan bagi yang baru memulai belajar java. Jika Sudah Memahami Java dasar Silahkan Di skip.
+
+- <samp>Access modifier adalah sebuah "hak akses" yang diberikan kepada sebuah class/method/variabel dengan tujuan untuk menjaga integritas dari data,</samp> 
+  
+  <samp>ketika ingin diakses oleh object lain.</samp>
+        
+- <samp>Access modifier : public, private, protected, default (no modifier).</samp>
+        
+- <samp>modifier public    : method atau variabel dapat diakses pada class yang berbeda serta pada package yang berbeda.</samp>
+
+- <samp>modifier private   : method atau variabel hanya dapat diakses pada class yang sama.</samp>
+
+- <samp>modifier protected : method atau variabel dapat diakses pada class yang berbeda dalam package yang sama serta subclassnya.</samp>
+
+- <samp>modifier default   : method atau variabel dapat diakses pada class yang berbeda dalam package yang sama.</samp>
+
+- <samp>Untuk lebih jelasnya, silahkan buka Main.java di repositori suardi26/Java-Basic/Access Modifier/src/com/practice/.</samp>
+
+- <samp>Semoga harimu menyenangkan.</samp>
