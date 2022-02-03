@@ -92,9 +92,14 @@
 
 - <samp>Fungsi 'binarySearch' pada class 'Arrays' yaitu mencari data dan mengembalikan index data sebagai return value.</samp> 
  
-  <samp>fungsi 'binarySearch' memiliki 2 parameter yaitu data array dan nilai yang akan dicari. Ketika nilai yang dicari terdapat pada data array</samp> 
+  <samp>fungsi 'binarySearch' memiliki 2 parameter yaitu data array dan nilai yang akan dicari. Ketika nilai yang dicari terdapat pada </samp> 
   
-  <samp>dan lebih dari satu maka data yang pertama akan diambil indexnya./samp>
+  <samp>data array dan lebih dari satu maka data yang pertama akan diambil indexnya./samp>
+   
+- <samp>Untuk lebih jelasnya, silahkan buka [Main.java](https://github.com/suardi26/Java-Basic/blob/main/Basic%20Operation%20(Array) di repositori suardi26/Java-Basic/Basic Operation (Array)/src/com/practice/.
+
+- <samp>Semoga harimu menyenangkan.</samp>
+
  
 
   
