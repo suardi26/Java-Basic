@@ -36,6 +36,8 @@
   
   <samp>data type is 257.</samp>
 
-- <samp>For more details, please open Main.java in repositories suardi26/Java-Basic/Arithmetic Operators And Numeric Data Type Conversion/src/com/practice/<samp>
+- <samp>For more details, please open [Main.java](https://github.com/suardi26/Java-Basic/blob/main/Arithmetic%20Operators%20And%20Numeric%20Data%20Type%20Conversion/src/com/practice/Main.java) in repositories suardi26/Java-Basic/Arithmetic Operators And Numeric Data Type Conversion</samp>
+  
+  <samp>/src/com/practice/<samp>
 
 - <samp>Have a nice day.</samp>
