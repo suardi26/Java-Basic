@@ -1,7 +1,9 @@
 ## Access Modifier
 ##### Notes !!! : this script is intended for those who are just starting to learn java. If you already understand basic Java, please skip it.
 
-- <samp>Access modifier is an "access rights" given to a class/method/variable in order to maintain the integrity of the data, when it wants to be accessed by other objects.</samp>
+- <samp>Access modifier is an "access rights" given to a class/method/variable in order to maintain the integrity of the data, 
+  
+        when it wants to be accessed by other objects.</samp>
         
 - <samp>Access modifier : public, private, protected, default (no modifier).</samp>
         
