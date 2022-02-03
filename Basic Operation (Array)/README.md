@@ -32,3 +32,19 @@
   <samp>has 2 parameters, namely data array 1 and data array 2. if the two data have different data indexes by more than 1 index,</samp>   
   
   <samp>the first different data will be taken for the index and will be included in the return value.</samp>
+  
+- <samp>The 'sort' function in the 'Arrays' class is to sort the data from the smallest value to the largest value in the data array.</samp>
+
+  <samp>the 'sort' function has 1 parameter which is data array.</samp>
+  
+- <samp>The 'binarySearch' function in the 'Arrays' class searches for data and returns the index data as a return value.</samp> 
+ 
+  <samp>function 'binarySearch' has 2 parameters, namely the data array and the value to be searched. When the searched</samp> 
+  
+  <samp>value is in the data array and more than one, the first data index will be taken.</samp>
+  
+- For more details, please open [Main.java](https://github.com/suardi26/Java-Basic/blob/main/Basic%20Operation%20(Array)/src/com/practice/Main.java) in repositories suardi26/Java-Basic/Basic Operation (Array)/src/com/practice/
+
+- Have a nice day.
+
+---
