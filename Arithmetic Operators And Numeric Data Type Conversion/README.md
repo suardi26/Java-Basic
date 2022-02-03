@@ -41,3 +41,11 @@
   <samp>/src/com/practice/<samp>
 
 - <samp>Have a nice day.</samp>
+
+  ---
+
+##### Note !!! : script ini diperuntukan bagi yang baru memulai belajar java. Jika Sudah Memahami Java dasar Silahkan Di skip.
+
+-  <samp>Operasi aritmatika terdiri dari penjumlahan, pengurangan, perkalihan,pembagian serta modulus. </samp>
+
+-  <samp>Operasi Perkalian dan pembagian akan dikerjakan terlebih dahulu, kemudian Operasi penjumlahan dan pengurangan.</samp>
