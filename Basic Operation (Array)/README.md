@@ -49,7 +49,6 @@
 
 ---
  
-## Basic Operation (Array)
 ##### Note !!! : script ini diperuntukan bagi yang baru memulai belajar java. Jika Sudah Memahami Java dasar Silahkan Di skip.
  
 - <samp>Fungsi 'toString' pada class 'Arrays' adalah untuk mengkonversi data Array  menjadi nilai String. parameter pada</samp> 
