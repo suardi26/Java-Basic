@@ -37,6 +37,6 @@
 
 - <samp>modifier default   : method atau variabel dapat diakses pada class yang berbeda dalam package yang sama.</samp>
 
-- <samp>Untuk lebih jelasnya, silahkan buka Main.java di repositori suardi26/Java-Basic/Access Modifier/src/com/practice/.</samp>
+- <samp>Untuk lebih jelasnya, silahkan buka [Main.java](https://github.com/suardi26/Java-Basic/blob/main/Access%20Modifier/src/com/practice/Main.java) di repositori suardi26/Java-Basic/Access Modifier/src/com/practice/.</samp>
 
 - <samp>Semoga harimu menyenangkan.</samp>
