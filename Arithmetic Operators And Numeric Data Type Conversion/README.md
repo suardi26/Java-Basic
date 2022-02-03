@@ -49,3 +49,20 @@
 -  <samp>Operasi aritmatika terdiri dari penjumlahan, pengurangan, perkalihan,pembagian serta modulus. </samp>
 
 -  <samp>Operasi Perkalian dan pembagian akan dikerjakan terlebih dahulu, kemudian Operasi penjumlahan dan pengurangan.</samp>
+  
+-  <samp>Jika Operator perkalian dan pembagian digabung maka akan dikerjakan dari kiri ke kanan, begitu juga dengan penjumlahan dan pengurangan, </samp> 
+  
+   <samp>akan di eksekusi dari kiri ke kanan. </samp>
+
+-  <samp>Ketika ingin melakukan operasi penjumlahan atau pengurangan terlebih dahulu maka dapat menggunakan simbol '( )'. </samp>
+  
+- <samp>Contoh : </samp>
+   <samp>
+  ```java
+  int hasil = (2 + 3) * 5;
+  ```
+  </samp>
+  
+- <samp>Dan untuk konversi/casting tipe data numerik pada java, yang harus diperhatikan adalah pada saat melakukan konversi dari tipe data yang memiliki</samp> 
+  
+  <samp>kapasitas interval yang besar ke tipe data yang memiliki kapasitas interval yang kecil.</samp> 
