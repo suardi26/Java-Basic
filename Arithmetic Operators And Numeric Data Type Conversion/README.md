@@ -5,16 +5,18 @@
 
 - <samp>Multiplication and division operators will be performed first, then addition and subtraction operations.</samp>
 
-- <samp>If the multiplication and division operators are combined they will be executed from left to right, as well as addition and subtraction, will be executed from left to right.</samp>
+- <samp>If the multiplication and division operators are combined they will be executed from left to right, as well as addition and subtraction,</samp>
+  
+  will be executed from left to right.</samp>
 
 - <samp>When you want to perform an addition or subtraction operation first, you can use the '( )' symbol.</samp> 
   
 - <samp>javaFor example : </samp>
-  
+   <samp>
   ```java
-  <samp>int result = (2 + 3) * 5;</samp>
-  '''
-    
+  int result = (2 + 3) * 5;</samp>
+  ```
+  <samp> 
 - And for the conversion/casting of numeric data types in java, must be considered is when converting from data types that have a large interval capacity to data types that have a small interval capacity.
 
 - For example : int i = 257;
