@@ -27,9 +27,26 @@
 
 ##### Note !!! : script ini diperuntukan bagi yang baru memulai belajar java. Jika Sudah Memahami Java dasar Silahkan Di skip.
 
+- <samp>Array adalah sebuah variabel yang dapat menyimpan beberapa data dengan satu tipe data dalam sebuah variabel.</samp>
 
+- <samp>Setiap elemen pada array dapat diakses menggunakan indeks. Nilai indeks pada array dimulai dari 0.</samp>
 
+- <samp>Format :</samp>
 
+ ```java
+  tipe Data[] namaVariabel = {data1, data2, data3, ...}
+  ```
+  
+- <samp>Contoh :</samp>
 
+  ```java
+  int[] arrayInt = {2,4,6,8};
+   //               | | | |
+   //       index = 0 1 2 3
+  ```
+
+- <samp>Untuk lebih jelasnya, silahkan buka [Main.java](https://github.com/suardi26/Java-Basic/blob/main/Array/src/practice/com/Main.java) di repositori suardi26/Java-Basic/Array/src/com/practice/.</samp>
+
+- <samp>Semoga harimu menyenangkan.</samp>
 
 
