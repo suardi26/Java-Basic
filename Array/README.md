@@ -33,7 +33,7 @@
 
 - <samp>Format :</samp>
 
- ```java
+  ```java
   tipeData[] namaVariabel = {data1, data2, data3, ...}
   ```
   
