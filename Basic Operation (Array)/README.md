@@ -74,6 +74,14 @@
  
   <samp>adalah nilai boolean (true / false).</samp>
  
+- <samp>Fungsi 'compare' pada class 'Arrays' yaitu untuk membandingkan 2 buah array data. fungsi 'compare' memiliki 2 parameter yaitu data array 1</samp>
+
+  <samp>namely data array 1 and data array 2. when data 1 is greater than data 2 then the return value is 1, but when data 2 is </samp>
+  
+  <samp>greater than data 1 then the return value is -1 and when 2 is data array the same value will return a return value of 0.</samp>
+ 
+ 
+ 
 
  
 
