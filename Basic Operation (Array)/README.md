@@ -13,9 +13,9 @@
   
   <samp> namely array data, the beginning and end of the range index to be copied.</samp>
   
--  <samp>Filling Values in Arrays with the same Value can use the 'fill' function in the 'Arrays' class. The 'fill' function </samp> 
+- <samp>Filling Values in Arrays with the same Value can use the 'fill' function in the 'Arrays' class. The 'fill' function </samp> 
 
-   <samp>has 2 parameters, namely the Array data and the value of each Array index.</samp>
+  <samp>has 2 parameters, namely the Array data and the value of each Array index.</samp>
    
 - <samp>The 'equals' function in the 'Arrays' class is to compare 2 array data whether they have the same value.</samp>
  
@@ -43,8 +43,15 @@
   
   <samp>value is in the data array and more than one, the first data index will be taken.</samp>
   
-- For more details, please open [Main.java](https://github.com/suardi26/Java-Basic/blob/main/Basic%20Operation%20(Array)/src/com/practice/Main.java) in repositories suardi26/Java-Basic/Basic Operation (Array)/src/com/practice/
+- <samp>For more details, please open [Main.java](https://github.com/suardi26/Java-Basic/blob/main/Basic%20Operation%20(Array)/src/com/practice/Main.java) in repositories suardi26/Java-Basic/Basic Operation (Array)/src/com/practice/
 
-- Have a nice day.
+- <samp>Have a nice day.</samp>
 
 ---
+ 
+## Basic Operation (Array)
+##### Note !!! : script ini diperuntukan bagi yang baru memulai belajar java. Jika Sudah Memahami Java dasar Silahkan Di skip.
+ 
+- <samp>Fungsi 'toString' pada class 'Arrays' adalah untuk mengkonversi data Array  menjadi nilai String. parameter pada fungsi ini adalah data Array.</samp>
+
+
