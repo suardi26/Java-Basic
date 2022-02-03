@@ -16,3 +16,7 @@
 -  <samp>Filling Values in Arrays with the same Value can use the 'fill' function in the 'Arrays' class. The 'fill' function </samp> 
 
    <samp>has 2 parameters, namely the Array data and the value of each Array index.</samp>
+   
+- <samp>The 'equals' function in the 'Arrays' class is to compare 2 array data whether they have the same value.</samp>
+ 
+  <samp>function 'equals' has 2 parameters, namely data Array 1 and data Array 2 and has a return value is a boolean value (true / false).</samp> 
