@@ -77,11 +77,14 @@
   ```  
   </samp>
   
-- <samp>Keterangan : Variabel 'bt' dengan tipe data byte tidak akan sama dengan nilai variabel 'i' yang bertipe Integer,  dikarenakan kapasitas dari tipe data</samp> 
+- <samp>Keterangan : Variabel 'bt' dengan tipe data byte tidak akan sama dengan nilai variabel 'i' yang bertipe Integer,</samp>  
   
-  <samp>byte adalah 8 bit, dengan interval mulai dari -128 s.d 127 sedangkan nilai dari variabel 'i' yang bertipe data integer adalah 257.</samp>
-  
+  <samp>dikarenakan kapasitas dari tipe data byte adalah 8 bit, dengan interval mulai dari -128 s.d 127 sedangkan nilai dari variabel 'i' yang</samp> 
+    
+  <samp>bertipe data integer adalah 257.</samp>
 
-- <samp>Untuk lebih jelasnya, silahkan buka Main.java di repositori suardi26/Java-Basic/Arithmetic Operators And Numeric Data Type Conversion/src/com/practice/.</samp>
+- <samp>Untuk lebih jelasnya, silahkan buka Main.java di repositori suardi26/Java-Basic/Arithmetic Operators And Numeric Data Type Conversion</samp>
+  
+  <samp>/src/com/practice/.</samp>
 
 - <samp>Semoga harimu menyenangkan.</samp> 
