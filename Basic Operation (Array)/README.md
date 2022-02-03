@@ -52,6 +52,18 @@
 ## Basic Operation (Array)
 ##### Note !!! : script ini diperuntukan bagi yang baru memulai belajar java. Jika Sudah Memahami Java dasar Silahkan Di skip.
  
-- <samp>Fungsi 'toString' pada class 'Arrays' adalah untuk mengkonversi data Array  menjadi nilai String. parameter pada fungsi ini adalah data Array.</samp>
+- <samp>Fungsi 'toString' pada class 'Arrays' adalah untuk mengkonversi data Array  menjadi nilai String. parameter pada</samp> 
+ 
+  <samp>fungsi ini adalah data Array.</samp>
+ 
+- <samp>Copy data Array bisa menggunakan perulangan 'for' atau bisa menggunakan fungsi 'copyOf' dari class  'Arrays'</samp>  
+ 
+  <samp>dan memiliki 2 parameter yaitu data Array serta panjang index dari data Array yang akan di copy.</samp>
+ 
+- <samp>Menyalin data array dengan menentukan range indexnya dapat menggunakan fungsi 'copyOfRange' pada class 'Arrays'</samp> 
+  
+  <samp> dan memiliki 3 parameter  yaitu data array, awal dan akhir indeks rentang yang akan disalin.</samp>
+  
+
 
 
