@@ -83,7 +83,7 @@
     
   <samp>dari variabel 'i' yang</samp> bertipe data integer adalah 257.</samp>
 
-- <samp>Untuk lebih jelasnya, silahkan buka Main.java di repositori suardi26/Java-Basic/Arithmetic Operators And </samp>
+- <samp>Untuk lebih jelasnya, silahkan buka [Main.java](https://github.com/suardi26/Java-Basic/blob/main/Arithmetic%20Operators%20And%20Numeric%20Data%20Type%20Conversion/src/com/practice/Main.java) di repositori suardi26/Java-Basic/Arithmetic Operators And </samp>
   
   <samp>Numeric Data Type Conversion/src/com/practice/.</samp>
 
