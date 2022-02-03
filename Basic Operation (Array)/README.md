@@ -26,3 +26,9 @@
   <samp>namely data array 1 and data array 2. when data 1 is greater than data 2 then the return value is 1, but when data 2 is </samp>
   
   <samp>greater than data 1 then the return value is -1 and when 2 is data array the same value will return a return value of 0.</samp>
+  
+- <samp>The 'mismatch' function in the 'Arrays' class is to find different values in the two data arrays. The 'mismatch' function</samp>  
+  
+  <samp>has 2 parameters, namely data array 1 and data array 2. if the two data have different data indexes by more than 1 index,</samp>   
+  
+  <samp>the first different data will be taken for the index and will be included in the return value.</samp>
