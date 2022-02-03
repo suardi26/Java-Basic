@@ -63,6 +63,6 @@
   ```
   </samp>
   
-- <samp>Dan untuk konversi/casting tipe data numerik pada java, yang harus diperhatikan adalah pada saat melakukan konversi dari tipe data yang memiliki</samp> 
+- <samp>Dan untuk konversi/casting tipe data numerik pada java, yang harus diperhatikan adalah pada saat melakukan konversi dari tipe data</samp>  
   
-  <samp>kapasitas interval yang besar ke tipe data yang memiliki kapasitas interval yang kecil.</samp> 
+  <samp> yang memiliki kapasitas interval yang besar ke tipe data yang memiliki kapasitas interval yang kecil.</samp> 
