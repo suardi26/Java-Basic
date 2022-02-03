@@ -13,7 +13,7 @@
 
 - <samp>Default modifier: method or variable can be accessed in different classes in the same package.</samp>
 
-- <samp>For more details, please open Main.java in repositories suardi26/Java-Basic/Access Modifier/src/com/practice/</samp>
+- <samp>For more details, please open [Main.java](https://github.com/suardi26/Java-Basic/blob/main/Access%20Modifier/src/com/practice/Main.java) in repositories suardi26/Java-Basic/Access Modifier/src/com/practice/</samp>
 
 - <samp>Have a nice day.</samp>
 
