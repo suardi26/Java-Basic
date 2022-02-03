@@ -70,7 +70,9 @@
  
 - <samp>Fungsi 'equals' pada class 'Arrays' adalah untuk membandingkan 2 data array apakah bernilai sama. fungsi 'equals' memiliki</samp>
  
-  <samp>2 buah parameter yaitu data Array 1 dan data Array 2 serta memiliki nilai kembali (return value) adalah nilai boolean (true / false).</samp>
+  <samp>2 buah parameter yaitu data Array 1 dan data Array 2 serta memiliki nilai kembali (return value)</samp>
+ 
+  <samp>adalah nilai boolean (true / false).</samp>
  
 
  
