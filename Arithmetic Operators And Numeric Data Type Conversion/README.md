@@ -9,8 +9,12 @@
 
 - <samp>When you want to perform an addition or subtraction operation first, you can use the '( )' symbol.<\samp> 
   
-- <samp>```javaFor example : int result = (2 + 3) * 5;```<\samp>
-
+- <samp>javaFor example : <\samp>
+  
+  ```java
+  <samp>int result = (2 + 3) * 5;<\samp>
+  '''
+    
 - And for the conversion/casting of numeric data types in java, must be considered is when converting from data types that have a large interval capacity to data types that have a small interval capacity.
 
 - For example : int i = 257;
