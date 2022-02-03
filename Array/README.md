@@ -7,13 +7,10 @@
 
 - <samp>Format :</samp>
 
-  <samp>
   ```java
   dataType[ ] VariableName = {data1, data2, data3, ...}
  
   ```
-   </samp>
-   
 - <samp>Format :</samp>
 
 
