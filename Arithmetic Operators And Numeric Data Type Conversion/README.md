@@ -46,15 +46,15 @@
 
 ##### Note !!! : script ini diperuntukan bagi yang baru memulai belajar java. Jika Sudah Memahami Java dasar Silahkan Di skip.
 
--  <samp>Operasi aritmatika terdiri dari penjumlahan, pengurangan, perkalihan,pembagian serta modulus. </samp>
+- <samp>Operasi aritmatika terdiri dari penjumlahan, pengurangan, perkalihan,pembagian serta modulus. </samp>
 
--  <samp>Operasi Perkalian dan pembagian akan dikerjakan terlebih dahulu, kemudian Operasi penjumlahan dan pengurangan.</samp>
+- <samp>Operasi Perkalian dan pembagian akan dikerjakan terlebih dahulu, kemudian Operasi penjumlahan dan pengurangan.</samp>
   
--  <samp>Jika Operator perkalian dan pembagian digabung maka akan dikerjakan dari kiri ke kanan, begitu juga dengan penjumlahan dan pengurangan, </samp> 
+- <samp>Jika Operator perkalian dan pembagian digabung maka akan dikerjakan dari kiri ke kanan, begitu juga dengan penjumlahan</samp> 
   
-   <samp>akan di eksekusi dari kiri ke kanan. </samp>
+  <samp>dan pengurangan, akan di eksekusi dari kiri ke kanan. </samp>
 
--  <samp>Ketika ingin melakukan operasi penjumlahan atau pengurangan terlebih dahulu maka dapat menggunakan simbol '( )'. </samp>
+- <samp>Ketika ingin melakukan operasi penjumlahan atau pengurangan terlebih dahulu maka dapat menggunakan simbol '( )'. </samp>
   
 - <samp>Contoh : </samp>
    <samp>
