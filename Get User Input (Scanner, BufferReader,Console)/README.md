@@ -89,6 +89,6 @@
  
     <samp>Class BufferReader adalah class yang menyediakan fungsi-fungsi untuk mengambil input yang dimasukan oleh user, Namun Perbedaan</samp>
  
-    <samp>BufferReader dengan Scanner adalah, Jika Scanner menggunakan method next(), sedangkan BufferReader menggunakan readLine.</samp>
+    <samp>BufferReader dengan Scanner adalah, Jika Scanner menggunakan method next(), sedangkan BufferReader menggunakan readLine. Untuk</samp>
  
-    <samp>Untuk bisa mengakses class BufferReader, kita mengimpor class BufferReader terlebih dahulu, seperti 'import java.io.BufferedReader'.</samp>
+    <samp>bisa mengakses class BufferReader, kita mengimpor class BufferReader terlebih dahulu, seperti 'import java.io.BufferedReader'.</samp>
