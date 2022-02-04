@@ -5,4 +5,6 @@
 
   <samp>structures such as tables, indexes, etc. The commands used are CREATE, DROP, ALTER, RENAME.</samp>
   
-- <samp>Data Manipulation Language (DML) is a SQL command that is used to manipulate records/data in tables. such as SELECT, INSERT, UPDATE, DELETE.</samp>
+- <samp>Data Manipulation Language (DML) is a SQL command that is used to manipulate records/data in tables.</samp> 
+ 
+  <samp> such as SELECT, INSERT, UPDATE, DELETE.</samp>
