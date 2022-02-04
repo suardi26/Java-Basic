@@ -33,8 +33,25 @@
  
    <samp>The BufferReader class is a class that provides functions to retrieve input entered by the user, However, the difference between</samp>
  
-   <samp>a BufferReader and a Scanner is that the Scanner uses the next() method, while the BufferReader using readLine(). To be able to access</samp>
+   <samp>a BufferReader and a Scanner is that the Scanner uses the next() method, while the BufferReader using readLine(). To be able</samp>
  
-   <samp>the BufferReader class, we first import the BufferReader class, like 'import java.io.BufferedReader'.</samp>
+   <samp>to access the BufferReader class, we first import the BufferReader class, like 'import java.io.BufferedReader'.</samp>
+   
+   <samp>3.Console class</samp>
  
+   <samp>Console class is a class that provides functions to take input entered by the user,</samp>
+    
+   <samp>Similar to BufferReader, Console also uses the readline() method to take user input.</samp>
+ 
+   <samp>However, this class is only used in console environments, such as Terminal or CMD.</samp>
+ 
+   <samp>To be able to access the Console class, we first import the Console class, such as 'import java.io.Console'.</samp>
+ 
+- For more details, please open Main.java in repositories suardi26/Java-Basic/Get User Input (Scanner, BufferReader,Console)/src/com/practice/
+     
+- Have a nice day.
+ 
+ ---
+ 
+ ##### Note !!! : script ini diperuntukan bagi yang baru memulai belajar java. Jika Sudah Memahami Java dasar Silahkan Di skip.
          
