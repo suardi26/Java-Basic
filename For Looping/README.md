@@ -58,7 +58,7 @@
     }
     ```
       
-- <samp>For more details, please open Main.java in repositories suardi26/Java-Basic/For Looping/src/com/practice/</samp>
+- <samp>For more details, please open [Main.java](https://github.com/suardi26/Java-Basic/blob/main/For%20Looping/src/com/practice/Main.java) in repositories suardi26/Java-Basic/For Looping/src/com/practice/</samp>
 
 - <samp>Have a nice day.</samp>
 
@@ -123,6 +123,6 @@
     }
     ```
       
-- <samp>Untuk lebih jelasnya, silahkan buka Main.java di repositori suardi26/Java-Basic/For Looping/src/com/practice/</samp>
+- <samp>Untuk lebih jelasnya, silahkan buka [Main.java](https://github.com/suardi26/Java-Basic/blob/main/For%20Looping/src/com/practice/Main.java) di repositori suardi26/Java-Basic/For Looping/src/com/practice/</samp>
 
 - <samp>Semoga harimu menyenangkan.</samp>
