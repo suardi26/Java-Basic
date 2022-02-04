@@ -7,9 +7,9 @@
   
      <samp>1. Class Scanner. </samp>
      
-     <samp>The Scanner class is a class that provides functions for take the input entered by the user. to be able to access the scanner class,</samp>
+     <samp>   The Scanner class is a class that provides functions for take the input entered by the user. to be able to access the scanner class,</samp>
      
-     <samp>we first import the Scanner class, like 'import java.util.Scanner'.</samp>
+     <samp>   we first import the Scanner class, like 'import java.util.Scanner'.</samp>
      
      <samp>Method used in Class Scanner:
  
