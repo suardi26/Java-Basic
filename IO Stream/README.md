@@ -47,4 +47,21 @@
 
 - <samp>For more details, please open Main.java in repositories suardi26/Java-Basic/IO Stream/src/com/practice/</samp> 
 
-- <samp>Have a nice day.</samp> 
+- <samp>Have a nice day.</samp>
+
+---
+##### Notes Note !!! : script ini diperuntukan bagi yang baru memulai belajar java. Jika Sudah Memahami Java dasar Silahkan Di skip.
+
+- <samp>Byte Stream digunakan untuk melakukan operasi input atau output byte demi byte [8 bit].</samp>
+
+- <samp>FileInputStream adalah class yang digunakan untuk membaca data dari file.</samp>
+
+- <samp>FileOutputStream adalah class yang digunakan untuk menulis data pada file.</samp>
+
+- <samp>Character Stream digunakan untuk melakukan operasi input atau output 2 byte [16 bit] unicode (internasional encoding standard).</samp>
+ 
+  <samp>dimana character stream dapat membaca character unik misalnya huruf Katakana, dll.</samp>
+
+- <samp>FileReader adalah class yang digunakan untuk membaca data dari file (2 byte).</samp>
+
+- <samp>FileWriter adalah class yang digunakan untuk menulis data pada file (2 byte).</samp>
