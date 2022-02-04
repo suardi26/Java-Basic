@@ -31,7 +31,10 @@
 
     <samp>throw is the keyword used to throw a manually generated error message.</samp>
 
-    <samp>format : ```java throw new Exception("Error Occurred!!")```.</samp>
+    <samp>format : ```java 
+ 
+                  throw new Exception("Error Occurred!!")```.
+    </samp>
 
   - <samp>Throws</samp>
 
