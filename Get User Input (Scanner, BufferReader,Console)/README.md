@@ -13,18 +13,4 @@
      
        <samp>Method used in Class Scanner:
  
-         * <samp>nextBoolean() -> Reads a boolean value from the user</samp>
-
-         * <samp>nextByte() -> Reads a byte value from the user</samp>
-
-         * <samp>nextDouble() -> Reads a double value from the user</samp>
-
-         * <samp>nextFloat() -> Reads a float value from the user</samp>
-
-         * <samp>nextInt()	Reads a int value from the user</samp>
-
-         * <samp>nextLine() -> Reads a String value from the user</samp>
-
-         * <samp>nextLong() -> Reads a long value from the user</samp>
-
-         * <samp>nextShort() -> Reads a short value from the user</samp>
+         
