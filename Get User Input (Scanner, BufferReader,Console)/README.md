@@ -47,9 +47,9 @@
  
    <samp>To be able to access the Console class, we first import the Console class, such as 'import java.io.Console'.</samp>
  
-- For more details, please open Main.java in repositories suardi26/Java-Basic/Get User Input (Scanner, BufferReader,Console)/src/com/practice/
+- <samp>For more details, please open Main.java in repositories suardi26/Java-Basic/Get User Input (Scanner, BufferReader,Console)/src/com/practice/</samp>
      
-- Have a nice day.
+- <samp>Have a nice day.</samp>
  
  ---
  
