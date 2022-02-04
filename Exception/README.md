@@ -47,3 +47,17 @@
 - <samp>For more details, please open Main.java in repositories suardi26/Java-Basic/Exception/src/com/practice/</samp>
 
 - <samp>Have a nice day.</samp>
+
+---
+
+##### Note !!! : script ini diperuntukan bagi yang baru memulai belajar java. Jika Sudah Memahami Java dasar Silahkan Di skip.
+
+- <samp>Ketika Kode program (Java) telah dicompile dan dieksekusi, kesalahan  bisa terjadi pada saat program berjalan (runtime), misalnya kesalahan input data</samp> 
+
+  <samp>atau hal lain yang tidak terduga. kesalahan tersebut membuat program berhenti dan menghasilkan pesan kesalahan istilah ini disebut throw a exception.</samp> 
+  
+- <samp>Exception Handling adalah fasilitas di java yang digunakan untuk megatasi Error runtime dengan menangkap pesan kesalahan tersebut</samp>  
+ 
+  <samp>sehingga program tidak berhenti melainkan melanjutkan mengeksekusi baris code selanjutnya.</samp> 
+  
+- <samp> Ada beberapa keywword pada java dalam hal Exception Handling :</samp> 
