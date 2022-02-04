@@ -69,4 +69,57 @@
 - <samp>For Looping adalah teknik pemrograman yang digunakan untuk melakukan proses perulangan sampai suatu kondisi tidak terpenuhi.</samp>
 
   <samp>Namun pada perulangan 'For' terdapat 3 statement yaitu : Pemberian nilai awal (inisialisasi), suatu kondisi, Increment/decrement.</samp>
+  
+  <samp>  Format :</samp>
+ 
+    ```java
+    for (inisialisasi; kondisi; Increment/decrement) {
+        
+        // Kode akan dieksekusi.
+    }
+    ```
+  
+    <samp>  Contoh :</samp>
 
+    ```java
+    int y = 5;
+        
+    for (int x = 1; y >= x ; x++) {
+
+        System.out.println("number "+x);
+    } 
+    ```
+- <samp>Nested For / For bersarang sama seperti 'for loop' yang merupakan teknik pemrograman yang digunakan untuk melakukan proses</samp> 
+
+  <samp>perulangan sampai suatu kondisi tidak terpenuhi. namun pada 'nested for' terdapat perulangan dalam perulangan.</samp>
+        
+    <samp>  Format :</samp>
+    
+    ```java
+    for (inisialisasi; kondisi; Increment/decrement) {
+        
+        for (inisialisasi; kondisi; Increment/decrement) {
+
+         // Kode akan dieksekusi.
+
+        }
+    }
+    ```
+    
+    <samp>  Contoh :</samp>
+
+    ```java
+    int i,n;
+
+    for (i = 0; i < 6; i++){
+
+          for (n = 0; n < 6; n++){
+
+              System.out.print("* ");
+
+          }
+
+          System.out.println();
+
+      }
+      ```
