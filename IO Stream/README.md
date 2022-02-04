@@ -80,7 +80,9 @@
  
   <samp>file yang dituju melalui FileOutputStream dangan menggunakan method 'flush'.</samp>
   
-- <samp>Buffered Character Stream digunakan untuk melakukan operasi input atau output yang menampung data pada memory untuk dikelola pada apikasi.</samp>
+- <samp>Buffered Character Stream digunakan untuk melakukan operasi input atau output yang menampung data pada memory untuk</samp>
+ 
+  <samp>dikelola pada apikasi.</samp>
 
 - <samp>BufferedReader adalah class yang digunakan untuk membaca data dari file ke memory melalui File Reader.</samp>
 
