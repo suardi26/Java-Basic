@@ -2,3 +2,5 @@
 ##### Notes !!! : this script is intended for those who are just starting to learn java. If you already understand basic Java, please skip it.
 
 - <samp>Data Definition Language (DDL) is a SQL command that deals with defining the database structure. used to create and modify database structures</samp>
+
+  <samp>structures such as tables, indexes, etc. The commands used are CREATE, DROP, ALTER, RENAME.</samp>
