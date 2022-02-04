@@ -24,3 +24,11 @@
   <samp>to be managed in the application.</samp>
 
 - <samp>BufferedInputStream is a class that is used to store data from file to memory via FileOutputStream.</samp>
+
+- <samp>BufferedOutputStream is a class that is used to write data from memory to memory and can be passed to the destination file</samp> 
+ 
+  <samp>via FileOutputStream using the 'flush' method.</samp>
+
+- <samp>Buffered Character Stream is used to perform input or output operations that hold data in memory to be managed in the application.</samp>
+
+- <samp>BufferedReader is a class that is used to read data from file to memory via File Reader.</samp>
