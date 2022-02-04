@@ -15,8 +15,12 @@
 
 - <samp>FileWriter is a class used to write data to a file (2 bytes).</samp>
 
-- <samp>The processing of the byte stream and also the character stream is carried out directly without using memory (Unbuffered) so that it becomes less efficient.</samp>
+- <samp>The processing of the byte stream and also the character stream is carried out directly without using memory (Unbuffered)</samp> 
+ 
+  <samp>so that it becomes less efficient.</samp>
 
-- <samp>Buffered Byte Stream is used to perform input or output operations that accommodate data arrays with data type bytes in memory to be managed in the application.</samp>
+- <samp>Buffered Byte Stream is used to perform input or output operations that accommodate data arrays with data type bytes in memory</samp> 
+ 
+  <samp>to be managed in the application.</samp>
 
 - <samp>BufferedInputStream is a class that is used to store data from file to memory via FileOutputStream.</samp>
