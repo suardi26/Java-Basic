@@ -45,20 +45,23 @@
     <samp>  Example :</samp>
 
     ```java
-     int i,n;
+    int i,n;
 
-     for (i = 0; i < 6; i++){
+      for (i = 0; i < 6; i++){
 
         for (n = 0; n < 6; n++){
 
-            System.out.print("* ");
+          System.out.print("* ");
 
         }
-
-        System.out.println();
-      }
-      ```
-    
+    System.out.println();
+    }
+    ```
+      
 - <samp>For more details, please open Main.java in repositories suardi26/Java-Basic/For Looping/src/com/practice/</samp>
 
 - <samp>Have a nice day.</samp>
+
+---
+##### Note !!! : script ini diperuntukan bagi yang baru memulai belajar java. Jika Sudah Memahami Java dasar Silahkan Di skip.
+
