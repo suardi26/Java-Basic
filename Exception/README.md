@@ -86,8 +86,13 @@
 
       <samp>throw adalah keyword yang digunakan untuk melemparkan suatu pesan kesalahan yang dibuat secara manual.</samp> 
 
-      <samp>format : 'throw new Exception("Kesalahan Terjadi !!")'.</samp>
+      <samp>format :</samp>
+      
+       ```java 
 
+      throw new Exception("Kesalahan Terjadi !!");
+
+      ```
     - <samp>throws</samp>
 
       <samp>throws adalah keyword yang digunakan pada suatu method yang mungkin menghasilkan suatu kesalahan sehingga untuk memanggil</samp> 
