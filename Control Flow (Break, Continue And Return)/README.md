@@ -11,7 +11,7 @@
 
 - <samp>The return statement can also be used to return a value in a function.</samp>
 
-- <samp>For more details, please open Main.java in repositories suardi26/Java-Basic/Control Flow (Break, Continue And Return)</samp>
+- <samp>For more details, please open [Main.java](https://github.com/suardi26/Java-Basic/blob/main/Control%20Flow%20(Break%2C%20Continue%20And%20Return)/src/com/practice/Main.java) in repositories suardi26/Java-Basic/Control Flow (Break, Continue And Return)</samp>
  
   <samp>/src/com/practice/</samp>
 
@@ -33,6 +33,8 @@
 
 - <samp>Statement return dapat juga digunakan untuk mengembalikan suatu nilai pada sebuah fungsi.</samp>
 
-- <samp>Untuk lebih jelasnya, silahkan buka Main.java di repositori suardi26/Java-Basic/Control Flow (Break, Continue And Return)/src/com/practice/</samp>
+- <samp>Untuk lebih jelasnya, silahkan buka [Main.java](https://github.com/suardi26/Java-Basic/blob/main/Control%20Flow%20(Break%2C%20Continue%20And%20Return)/src/com/practice/Main.java) di repositori suardi26/Java-Basic/Control Flow (Break, Continue And Return)</samp>
+ 
+  <samp>/src/com/practice/</samp>
 
 - <samp>Semoga harimu menyenangkan.</samp>
