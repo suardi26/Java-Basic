@@ -33,16 +33,18 @@
 
 - <samp>BufferedReader is a class that is used to read data from file to memory via File Reader.</samp>
 
-- BufferedWriter is a class that is used to write data from memory to memory and can be passed to the destination file via File Writer using the 'flush' method.
+- <samp>BufferedWriter is a class that is used to write data from memory to memory and can be passed to the destination</samp> 
+ 
+  <samp>file via File Writer using the 'flush' method.</samp> 
 
-- Scanner is a class that is used to read and process data from input files or from input data.
+- <samp>Scanner is a class that is used to read and process data from input files or from input data.</samp> 
 
-- String Tokenizer is a class that is used to manage String values, with this class we can divide long string values, 
+- <samp>String Tokenizer is a class that is used to manage String values, with this class we can divide long string values,</samp>  
   
-  into several words or parts based on the specified delimiter.
+  <samp>into several words or parts based on the specified delimiter.</samp> 
 
-- StringTokenizer class default parameters: tab ('\t'), new line ('\n'), carriage return('\r') and can be defined by yourself.
+- <samp>StringTokenizer class default parameters: tab ('\t'), new line ('\n'), carriage return('\r') and can be defined by yourself.</samp> 
 
-- For more details, please open Main.java in repositories suardi26/Java-Basic/IO Stream/src/com/practice/
+- <samp>For more details, please open Main.java in repositories suardi26/Java-Basic/IO Stream/src/com/practice/</samp> 
 
-- Have a nice day.
+- <samp>Have a nice day.</samp> 
