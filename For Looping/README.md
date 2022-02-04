@@ -113,13 +113,17 @@
 
     for (i = 0; i < 6; i++){
 
-          for (n = 0; n < 6; n++){
+        for (n = 0; n < 6; n++){
 
-              System.out.print("* ");
+            System.out.print("* ");
 
-          }
+        }
 
-          System.out.println();
+        System.out.println();
 
       }
       ```
+      
+- <sampUntuk lebih jelasnya, silahkan buka Main.java di repositori suardi26/Java-Basic/For Looping/src/com/practice/</samp>
+
+- <samp>Semoga harimu menyenangkan.</samp>
