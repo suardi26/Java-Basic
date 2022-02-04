@@ -63,5 +63,10 @@
 - <samp>Have a nice day.</samp>
 
 ---
+
 ##### Note !!! : script ini diperuntukan bagi yang baru memulai belajar java. Jika Sudah Memahami Java dasar Silahkan Di skip.
+
+- <samp>For Looping adalah teknik pemrograman yang digunakan untuk melakukan proses perulangan sampai suatu kondisi tidak terpenuhi.</samp>
+
+  <samp>Namun pada perulangan 'For' terdapat 3 statement yaitu : Pemberian nilai awal (inisialisasi), suatu kondisi, Increment/decrement.</samp>
 
