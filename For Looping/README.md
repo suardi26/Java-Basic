@@ -45,18 +45,17 @@
     <samp>  Example :</samp>
 
     ```java
-      int i,n;
+     int i,n;
 
      for (i = 0; i < 6; i++){
 
-              for (n = 0; n < 6; n++){
+        for (n = 0; n < 6; n++){
 
-                  System.out.print("* ");
+            System.out.print("* ");
 
-              }
+        }
 
-              System.out.println();
-
+        System.out.println();
       }
       ```
     
