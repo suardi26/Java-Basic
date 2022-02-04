@@ -40,7 +40,9 @@
     ```
   - <samp>Throws</samp>
 
-    <samp>throws is a keyword used in a method that might generate an error, so to call the method, an exception handling (try-catch) must be done first.</samp>
+    <samp>throws is a keyword used in a method that might generate an error, so to call the method,</samp> 
+ 
+    <samp>an exception handling (try-catch) must be done first.</samp>
         
 - <samp>For more details, please open Main.java in repositories suardi26/Java-Basic/Exception/src/com/practice/</samp>
 
