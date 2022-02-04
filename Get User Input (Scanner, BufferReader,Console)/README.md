@@ -103,7 +103,7 @@
 
      <samp>class Console, kita mengimpor class Console terlebih dahulu, seperti 'import java.io.Console'.</samp>
        
-- <samp>Untuk lebih jelasnya, silahkan buka Main.java](https://github.com/suardi26/Java-Basic/blob/main/Get%20User%20Input%20(Scanner%2C%20BufferReader%2CConsole)/src/com/practice/Main.java di repositori suardi26/Java-Basic/Get User Input (Scanner, BufferReader,Console)</samp>
+- <samp>Untuk lebih jelasnya, silahkan buka [Main.java](https://github.com/suardi26/Java-Basic/blob/main/Get%20User%20Input%20(Scanner%2C%20BufferReader%2CConsole)/src/com/practice/Main.java) di repositori suardi26/Java-Basic/Get User Input (Scanner, BufferReader,Console)</samp>
 
   <samp>/src/com/practice/.</samp>
 
