@@ -7,4 +7,14 @@
   
 - <samp>Data Manipulation Language (DML) is a SQL command that is used to manipulate records/data in tables.</samp> 
  
-  <samp> such as SELECT, INSERT, UPDATE, DELETE.</samp>
+  <samp>such as SELECT, INSERT, UPDATE, DELETE.</samp>
+  
+- <samp>CRUD stands for create, read, update, and delete to manage databases.<samp>
+  
+      - <samp>The INSERT command is used to add records/data in a table.</samp>
+
+      - <samp>The SELECT command is used to find and retrieve records/data from a table.</samp>
+
+      - <samp>The UPDATE command is used to modify certain records/data from the table.</samp>
+
+      - <samp>The DELETE command is used to delete certain records/data from the table.</samp>
