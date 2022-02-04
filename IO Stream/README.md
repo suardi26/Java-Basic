@@ -32,3 +32,17 @@
 - <samp>Buffered Character Stream is used to perform input or output operations that hold data in memory to be managed in the application.</samp>
 
 - <samp>BufferedReader is a class that is used to read data from file to memory via File Reader.</samp>
+
+- BufferedWriter is a class that is used to write data from memory to memory and can be passed to the destination file via File Writer using the 'flush' method.
+
+- Scanner is a class that is used to read and process data from input files or from input data.
+
+- String Tokenizer is a class that is used to manage String values, with this class we can divide long string values, 
+  
+  into several words or parts based on the specified delimiter.
+
+- StringTokenizer class default parameters: tab ('\t'), new line ('\n'), carriage return('\r') and can be defined by yourself.
+
+- For more details, please open Main.java in repositories suardi26/Java-Basic/IO Stream/src/com/practice/
+
+- Have a nice day.
