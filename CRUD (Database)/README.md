@@ -18,3 +18,11 @@
     - <samp>The UPDATE command is used to modify certain records/data from the table.</samp>
 
     - <samp>The DELETE command is used to delete certain records/data from the table.</samp>
+  
+- <samp>Access database using additional library : 'mysql-connector-java-8.0.28.jar'.</samp>
+
+- <samp>Database 'dbt_mahasiswa.sql', in the database folder.</samp>
+
+- <samp>For more details, please open project CRUD (Database) in repositories suardi26/Java-Basic/</samp>
+
+- <samp>Have a nice day.</samp>
