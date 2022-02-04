@@ -13,7 +13,7 @@
 
       <samp>Method used in Class Scanner:
 
-      * <samp>nextBoolean() -> Reads a boolean value from the user</samp>
+      - <samp>nextBoolean() -> Reads a boolean value from the user</samp>
 
       * <samp>nextByte() -> Reads a byte value from the user</samp>
 
