@@ -15,4 +15,22 @@
  
   <samp>/src/com/practice/</samp>
 
-- <samp>Have a nice day.</samp> 
+- <samp>Have a nice day.</samp>
+
+---
+
+##### Note !!! : script ini diperuntukan bagi yang baru memulai belajar java. Jika Sudah Memahami Java dasar Silahkan Di skip.
+
+- <samp>Statement break adalah perintah yang digunakan untuk mengatur alur perulangan program yang memaksa sebuah proses perulangan berhenti.</samp>
+
+- <samp>Sama seperti statement break, statement continue adalah perintah yang digunakan untuk mengatur alur perulangan program dimana</samp>
+
+  <samp>statement continue adalah perintah yang melewati 1 kali proses iterasi dan melanjutkan ke iterasi berikutnya dalam perulangan.</samp>
+  
+- <samp>Statement return adalah perintah yang digunakan untuk keluar dari method atau fungsi dalam sebuah program.</samp>
+
+- <samp>Statement return dapat juga digunakan untuk mengembalikan suatu nilai pada sebuah fungsi.</samp>
+
+- <samp>Untuk lebih jelasnya, silahkan buka Main.java di repositori suardi26/Java-Basic/Control Flow (Break, Continue And Return)/src/com/practice/</samp>
+
+- <samp>Semoga harimu menyenangkan.</samp>
