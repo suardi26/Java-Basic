@@ -5,7 +5,7 @@
 
   <samp>there are 3 statements, namely: Initialization, a condition, Increment/decrement.</samp>
   
-    <samp>Format :</samp>
+    <samp>  Format :</samp>
  
     ```java
     for (Initialization; condition; Increment/decrement) {
@@ -14,7 +14,7 @@
     }
     ```
   
-    <samp>Example :</samp>
+    <samp>  Example :</samp>
 
     ```java
     int y = 5;
@@ -29,7 +29,7 @@
 
   <samp>is not met. However, in 'nested for' there is a loop in the loop.</samp>
         
-    <samp>Format :</samp>
+    <samp>  Format :</samp>
     
     ```java
     for (Initialization; condition; Increment/decrement) {
@@ -42,7 +42,7 @@
     }
     ```
     
-    <samp>Example :</samp>
+    <samp>  Example :</samp>
 
     ```java
       int i,n;
