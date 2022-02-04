@@ -34,3 +34,9 @@
 - <samp>Data Definition Language (DDL) adalah perintah SQL yang berhubungan dengan pendefinisian struktur database. digunakan untuk</samp>
 
   <samp>membuat dan mengubah struktur database seperti tabel, index, dll. Perintah yang digunakan seperti CREATE, DROP, ALTER, RENAME.</samp>
+  
+- <samp>Data Manipulation Language (DML) adalah perintah SQL yang digunakan untuk memanipulasi record/data dalam tabel.</samp> 
+ 
+  <samp>contohnya seperti SELECT, INSERT, UPDATE, DELETE.</samp>
+  
+- <samp>CRUD adalah singkatan dari create, read, update, and delete untuk mengelolah database.<samp>
