@@ -52,12 +52,46 @@
 
 ##### Note !!! : script ini diperuntukan bagi yang baru memulai belajar java. Jika Sudah Memahami Java dasar Silahkan Di skip.
 
-- <samp>Ketika Kode program (Java) telah dicompile dan dieksekusi, kesalahan  bisa terjadi pada saat program berjalan (runtime), misalnya kesalahan input data</samp> 
-
-  <samp>atau hal lain yang tidak terduga. kesalahan tersebut membuat program berhenti dan menghasilkan pesan kesalahan istilah ini disebut throw a exception.</samp> 
+- <samp>Ketika Kode program (Java) telah dicompile dan dieksekusi, kesalahan  bisa terjadi pada saat program berjalan (runtime),</samp> 
+ 
+  <samp>misalnya kesalahan input data atau hal lain yang tidak terduga. kesalahan tersebut membuat program berhenti dan menghasilkan</samp>  
+ 
+  <samp>pesan kesalahan istilah ini disebut throw a exception.</samp> 
   
 - <samp>Exception Handling adalah fasilitas di java yang digunakan untuk megatasi Error runtime dengan menangkap pesan kesalahan tersebut</samp>  
  
   <samp>sehingga program tidak berhenti melainkan melanjutkan mengeksekusi baris code selanjutnya.</samp> 
   
-- <samp> Ada beberapa keywword pada java dalam hal Exception Handling :</samp> 
+- <samp> Ada beberapa keywword pada java dalam hal Exception Handling :</samp>
+
+    - <samp>Try</samp>
+
+      <samp>try adalah keyword yang digunakan untuk mencoba menjalankan block program yang berpotensi menyebabkan error pada saat runtime</samp> 
+
+      <samp>keyword ini dipasangkan dengan keyword catch atau finally.</samp>
+
+    - <samp>Catch</samp>
+
+      <samp>Catch adalah keyword yang digunakan untuk menangkap kesalahan yang terjadi dari block try dan dapat ditampilkan pada block catch ini.</samp>
+
+    - <samp>Finally</samp>
+
+      <samp>Finally adalah keyword yang digunakan untuk menjalankan block program yang akan dieksekusi setelah block program yang ada di dalam</samp> 
+      
+      <samp>try dan catch. Block program yang ada di finally akan dieksekusi ketika ada kesalahan maupun tidak ada kesalahan.</samp>
+
+    - <samp>throw</samp>
+
+      <samp>throw adalah keyword yang digunakan untuk melemparkan suatu pesan kesalahan yang dibuat secara manual.</samp> 
+
+      <samp>format : 'throw new Exception("Kesalahan Terjadi !!")'.</samp>
+
+    - <samp>throws</samp>
+
+      <samp>throws adalah keyword yang digunakan pada suatu method yang mungkin menghasilkan suatu kesalahan sehingga untuk memanggil method tersebut</samp> 
+
+      <samp>maka harus dilakukan handling exception (try-catch) terlebih dahulu.</samp>
+       
+- <samp>Untuk lebih jelasnya, silahkan buka Main.java di repositori suardi26/Java-Basic/Exception/src/com/practice/.</samp>
+
+- <samp>Semoga harimu menyenangkan.</samp>
