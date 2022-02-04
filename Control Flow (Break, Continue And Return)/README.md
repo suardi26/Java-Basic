@@ -21,7 +21,9 @@
 
 ##### Note !!! : script ini diperuntukan bagi yang baru memulai belajar java. Jika Sudah Memahami Java dasar Silahkan Di skip.
 
-- <samp>Statement break adalah perintah yang digunakan untuk mengatur alur perulangan program yang memaksa sebuah proses perulangan berhenti.</samp>
+- <samp>Statement break adalah perintah yang digunakan untuk mengatur alur perulangan program yang memaksa</samp> 
+ 
+  <samp>sebuah proses perulangan berhenti.</samp>
 
 - <samp>Sama seperti statement break, statement continue adalah perintah yang digunakan untuk mengatur alur perulangan program dimana</samp>
 
