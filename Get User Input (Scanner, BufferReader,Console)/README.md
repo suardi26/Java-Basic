@@ -62,3 +62,33 @@
   <samp>Class Scanner, Class BufferReader, Class Console.</samp> 
  
     <samp>1. Class Scanner. </samp>
+ 
+    <samp>Class Scanner adalah class yang menyediakan fungsi-fungsi untuk mengambil input yang dimasukan oleh user.</samp> 
+ 
+    <samp>untuk bisa mengakses class scanner, kita mengimpor class Scanner terlebih dahulu, seperti 'import java.util.Scanner'.</samp>
+
+    <samp>Metode yang digunakan pada Class Scanner :</samp>
+ 
+     - <samp>nextBoolean() -> Membaca nilai boolean dari Input User.</samp>
+
+     - <samp>nextByte() -> Membaca nilai byte dari Input User.</samp>
+
+     - <samp>nextDouble() -> Membaca nilai double dari Input User.</samp>
+
+     - <samp>nextFloat() -> Membaca nilai float dari Input User.</samp>
+
+     - <samp>nextInt() -> Membaca nilai integer dari Input User.</samp>
+
+     - <samp>nextLine() -> Membaca nilai String dari Input User.</samp>
+
+     - <samp>nextLong() -> Membaca nilai long dari Input User.</samp>
+
+     - <samp>nextShort() -> Membaca nilai short dari Input User.</samp>
+ 
+    <samp>2. Class BufferReader.</samp>
+ 
+    <samp>Class BufferReader adalah class yang menyediakan fungsi-fungsi untuk mengambil input yang dimasukan oleh user, Namun Perbedaan</samp>
+ 
+    <samp>BufferReader dengan Scanner adalah, Jika Scanner menggunakan method next(), sedangkan BufferReader menggunakan readLine.</samp>
+ 
+    <samp>Untuk bisa mengakses class BufferReader, kita mengimpor class BufferReader terlebih dahulu, seperti 'import java.io.BufferedReader'.</samp>
