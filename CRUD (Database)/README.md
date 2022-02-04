@@ -59,7 +59,8 @@
 
 - <samp>Software :</samp> 
 
-  - <samp>XAMPP Version: 7.4.14.</samp>
+  - <samp>[XAMPP Version: 7.4.14.](https://www.apachefriends.org/download.html)</samp>
 
-  - <samp>IntelliJ IDEA Community Edition 2021.2.3.</samp>
+  - <samp>[IntelliJ IDEA Community Edition 2021.2.3.](https://www.jetbrains.com/idea/download/?from=SafeEyes#section=windows)
+</samp>
 
