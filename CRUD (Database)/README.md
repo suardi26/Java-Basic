@@ -26,3 +26,11 @@
 - <samp>For more details, please open project CRUD (Database) in repositories suardi26/Java-Basic/</samp>
 
 - <samp>Have a nice day.</samp>
+  
+---
+  
+##### Note !!! : script ini diperuntukan bagi yang baru memulai belajar java. Jika Sudah Memahami Java dasar Silahkan Di skip.
+
+- <samp>Data Definition Language (DDL) adalah perintah SQL yang berhubungan dengan pendefinisian struktur database. digunakan untuk</samp>
+
+  <samp>membuat dan mengubah struktur database seperti tabel, index, dll. Perintah yang digunakan seperti CREATE, DROP, ALTER, RENAME.</samp>
