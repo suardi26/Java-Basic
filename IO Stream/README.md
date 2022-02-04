@@ -45,7 +45,7 @@
 
 - <samp>StringTokenizer class default parameters: tab ('\t'), new line ('\n'), carriage return('\r') and can be defined by yourself.</samp> 
 
-- <samp>For more details, please open Main.java in repositories suardi26/Java-Basic/IO Stream/src/com/practice/</samp> 
+- <samp>For more details, please open [Main.java](https://github.com/suardi26/Java-Basic/blob/main/IO%20Stream/src/com/tutorial/Main.java) in repositories suardi26/Java-Basic/IO Stream/src/com/practice/</samp> 
 
 - <samp>Have a nice day.</samp>
 
@@ -98,6 +98,6 @@
 
 - <samp>parameter default class StringTokenizer : tab ('\t'), new line ('\n'), carriage return('\r') dan dapat ditentukan sendiri.</samp>
 
-- <samp>Untuk lebih jelasnya, silahkan buka Main.java di repositori suardi26/Java-Basic/IO Stream/src/com/practice/.</samp>
+- <samp>Untuk lebih jelasnya, silahkan buka [Main.java](https://github.com/suardi26/Java-Basic/blob/main/IO%20Stream/src/com/tutorial/Main.java) di repositori suardi26/Java-Basic/IO Stream/src/com/practice/.</samp>
 
 - <samp>Semoga harimu menyenangkan.</samp>
