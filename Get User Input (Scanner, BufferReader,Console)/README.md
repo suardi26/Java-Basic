@@ -29,4 +29,12 @@
 
      - <samp>nextShort() -> Reads a short value from the user</samp>
  
+   <samp>2. BufferReader class.</samp>
+ 
+   <samp>The BufferReader class is a class that provides functions to retrieve input entered by the user, However, the difference between</samp>
+ 
+   <samp>a BufferReader and a Scanner is that the Scanner uses the next() method, while the BufferReader using readLine(). To be able to access</samp>
+ 
+   <samp>the BufferReader class, we first import the BufferReader class, like 'import java.io.BufferedReader'.</samp>
+ 
          
