@@ -65,3 +65,15 @@
 - <samp>FileReader adalah class yang digunakan untuk membaca data dari file (2 byte).</samp>
 
 - <samp>FileWriter adalah class yang digunakan untuk menulis data pada file (2 byte).</samp>
+
+- <samp>Proses dari byte stream dan juga character stream dilakukan secara langsung tanpa menggunakan memory (Unbuffered) sehingga menjadi kurang efisien.<samp>
+
+- <samp>Buffered Byte Stream digunakan untuk melakukan operasi input atau output yang menampung data array dengan<samp> 
+ 
+  <samp>tipe data bytes pada memory untuk dikelola pada apikasi.<samp>
+
+- <samp>BufferedInputStream adalah class yang digunakan untuk menyimpan data dari file ke memory melalui FileOutputStream.<samp>
+
+- <samp>BufferedOutputStream adalah class yang digunakan untuk menulis data dari memory ke memory dan dapat diteruskan ke<samp> 
+ 
+  <samp>file yang dituju melalui FileOutputStream dangan menggunakan method 'flush'.<samp>
