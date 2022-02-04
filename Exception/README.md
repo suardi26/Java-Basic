@@ -72,13 +72,15 @@
 
     - <samp>Catch</samp>
 
-      <samp>Catch adalah keyword yang digunakan untuk menangkap kesalahan yang terjadi dari block try dan dapat ditampilkan pada block catch ini.</samp>
+      <samp>Catch adalah keyword yang digunakan untuk menangkap kesalahan yang terjadi dari block try dan dapat</samp> 
+ 
+      <samp>ditampilkan pada block catch ini.</samp>
 
     - <samp>Finally</samp>
 
-      <samp>Finally adalah keyword yang digunakan untuk menjalankan block program yang akan dieksekusi setelah block program yang ada di dalam</samp> 
+      <samp>Finally adalah keyword yang digunakan untuk menjalankan block program yang akan dieksekusi setelah block program yang ada</samp> 
       
-      <samp>try dan catch. Block program yang ada di finally akan dieksekusi ketika ada kesalahan maupun tidak ada kesalahan.</samp>
+      <samp>di dalam try dan catch. Block program yang ada di finally akan dieksekusi ketika ada kesalahan maupun tidak ada kesalahan.</samp>
 
     - <samp>throw</samp>
 
@@ -88,9 +90,9 @@
 
     - <samp>throws</samp>
 
-      <samp>throws adalah keyword yang digunakan pada suatu method yang mungkin menghasilkan suatu kesalahan sehingga untuk memanggil method tersebut</samp> 
+      <samp>throws adalah keyword yang digunakan pada suatu method yang mungkin menghasilkan suatu kesalahan sehingga untuk memanggil</samp> 
 
-      <samp>maka harus dilakukan handling exception (try-catch) terlebih dahulu.</samp>
+      <samp>method tersebut maka harus dilakukan handling exception (try-catch) terlebih dahulu.</samp>
        
 - <samp>Untuk lebih jelasnya, silahkan buka Main.java di repositori suardi26/Java-Basic/Exception/src/com/practice/.</samp>
 
