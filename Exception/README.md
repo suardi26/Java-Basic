@@ -44,7 +44,7 @@
  
     <samp>an exception handling (try-catch) must be done first.</samp>
         
-- <samp>For more details, please [Main.java](https://github.com/suardi26/Java-Basic/blob/main/Exception/src/com/practice/Main.java) in repositories suardi26/Java-Basic/Exception/src/com/practice/</samp>
+- <samp>For more details, please open [Main.java](https://github.com/suardi26/Java-Basic/blob/main/Exception/src/com/practice/Main.java) in repositories suardi26/Java-Basic/Exception/src/com/practice/</samp>
 
 - <samp>Have a nice day.</samp>
 
@@ -99,6 +99,6 @@
 
       <samp>method tersebut maka harus dilakukan handling exception (try-catch) terlebih dahulu.</samp>
        
-- <samp>Untuk lebih jelasnya, silahkan buka Main.java](https://github.com/suardi26/Java-Basic/blob/main/Exception/src/com/practice/Main.java) di repositori suardi26/Java-Basic/Exception/src/com/practice/.</samp>
+- <samp>Untuk lebih jelasnya, silahkan buka [Main.java](https://github.com/suardi26/Java-Basic/blob/main/Exception/src/com/practice/Main.java) di repositori suardi26/Java-Basic/Exception/src/com/practice/.</samp>
 
 - <samp>Semoga harimu menyenangkan.</samp>
