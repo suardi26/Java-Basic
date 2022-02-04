@@ -57,8 +57,8 @@
  
  ##### Note !!! : script ini diperuntukan bagi yang baru memulai belajar java. Jika Sudah Memahami Java dasar Silahkan Di skip.
          
-- <samp>Ada 3 class yang digunakan untuk mengambil input pada program berbasis teks (Console), seperti Class Scanner, Class BufferReader, Class Console.</samp> 
+- <samp>Ada 3 class yang digunakan untuk mengambil input pada program berbasis teks (Console), seperti</samp>
  
-  <samp>Scanner Class, BufferReader Class, and Console Class.</samp>
-  
+  <samp>Class Scanner, Class BufferReader, Class Console.</samp> 
+ 
     <samp>1. Class Scanner. </samp>
