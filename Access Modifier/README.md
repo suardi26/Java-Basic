@@ -23,9 +23,9 @@
 
 ##### Note !!! : script ini diperuntukan bagi yang baru memulai belajar java. Jika Sudah Memahami Java dasar Silahkan Di skip.
 
-- <samp>Access modifier adalah sebuah "hak akses" yang diberikan kepada sebuah class/method/variabel dengan tujuan untuk menjaga integritas dari data,</samp> 
+- <samp>Access modifier adalah sebuah "hak akses" yang diberikan kepada sebuah class/method/variabel dengan tujuan untuk menjaga</samp> 
   
-  <samp>ketika ingin diakses oleh object lain.</samp>
+  <samp>integritas dari data, ketika ingin diakses oleh object lain.</samp>
         
 - <samp>Access modifier : public, private, protected, default (no modifier).</samp>
         
