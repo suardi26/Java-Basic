@@ -40,3 +40,11 @@
   <samp>contohnya seperti SELECT, INSERT, UPDATE, DELETE.</samp>
   
 - <samp>CRUD adalah singkatan dari create, read, update, and delete untuk mengelolah database.<samp>
+
+    - <samp>Perintah INSERT digunakan untuk menambahkan record/data dalam sebuah tabel.</samp>
+
+    - <samp>Perintah SELECT digunakan untuk mencari dan mengambil record/data dari tabel.</samp>
+
+    - <samp>Perintah UPDATE digunakan untuk mengubah record/data tertentu dari tabel.</samp>
+
+    - <samp>Perintah DELETE digunakan untuk menghapus record/data tertentu dari tabel.</samp>
