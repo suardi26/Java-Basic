@@ -89,3 +89,15 @@
 - <samp>BufferedWriter adalah class yang digunakan untuk menulis data dari memory ke memory dan dapat diteruskan ke file yang dituju</samp> 
   
   <samp>melalui File Writer dangan menggunakan method 'flush'.</samp>
+  
+- <samp>Scanner adalah class yang digunakan untuk membaca dan mengolah data dari file input atau pun dari data input.</samp>
+
+- <samp>String Tokenizer adalah sebuah class yang digunakan mengelolah nilai String, dengan class ini kita dapat membagi nilai string yang panjang,</samp> 
+  
+  <samp>menjadi beberapa kata atau bagian berdasarkan delimeter yang ditentukan.</samp>
+
+- <samp>parameter default class StringTokenizer : tab ('\t'), new line ('\n'), carriage return('\r') dan dapat ditentukan sendiri.</samp>
+
+- <samp>Untuk lebih jelasnya, silahkan buka Main.java di repositori suardi26/Java-Basic/IO Stream/src/com/practice/.</samp>
+
+- <samp>Semoga harimu menyenangkan.</samp>
