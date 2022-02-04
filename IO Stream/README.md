@@ -92,9 +92,9 @@
   
 - <samp>Scanner adalah class yang digunakan untuk membaca dan mengolah data dari file input atau pun dari data input.</samp>
 
-- <samp>String Tokenizer adalah sebuah class yang digunakan mengelolah nilai String, dengan class ini kita dapat membagi nilai string yang panjang,</samp> 
+- <samp>String Tokenizer adalah sebuah class yang digunakan mengelolah nilai String, dengan class ini kita dapat membagi nilai </samp> 
   
-  <samp>menjadi beberapa kata atau bagian berdasarkan delimeter yang ditentukan.</samp>
+  <samp>string yang panjang, menjadi beberapa kata atau bagian berdasarkan delimeter yang ditentukan.</samp>
 
 - <samp>parameter default class StringTokenizer : tab ('\t'), new line ('\n'), carriage return('\r') dan dapat ditentukan sendiri.</samp>
 
