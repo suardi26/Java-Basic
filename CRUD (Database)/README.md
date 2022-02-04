@@ -23,7 +23,7 @@
 
 - <samp>Database 'dbt_mahasiswa.sql', in the database folder.</samp>
 
-- <samp>For more details, please open project CRUD (Database) in repositories suardi26/Java-Basic/</samp>
+- <samp>For more details, please open project [CRUD (Database)](https://github.com/suardi26/Java-Basic/tree/main/CRUD%20(Database)/src) in repositories suardi26/Java-Basic/</samp>
 
 - <samp>Have a nice day.</samp>
   
@@ -48,3 +48,18 @@
     - <samp>Perintah UPDATE digunakan untuk mengubah record/data tertentu dari tabel.</samp>
 
     - <samp>Perintah DELETE digunakan untuk menghapus record/data tertentu dari tabel.</samp>
+  
+- <samp>Mengakses database menggunkan library tambahan : 'mysql-connector-java-8.0.28.jar', yang ada pada folder lib.</samp>
+
+- <samp>Database 'dbt_mahasiswa.sql', pada folder database.</samp>
+
+- <samp>Untuk lebih jelasnya, silahkan buka project [CRUD (Database)](https://github.com/suardi26/Java-Basic/tree/main/CRUD%20(Database)/src) di repositori suardi26/Java-Basic/</samp>
+
+- <samp>Semoga harimu menyenangkan.</samp>
+
+- <samp>Software :</samp> 
+
+  - <samp>XAMPP Version: 7.4.14.</samp>
+
+  - <samp>IntelliJ IDEA Community Edition 2021.2.3.</samp>
+
