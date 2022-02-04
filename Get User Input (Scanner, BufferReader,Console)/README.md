@@ -95,17 +95,19 @@
  
      <samp>3. Class Console. </samp>
       
-      <samp>Class Console adalah class yang menyediakan fungsi-fungsi untuk mengambil input yang dimasukan oleh user,</samp>
-       
-      <samp>Sama Dengan BufferReader, Console juga menggunakan method readline() untuk mengambil user input.</samp>
-       
-      <samp>Namun Class ini digunakan di lingkungan console saja, seperti Terminal atau CMD. Untuk bisa mengakses</samp>
-       
-      <samp>class Console, kita mengimpor class Console terlebih dahulu, seperti 'import java.io.Console'.</samp>
-       
-- </samp>Untuk lebih jelasnya, silahkan buka Main.java di repositori suardi26/Java-Basic/Get User Input (Scanner, BufferReader,Console)/src/com/practice/.</samp>
+     <samp>Class Console adalah class yang menyediakan fungsi-fungsi untuk mengambil input yang dimasukan oleh user,</samp>
 
-- </samp>Semoga harimu menyenangkan.</samp>
+     <samp>Sama Dengan BufferReader, Console juga menggunakan method readline() untuk mengambil user input.</samp>
+
+     <samp>Namun Class ini digunakan di lingkungan console saja, seperti Terminal atau CMD. Untuk bisa mengakses</samp>
+
+     <samp>class Console, kita mengimpor class Console terlebih dahulu, seperti 'import java.io.Console'.</samp>
+       
+- <samp>Untuk lebih jelasnya, silahkan buka Main.java di repositori suardi26/Java-Basic/Get User Input (Scanner, BufferReader,Console)</samp>
+
+  <samp>/src/com/practice/.</samp>
+
+- <samp>Semoga harimu menyenangkan.</samp>
 
  
     
