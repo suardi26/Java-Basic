@@ -7,7 +7,7 @@
    
    <table>
    <tr>
-      <th>Table OR</th>
+      <th>  Table OR</th>
       <th>Table AND</th>
       <th>Table OR</th>
       <th>Table AND</th>
@@ -52,7 +52,7 @@
    | true | false | false |
    | true | true | true |
 
-      </td>
+   </td>
    </tr>
 
 </table>
