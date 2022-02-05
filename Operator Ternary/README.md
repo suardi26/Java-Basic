@@ -9,19 +9,20 @@
   
     <samp>Example: 5 + 8;</samp>
 
-      <samp>'5' and '8' are operands.</samp>
+    <samp>'5' and '8' are operands.</samp>
 
-      <samp>'+' is an operator.</samp>
+    <samp>'+' is an operator.</samp>
           
 - <samp>Ternary Operators / Conditional Operators are operators that consist of 3 operands.</samp>
 
 - <samp>The purpose of the Ternary Operator is to determine a variable value (Assignment).</samp>
 
-    <samp>Format :
-      
+    <samp>Format :</samp>
+    ```java
       'variable = (expression1) ? (expression2) : (expression3);
-
+    ```
      <samp>Description : when expression1 is true then the value of 'variable' is expression2 but when</samp> 
+  
      <samp>expression1 is false then the value of 'variable' is expression3.</samp>
           
 - <samp>For more details, please open Main.java in repositories suardi26/Java-Basic/Operator Ternary/src/com/practice/</samp>
