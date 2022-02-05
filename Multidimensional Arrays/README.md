@@ -44,25 +44,29 @@
 
 - <samp>Pemberian Nilai awal (Assignment) variabel array 2D :</samp>
 
-``java      
+``java 
+
       tipeData[][] namaVariabel = {
-                    {dataArray1},
-                    {dataArray2},
-                    ...{}
-                    }
+        {dataArray1},
+        {dataArray2},
+        ...{}
+        }
 
       int[][] dataArray2D = {
-                    {1,3,5,7},
-                    {2,4,6,8}
-            }; 
+        {1,3,5,7},
+        {2,4,6,8}
+      }; 
+      
 ```
 
 - <samp>Deklarasi variabel array 2D :</samp>
 
 ```java
+
       tipeData[][] namaVariabel = new tipeData[baris][kolom];
       
       int[][] dataArray2D = new int[3][6];
+      
 ```
 
 - <samp>Untuk lebih jelasnya, silahkan buka [Main.java](https://github.com/suardi26/Java-Basic/blob/main/Multidimensional%20Arrays/src/com/ptactice/Main.java) di repositori suardi26/Java-Basic/Multidimensional Arrays/src/com/practice/.</samp>
