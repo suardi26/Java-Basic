@@ -45,10 +45,13 @@
    </td>
       
    <td>
-   | A | B |
-   |--|--|
-   | false | false |
-   | false | true |
+      
+   | A | B | A (XOR) B |
+   |--|--|--|
+   | false | false | false |
+   | false | true | true |
+   | true | false | true |
+   | true | true | false |
    
    </td>
    </tr>
