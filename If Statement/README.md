@@ -173,6 +173,6 @@
   }
   
   ```
-- <samp>Untuk lebih jelasnya, silahkan buka Main.java di repositori suardi26/Java-Basic/If Statement/src/com/practice/.</samp>
+- <samp>Untuk lebih jelasnya, silahkan buka [Main.java](https://github.com/suardi26/Java-Basic/blob/main/If%20Statement/src/com/practice/Main.java) di repositori suardi26/Java-Basic/If Statement/src/com/practice/.</samp>
 
 - <samp>Semoga harimu menyenangkan.</samp>
