@@ -9,8 +9,8 @@
    <tr>
       <th align="center">Table OR</th>
       <th align="center">Table AND</th>
-      <th align="center">Table OR</th>
-      <th align="center">Table AND</th>
+      <th align="center">Table XOR</th>
+      <th align="center">Table NOT</th>
    </tr>
    <tr>
 
@@ -46,10 +46,10 @@
       
    <td>
       
-   | A | B |
+   | A | (!)A |
    |--|--|
+   | false | truw |
    | false | false |
-   | false | true |
   
    </td>
    </tr>
