@@ -43,11 +43,10 @@
    | true | false | true |
    | true | true | false |
    </td>
+      
    <td>
-
-   |--|
-   | true (!) = false | 
-   | false (!) = true | 
+   | true  = false | 
+   | false  = true | 
 
    </td>
    </tr>
