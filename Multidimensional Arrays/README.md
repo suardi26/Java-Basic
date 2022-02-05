@@ -9,14 +9,19 @@
       
 ```java
       dataTipe[][] variabelName = {
+      
                     {dataArray1},
+                    
                     {dataArray2},
                     ...
                     {dataArray[n]}
+                    
                     }
 
       int[][] dataArray2D = {
+      
                     {1,3,5,7},
+                    
                     {2,4,6,8}
             };
 ```
