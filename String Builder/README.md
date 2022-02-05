@@ -35,6 +35,6 @@
 
 - <samp>When creating a value that is mutable but only accessed by one thread, use a StringBuilder.</samp>
 
-- <samp>For more details, please open Main.java in repositories suardi26/Java-Basic/String Builder/src/com/practice/</samp>
+- <samp>For more details, please open [Main.java](https://github.com/suardi26/Java-Basic/blob/main/String%20Builder/src/com/practice/Main.java) in repositories suardi26/Java-Basic/String Builder/src/com/practice/</samp>
 
 - <samp>Have a nice day.</samp>
