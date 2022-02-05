@@ -53,3 +53,36 @@
 
   }
   ```
+  
+ - <samp>If else nested is a programming technique used to define the execution flow program, but in if else nested there is a branch</samp> 
+
+   <samp>in the branch. So that when a condition is met there is still another branch that determines a condition is true or not.</samp>
+
+   <samp>Format :</samp>
+   
+    
+  ```java
+  if (condition1) {
+
+     if (condition2) {
+
+       // if the condition1 and condition2 is true then code 'A' will be executed
+
+     else{
+
+       // if the condition1 is true and condition2 is false then code 'B' will be execute 
+
+     }
+
+  }else{
+
+    // if the condition1 is false then code 'C' will be execute.
+
+  }
+  
+  ```
+- <samp>For more details, please open Main.java in repositories suardi26/Java-Basic/If Statement/src/com/practice/</samp>
+
+- <samp>Have a nice day.</samp>
+
+---
