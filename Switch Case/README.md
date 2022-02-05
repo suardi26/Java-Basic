@@ -53,7 +53,7 @@
   <samp>seperti '<','<=','>','>='. Sedangkan pada switch case tidak mengenali operator perbandingan.</samp>
   
   <samp>Format :</samp> 
-  
+  ```java
    switch (variabel) {
 
           case 1:
@@ -80,7 +80,7 @@
             // Ketika nilai 'variable' tidak sama dengan semua kondisi CASE, maka perintah 'default' akan dieksekusi.</samp>
           
         }
-  
+  ```
 - <samp>Untuk lebih jelasnya, silahkan buka [Main.java](https://github.com/suardi26/Java-Basic/blob/main/Switch%20Case/src/com/practice/Main.java) di repositori suardi26/Java-Basic/Switch Case/src/com/practice/</samp>
 
 - <samp>Semoga harimu menyenangkan.</samp>
