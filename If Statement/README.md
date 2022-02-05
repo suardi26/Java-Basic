@@ -60,7 +60,6 @@
 
    <samp>Format :</samp>
    
-    
    ```java
    if (condition1) {
 
@@ -87,3 +86,90 @@
 - <samp>Have a nice day.</samp>
 
 ---
+
+##### Note !!! : script ini diperuntukan bagi yang baru memulai belajar java. Jika Sudah Memahami Java dasar Silahkan Di skip.
+
+- <samp>If-else statement / percabangan adalah teknik pemrograman yang digunakan untuk menentukan alur eksekusi program.</samp> 
+ 
+  <samp>misalnya : ketika kondisi bernilai benar maka yang akan dieksekusi "kode program A"</samp>
+  
+  <samp>namun ketika kondisi bernilai salah maka yang akan dieksekusi "kode program B".</samp>
+
+  <samp>Format :</samp>
+  ```java
+ 
+  if (Kondisi) {
+
+    // jika kondisi benar maka code 'A' akan di eksekusi
+
+  } else {
+
+    // jika kondisi salah maka code 'B' akan di eksekusi
+
+  }
+ 
+  ```
+- <samp>if-else if statement / percabangan sama saja dengan if-else statement yang merupakan teknik pemrograman yang digunakan</samp>  
+
+  <samp>untuk menentukan alur eksekusi program namun bedanya kondisi pada if-else if bisa lebih dari satu.</samp>
+  
+  <samp>Format :</samp>
+  
+  ```java
+  
+  if (Kondisi1) {
+
+  // jika Kondisi1 benar maka Kode 'A' akan di eksekusi.
+
+  } else if (Kondisi2) {
+
+    // jika Kondisi2 benar maka Kode 'B' akan di eksekusi.
+
+  } else if (Kondisi3){
+
+    // jika Kondisi3 benar maka Kode 'C' akan di eksekusi.
+
+  } else if{
+
+    // . . . . .
+
+    // . . . . .
+
+    // . . . . .
+
+  }else{
+
+    // Kode ini akan di eksekusi  jika semua kondisi tidak benar.
+
+  }
+  
+  ```
+
+- <sampif else nested adalah teknik pemrograman yang digunakan untuk menentukan alur eksekusi program, </samp> 
+
+  <samp>namun pada if else nested terdapat percabangan di dalam percabangan. Sehingga pada saat suatu kondisi terpenuhi</samp>
+  
+  <samp>masih ada percabangan lain yang menentukan suatu kondisi bernilai benar atau tidak.</samp>
+
+  <samp>Format :</samp>
+  
+  ```java
+  if (kondisi1) {
+
+   if (kondisi2) {
+
+     // Jika Kondisi1 dan Kondisi2 benar maka Kode 'A' akan di eksekusi.
+
+   else{
+
+     // Jika Kondisi1 benar dan Kondisi2 salah maka Kode 'B' akan di eksekusi.
+
+   }
+
+  }else{
+
+    // Jika Kondisi1 salah maka Kode 'C' akan di eksekusi.
+
+  }
+  
+  ```
