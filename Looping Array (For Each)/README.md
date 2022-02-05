@@ -35,14 +35,14 @@
 - <samp>Properti 'length' dari array memberikan informasi mengenai jumlah total elemen yang ada dalam array.</samp>
 
 - <samp>Format :</samp> 
-      ```java
+```java
 
       for (tipeData variabel : array) 
       { 
           pernyataan menggunakan variabel;
       }
 
-      ```
+```
 - <samp>Untuk lebih jelasnya, silahkan buka Main.java di repositori suardi26/Java-Basic/Looping Array (For Each)/src/com/practice/.</samp>
 
 - <samp>Semoga harimu menyenangkan.</samp>
