@@ -1,9 +1,11 @@
 ## If Statement
 ##### Notes !!! : this script is intended for those who are just starting to learn java. If you already understand basic Java, please skip it.
 
-- <samp>if-else statement / branching is a programming technique used to determine the flow of execution program. for example: when the condition</samp> 
+- <samp>if-else statement / branching is a programming technique used to determine the flow of execution program.</samp> 
  
-  <samp>is true then "program code A"  will be executed, but when If the condition evaluates to false, then "program code B" will be executed.</samp>
+  <samp>for example: when the condition is true then "program code A"  will be executed, but when If the condition</samp>
+  
+  <samp>evaluates to false, then "program code B" will be executed.</samp>
 
   <samp>Format :</samp> 
   
