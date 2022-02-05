@@ -1,12 +1,15 @@
-Notes !!! : this script is intended for those who are just starting to learn java. If you already understand basic Java, please skip it.
+## Switch Case
 
-----------------------------------------If Statement----------------------------------------
+##### Notes !!! : this script is intended for those who are just starting to learn java. If you already understand basic Java, please skip it.
 
-- Switch Case is the same as 'if-else if' which is a programming technique used to determine the flow of program execution. But for conditions in 'if-else if' it is more 
+- <samp>Switch Case is the same as 'if-else if' which is a programming technique used to determine the flow of program execution.</samp>  
+ 
+  <samp>But for conditions in 'if-else if' it is more flexible because for 'if-else if' it can recognize comparison operators</samp>  
   
-  flexible because for 'if-else if' it can recognize comparison operators such as '<','<=','>','>='. While the switch case does not recognize the comparison operator.
+  <samp>such as '<','<=','>','>='. While the switch case does not recognize the comparison operator.</samp> 
   
-  Format : 
+  <samp>Format :</samp> 
+  ```java
   
         switch (variable) {
 
@@ -34,52 +37,7 @@ Notes !!! : this script is intended for those who are just starting to learn jav
             // When the value of 'variable' is not equal to all CASE conditions, the 'default' command will be executed.
           
         }
-  
-- For more details, please open Main.java in repositories suardi26/Java-Basic/Switch Case/src/com/practice/
+  ```
+- <samp>For more details, please open Main.java in repositories suardi26/Java-Basic/Switch Case/src/com/practice/</samp> 
 
-- Have a nice day. 
-
-/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-
-Note !!! : script ini diperuntukan bagi yang baru memulai belajar java. Jika Sudah Memahami Java dasar Silahkan Di skip.
-
-----------------------------------------If Statement----------------------------------------
-
-- Switch Case sama seperti 'if-else if' yang merupakan teknik pemrograman yang digunakan untuk menentukan alur eksekusi program. namun untuk kondisi pada 
-
-  'if-else if' lebih fleksibel karena untuk 'if-else if' dapat mengenali operator perbandingan seperti '<','<=','>','>='.
-  
-  Sedangkan pada switch case tidak mengenali operator perbandingan.
-  
-  Format : 
-  
-   switch (variabel) {
-
-          case 1:
-            
-            // ketika nilai 'variabel' sama dengan 1, maka akan dikerjakan kode 'A'.
-            
-            break;
-            
-          case 2:
-          
-            // ketika nilai 'variabel' sama dengan 2, maka akan dikerjakan kode 'B'.
-          
-            break;
-            
-          case 3:
-          
-          
-            // ketika nilai 'variabel' sama dengan 3, maka akan dikerjakan kode 'C'.
-            
-            break;
-          
-          default:
-          
-            // Ketika nilai 'variable' tidak sama dengan semua kondisi CASE, maka perintah 'default' akan dieksekusi.
-          
-        }
-  
-- Untuk lebih jelasnya, silahkan buka Main.java di repositori suardi26/Java-Basic/Switch Case/src/com/practice/
-
-- Semoga harimu menyenangkan.
+- <samp>Have a nice day.</samp> 
