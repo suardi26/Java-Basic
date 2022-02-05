@@ -61,26 +61,26 @@
    <samp>Format :</samp>
    
     
-  ```java
-  if (condition1) {
+   ```java
+   if (condition1) {
 
-     if (condition2) {
+      if (condition2) {
 
-       // if the condition1 and condition2 is true then code 'A' will be executed
+        // if the condition1 and condition2 is true then code 'A' will be executed
 
-     else{
+      else{
 
-       // if the condition1 is true and condition2 is false then code 'B' will be execute 
+        // if the condition1 is true and condition2 is false then code 'B' will be execute 
 
-     }
+      }
 
-  }else{
+   }else{
 
-    // if the condition1 is false then code 'C' will be execute.
+     // if the condition1 is false then code 'C' will be execute.
 
-  }
-  
-  ```
+   }
+
+   ```
   
 - <samp>For more details, please open Main.java in repositories suardi26/Java-Basic/If Statement/src/com/practice/</samp>
 
