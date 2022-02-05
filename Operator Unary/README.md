@@ -33,7 +33,7 @@
     ```
 - <samp>Invert/Negation (inverts a value of boolean data type).</samp>
 
-- <samp>For more details, please open Main.java in repositories suardi26/Java-Basic/Operator Unary/src/com/practice/</samp>
+- <samp>For more details, please open [Main.java](https://github.com/suardi26/Java-Basic/blob/main/Operator%20Unary/src/com/practice/Main.java) in repositories suardi26/Java-Basic/Operator Unary/src/com/practice/</samp>
 
 - <samp>Have a nice day.</samp>
 
@@ -73,7 +73,7 @@
     ```
 - <samp>Invert/Negasi (membalikan suatu nilai tipe data boolean).</samp>
 
-- <samp>Untuk lebih jelasnya, silahkan buka Main.java di repositori suardi26/Java-Basic/Operator Unary/src/com/practice/.</samp>
+- <samp>Untuk lebih jelasnya, silahkan buka [Main.java](https://github.com/suardi26/Java-Basic/blob/main/Operator%20Unary/src/com/practice/Main.java) di repositori suardi26/Java-Basic/Operator Unary/src/com/practice/.</samp>
 
 - <samp>Semoga harimu menyenangkan.</samp>
 
