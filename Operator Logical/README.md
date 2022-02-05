@@ -12,24 +12,24 @@
    </tr>
    <tr>
 
-      <td>
+   <td>
 
-         | A | B | A (OR) B |
-         |--|--|--|
-         | false | false | false |
-         | false | true | true |
-         | true | false | true |
-         | true | true | true |
-         </td><td>
+   | A | B | A (OR) B |
+   |--|--|--|
+   | false | false | false |
+   | false | true | true |
+   | true | false | true |
+   | true | true | true |
+   </td><td>
 
-         | A | B | A && B |
-         |--|--|--|
-         | false | false | false |
-         | false | true | false |
-         | true | false | false |
-         | true | true | true |
+   | A | B | A && B |
+   |--|--|--|
+   | false | false | false |
+   | false | true | false |
+   | true | false | false |
+   | true | true | true |
 
-      </td>
+   </td>
    </tr>
      <tr>
       <th>Table OR</th>
@@ -37,22 +37,22 @@
    </tr>
    <tr>
 
-      <td>
+   <td>
 
-         | A | B | A (OR) B |
-         |--|--|--|
-         | false | false | false |
-         | false | true | true |
-         | true | false | true |
-         | true | true | true |
-         </td><td>
+   | A | B | A (OR) B |
+   |--|--|--|
+   | false | false | false |
+   | false | true | true |
+   | true | false | true |
+   | true | true | true |
+   </td><td>
 
-         | A | B | A && B |
-         |--|--|--|
-         | false | false | false |
-         | false | true | false |
-         | true | false | false |
-         | true | true | true |
+   | A | B | A && B |
+   |--|--|--|
+   | false | false | false |
+   | false | true | false |
+   | true | false | false |
+   | true | true | true |
 
       </td>
    </tr>
