@@ -9,29 +9,6 @@
    <tr>
       <th>Table OR</th>
       <th>Table AND</th>
-   </tr>
-   <tr>
-
-   <td>
-
-   | A | B | A (OR) B |
-   |--|--|--|
-   | false | false | false |
-   | false | true | true |
-   | true | false | true |
-   | true | true | true |
-   </td><td>
-
-   | A | B | A && B |
-   |--|--|--|
-   | false | false | false |
-   | false | true | false |
-   | true | false | false |
-   | true | true | true |
-
-   </td>
-   </tr>
-     <tr>
       <th>Table OR</th>
       <th>Table AND</th>
    </tr>
@@ -45,7 +22,28 @@
    | false | true | true |
    | true | false | true |
    | true | true | true |
-   </td><td>
+   </td>
+   <td>
+
+   | A | B | A && B |
+   |--|--|--|
+   | false | false | false |
+   | false | true | false |
+   | true | false | false |
+   | true | true | true |
+
+   </td>
+   
+   <td>
+
+   | A | B | A (OR) B |
+   |--|--|--|
+   | false | false | false |
+   | false | true | true |
+   | true | false | true |
+   | true | true | true |
+   </td>
+   <td>
 
    | A | B | A && B |
    |--|--|--|
