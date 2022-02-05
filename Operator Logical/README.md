@@ -56,7 +56,7 @@
 
 </table>
         
-- <samp>Untuk lebih jelasnya, silahkan buka[Main.java](https://github.com/suardi26/Java-Basic/blob/main/Operator%20Logical/src/com/practice/Main.java) di repositori suardi26/Java-Basic/Operator Logical/src/com/practice/.</samp>
+- <samp>Untuk lebih jelasnya, silahkan buka [Main.java](https://github.com/suardi26/Java-Basic/blob/main/Operator%20Logical/src/com/practice/Main.java) di repositori suardi26/Java-Basic/Operator Logical/src/com/practice/.</samp>
 
 - <samp>Have a nice day.</samp>
 
