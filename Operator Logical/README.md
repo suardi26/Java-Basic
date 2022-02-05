@@ -25,14 +25,14 @@
 
    <table>
    <tr>
-   <th>Heading 1</th>
-   <th>Heading 2</th>
+   <th>Table OR</th>
+   <th>Table AND</th>
    </tr>
    <tr>
 
    <td>
 
-   | A | B | C |
+   | A | B | A (OR) B |
    |--|--|--|
    | 1 | 2 | 3 |
 
