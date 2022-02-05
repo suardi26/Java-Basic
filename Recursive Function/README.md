@@ -29,9 +29,11 @@
  
   <samp>perulangan didalam fungsi tersebut tanpa menggunkan for, while atau do-while dan dapat diakhiri dengan sebuah kondisi.</samp>
   
-- <samp>Kekurangan fungsi rekursif adalah memungkinkan terjadinya overflow pada stack ( stack tak lagi mampu menangani permintaan pemanggilan</samp> 
+- <samp>Kekurangan fungsi rekursif adalah memungkinkan terjadinya overflow pada stack ( stack tak lagi mampu menangani</samp> 
  
-  <samp>sub rutin  karena kehabisan memori ) dan untuk proses membutuhkan waktu yang lebih lama karena pemanggilan fungsi yang berulang-ulang.</samp>
+  <samp>permintaan pemanggilan sub rutin  karena kehabisan memori ) dan untuk proses membutuhkan waktu yang lebih</samp> 
+ 
+  <samp>lama karena pemanggilan fungsi yang berulang-ulang.</samp>
   
 - <samp>Untuk lebih jelasnya, silahkan buka [Main.java](https://github.com/suardi26/Java-Basic/blob/main/Recursive%20Function/src/com/practice/Main.java) di repositori suardi26/Java-Basic/Recursive Function/src/com/practice/</samp>
 
