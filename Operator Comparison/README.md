@@ -1,49 +1,48 @@
-Notes !!! : this script is intended for those who are just starting to learn java. If you already understand basic Java, please skip it.
+## Operators Comparison
+##### Notes !!! : this script is intended for those who are just starting to learn java. If you already understand basic Java, please skip it.
 
-------------------------------Operators Comparison------------------------------
+- <samp>The comparison operator is an operator used to compare 2 numbers, and the result of this comparison operator is a boolean true or false.</samp>
 
-- The comparison operator is an operator used to compare 2 numbers, and the result of this comparison operator is a boolean true or false.
+- <samp>Types of comparison operators :</samp>
 
-- Types of comparison operators :
-
-      * equal to '==' example a==b
+      * <samp>equal to '==' example a==b</samp>
       
-      * not equal to '!=' example a!=b
+      * <samp>not equal to '!=' example a!=b</samp>
       
-      * less than '<' example a<b
+      * <samp>less than '<' example a<b</samp>
       
-      * Greater than '>' example a>b
+      * <samp>Greater than '>' example a>b</samp>
       
-      * Less than or equal to ' <=' example a<b
+      * <samp>Less than or equal to ' <=' example a<b</samp>
       
-      * Greater than or equal to '>=' example a>b
+      * <samp>Greater than or equal to '>=' example a>b</samp>
       
-- For more details, please open Main.java in repositories suardi26/Java-Basic/Operator Comparison/src/com/practice/
+- <samp>For more details, please open [Main.java](https://github.com/suardi26/Java-Basic/blob/main/Operator%20Comparison/src/com/practice/Main.java) in repositories suardi26/Java-Basic/Operator Comparison/src/com/practice/</samp>
      
-- Have a nice day.
+- <samp>Have a nice day.</samp>
 
-/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+---
 
-Note !!! : script ini diperuntukan bagi yang baru memulai belajar java. Jika Sudah Memahami Java dasar Silahkan Di skip.
+##### Note !!! : script ini diperuntukan bagi yang baru memulai belajar java. Jika Sudah Memahami Java dasar Silahkan Di skip.
 
-------------------------------Operators Comparison------------------------------
+- <samp>Operator Comparison/Perbandingan adalah operator yang digunakan untuk membandingkan 2 buah angka, dan hasil dari operator perbandingan</samp> 
+ 
+  <samp>Ini adalah boolean true atau false.</samp> 
 
-- Operator Comparison/Perbandingan adalah operator yang digunakan untuk membandingkan 2 buah angka, dan hasil dari operator perbandingan Ini adalah boolean true atau false.
+- <samp>Jenis-Jenis operator perbandingan</samp> 
 
-- Jenis-Jenis operator perbandingan
-
-      * Sama Dengan '==' contoh a==b
+      * <samp>Sama Dengan '==' contoh a==b</samp> 
       
-      * Tidak Sama Dengan '!=' contoh a!=b
+      * <samp>Tidak Sama Dengan '!=' contoh a!=b</samp> 
       
-      * Kurang Dari '<' contoh a<b
+      * <samp>Kurang Dari '<' contoh a<b</samp> 
       
-      * Lebih Dari '>' example a>b
+      * <samp>Lebih Dari '>' example a>b</samp> 
       
-      * Kurang Dari Atau Sama Dengan ' <=' example a<b
+      * <samp>Kurang Dari Atau Sama Dengan ' <=' example a<b</samp> 
       
-      * Lebih Dari Atau Sama Dengan '>=' example a>b
+      * <samp>Lebih Dari Atau Sama Dengan '>=' example a>b</samp> 
       
-- Untuk lebih jelasnya, silahkan buka Main.java di repositori suardi26/Java-Basic/Operator Comparison/src/com/practice/.
+- <samp>Untuk lebih jelasnya, silahkan buka [Main.java](https://github.com/suardi26/Java-Basic/blob/main/Operator%20Comparison/src/com/practice/Main.java) di repositori suardi26/Java-Basic/Operator Comparison/src/com/practice/.</samp> 
 
-- Semoga harimu menyenangkan.
+- <samp>Semoga harimu menyenangkan.</samp> 
