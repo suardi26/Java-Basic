@@ -45,11 +45,11 @@
    </td>
       
    <td>
-   | A | D | (!) A |
-   |--|--|--|
-   | true | = | false | 
-   | false | = | true | 
-
+   | A | B |
+   |--|--|
+   | false | false |
+   | false | true |
+   
    </td>
    </tr>
 
