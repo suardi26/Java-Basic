@@ -1,39 +1,38 @@
-Notes !!! : this script is intended for those who are just starting to learn java. If you already understand basic Java, please skip it.
+## Recursive Function
+##### Notes !!! : this script is intended for those who are just starting to learn java. If you already understand basic Java, please skip it.
 
-----------------------------------------Recursive Function----------------------------------------
+- <samp>A recursive function is a function that calls itself.</samp>
 
-- A recursive function is a function that calls itself.
+- <samp>A recursive function is a function in which there are instructions that call the function itself.</samp>
 
-- A recursive function is a function in which there are instructions that call the function itself.
-
-- A recursive function is implemented in a function that calls itself, so that it loops inside the function without using for, while or do-while and can end with a condition.
-
-- The disadvantages of recursive functions are that they allow stack overflow (the stack is no longer able to 
-
-  handle sub-routine calls due to memory loss) and processes take longer due to repeated function calls.
-  
-- For more details, please open Main.java in repositories suardi26/Java-Basic/Recursive Function/src/com/practice/
-
-- Have a nice day. 
-
-/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-
-Note !!! : script ini diperuntukan bagi yang baru memulai belajar java. Jika Sudah Memahami Java dasar Silahkan Di skip.
-
-----------------------------------------Recursive Function----------------------------------------
-
-- Fungsi Rekursif adalah fungsi yang memanggil dirinya sendiri.
-
-- Fungsi rekursif adalah fungsi yang di dalamnya terdapat intruksi yang memanggil fungsi itu sendiri.
-
-- Fungsi rekursif diimplementasikan dalam sebuah fungsi yang memanggil dirinya sendiri, sehingga terjadilah 
+- <samp>A recursive function is implemented in a function that calls itself, so that it loops inside the function</samp> 
  
-  perulangan didalam fungsi tersebut tanpa menggunkan for, while atau do-while dan dapat diakhiri dengan sebuah kondisi.
-  
-- Kekurangan fungsi rekursif adalah memungkinkan terjadinya overflow pada stack ( stack tak lagi mampu menangani permintaan
-  
-  pemanggilan sub rutin  karena kehabisan memori ) dan untuk proses membutuhkan waktu yang lebih lama karena pemanggilan fungsi yang berulang-ulang.
-  
-- Untuk lebih jelasnya, silahkan buka Main.java di repositori suardi26/Java-Basic/Recursive Function/src/com/practice/
+  <samp>without using for, while or do-while and can end with a condition.</samp>
 
-- Semoga harimu menyenangkan.
+- <samp>The disadvantages of recursive functions are that they allow stack overflow (the stack is no longer able to</samp> 
+
+  <samp>handle sub-routine calls due to memory loss) and processes take longer due to repeated function calls.</samp>
+  
+- <samp>For more details, please open [Main.java](https://github.com/suardi26/Java-Basic/blob/main/Recursive%20Function/src/com/practice/Main.java) in repositories suardi26/Java-Basic/Recursive Function/src/com/practice/</samp>
+
+- <samp>Have a nice day.</samp>
+
+---
+
+##### Note !!! : script ini diperuntukan bagi yang baru memulai belajar java. Jika Sudah Memahami Java dasar Silahkan Di skip.
+
+- <samp>Fungsi Rekursif adalah fungsi yang memanggil dirinya sendiri.</samp>
+
+- <samp>Fungsi rekursif adalah fungsi yang di dalamnya terdapat intruksi yang memanggil fungsi itu sendiri.</samp>
+
+- <samp>Fungsi rekursif diimplementasikan dalam sebuah fungsi yang memanggil dirinya sendiri, sehingga terjadilah</samp> 
+ 
+  <samp>perulangan didalam fungsi tersebut tanpa menggunkan for, while atau do-while dan dapat diakhiri dengan sebuah kondisi.</samp>
+  
+- <samp>Kekurangan fungsi rekursif adalah memungkinkan terjadinya overflow pada stack ( stack tak lagi mampu menangani permintaan pemanggilan</samp> 
+ 
+  <samp>sub rutin  karena kehabisan memori ) dan untuk proses membutuhkan waktu yang lebih lama karena pemanggilan fungsi yang berulang-ulang.</samp>
+  
+- <samp>Untuk lebih jelasnya, silahkan buka [Main.java](https://github.com/suardi26/Java-Basic/blob/main/Recursive%20Function/src/com/practice/Main.java) di repositori suardi26/Java-Basic/Recursive Function/src/com/practice/</samp>
+
+- <samp>Semoga harimu menyenangkan.</samp>
