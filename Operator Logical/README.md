@@ -7,25 +7,56 @@
    
    <table>
    <tr>
-   <th>Table OR</th>
-   <th>Table AND</th>
+      <th>Table OR</th>
+      <th>Table AND</th>
    </tr>
    <tr>
 
-   <td>
+      <td>
 
-   | A | B | A (OR) B |
-   |--|--|--|
-   | (samp)false(/samp) | false | false |
-   | false | true | true |
-   | true | false | true |
-   | true | true | true |
-   </td><td>
+         | A | B | A (OR) B |
+         |--|--|--|
+         | false | false | false |
+         | false | true | true |
+         | true | false | true |
+         | true | true | true |
+         </td><td>
 
-   | A | B | C |
-   |--|--|--|
-   | 1 | 2 | 3 |
+         | A | B | A && B |
+         |--|--|--|
+         | false | false | false |
+         | false | true | false |
+         | true | false | false |
+         | true | true | true |
 
-   </td></tr> </table>
+      </td>
+   </tr>
+     <tr>
+      <th>Table OR</th>
+      <th>Table AND</th>
+   </tr>
+   <tr>
+
+      <td>
+
+         | A | B | A (OR) B |
+         |--|--|--|
+         | false | false | false |
+         | false | true | true |
+         | true | false | true |
+         | true | true | true |
+         </td><td>
+
+         | A | B | A && B |
+         |--|--|--|
+         | false | false | false |
+         | false | true | false |
+         | true | false | false |
+         | true | true | true |
+
+      </td>
+   </tr>
+
+</table>
         
 - <sampUntuk lebih jelasnya, silahkan buka Main.java di repositori suardi26/Java-Basic/Operator Logical/src/com/practice/.</samp>
