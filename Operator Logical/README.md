@@ -1,9 +1,9 @@
 ## Operators Logical
 ##### Notes !!! : this script is intended for those who are just starting to learn java. If you already understand basic Java, please skip it.
 
-- <sampOperator Logika adalah operator yang dipakai pada 2 kondisi atau lebih sehingga menghasilkan nilai boolean true atau false.</samp>
+- <samp>Operator Logika adalah operator yang dipakai pada 2 kondisi atau lebih sehingga menghasilkan nilai boolean true atau false.</samp>
 
-- <sampAda beberapa jenis operator logika pada Java yaitu OR (||), AND (&&), NOT (!), XOR (^).</samp>
+- <samp>Ada beberapa jenis operator logika pada Java yaitu OR (||), AND (&&), NOT (!), XOR (^).</samp>
    
    <table>
    <tr>
@@ -14,17 +14,13 @@
 
    <td>
 
-   | A | B | C |
+   |Table OR |
+   | A || B || A||B |
    |--|--|--|
    | 1 | 2 | 3 |
 
-   </td><td>
-
-   | A | B | C |
-   |--|--|--|
-   | 1 | 2 | 3 |
-
-   </td></tr> </table>
+   </td>
+   </tr> </table>
         
              table AND
 
