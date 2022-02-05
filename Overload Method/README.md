@@ -17,14 +17,14 @@
 
 ##### Note !!! : script ini diperuntukan bagi yang baru memulai belajar java. Jika Sudah Memahami Java dasar Silahkan Di skip.
 
-- Method overload adalah membuat beberapa method dengan nama method yang sama, tapi dibedakan dari tipe data atau jumlah parameter.
+- <samp>Method overload adalah membuat beberapa method dengan nama method yang sama, tapi dibedakan dari tipe data atau jumlah parameter.</samp>
 
-- Seperti penamaan variabel, compiler java akan error jika menemukan 2 atau lebih nama method yang sama, 
+- <samp>Seperti penamaan variabel, compiler java akan error jika menemukan 2 atau lebih nama method yang sama,</samp> 
  
-  akan tetapi jika jumlah parameter atau tipe data parameter berbeda maka akan dianggap sebagai method yang berbeda.
+  <samp>akan tetapi jika jumlah parameter atau tipe data parameter berbeda maka akan dianggap sebagai method yang berbeda.</samp>
 
-- Method overloading bisa saja terjadi dalam satu class yang sama, dan bisa juga dari class turunan.
+- <samp>Method overloading bisa saja terjadi dalam satu class yang sama, dan bisa juga dari class turunan.</samp>
 
-- Untuk lebih jelasnya, silahkan buka Main.java di repositori suardi26/Java-Basic/Overload Method/src/com/practice/
+- <samp>Untuk lebih jelasnya, silahkan buka Main.java di repositori suardi26/Java-Basic/Overload Method/src/com/practice/</samp>
 
-- Semoga harimu menyenangkan.
+- <samp>Semoga harimu menyenangkan.</samp>
