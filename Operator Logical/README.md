@@ -7,7 +7,7 @@
    
    <table>
    <tr>
-      <th>  Table OR</th>
+      <tha lign="value">Table OR</th>
       <th>Table AND</th>
       <th>Table OR</th>
       <th>Table AND</th>
