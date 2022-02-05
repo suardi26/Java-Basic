@@ -7,17 +7,17 @@
 
 - <samp>Types of comparison operators :</samp>
 
-      * <samp>equal to '==' example a==b</samp>
-      
-      * <samp>not equal to '!=' example a!=b</samp>
-      
-      * <samp>less than '<' example a<b</samp>
-      
-      * <samp>Greater than '>' example a>b</samp>
-      
-      * <samp>Less than or equal to ' <=' example a<b</samp>
-      
-      * <samp>Greater than or equal to '>=' example a>b</samp>
+   * <samp>equal to '==' example a==b</samp>
+
+   * <samp>not equal to '!=' example a!=b</samp>
+
+   * <samp>less than '<' example a<b</samp>
+
+   * <samp>Greater than '>' example a>b</samp>
+
+   * <samp>Less than or equal to ' <=' example a<b</samp>
+
+   * <samp>Greater than or equal to '>=' example a>b</samp>
       
 - <samp>For more details, please open [Main.java](https://github.com/suardi26/Java-Basic/blob/main/Operator%20Comparison/src/com/practice/Main.java) in repositories suardi26/Java-Basic/Operator Comparison/src/com/practice/</samp>
      
@@ -33,17 +33,17 @@
 
 - <samp>Jenis-Jenis operator perbandingan</samp> 
 
-      * <samp>Sama Dengan '==' contoh a==b</samp> 
-      
-      * <samp>Tidak Sama Dengan '!=' contoh a!=b</samp> 
-      
-      * <samp>Kurang Dari '<' contoh a<b</samp> 
-      
-      * <samp>Lebih Dari '>' example a>b</samp> 
-      
-      * <samp>Kurang Dari Atau Sama Dengan ' <=' example a<b</samp> 
-      
-      * <samp>Lebih Dari Atau Sama Dengan '>=' example a>b</samp> 
+   * <samp>Sama Dengan '==' contoh a==b</samp> 
+
+   * <samp>Tidak Sama Dengan '!=' contoh a!=b</samp> 
+
+   * <samp>Kurang Dari '<' contoh a<b</samp> 
+
+   * <samp>Lebih Dari '>' example a>b</samp> 
+
+   * <samp>Kurang Dari Atau Sama Dengan ' <=' example a<b</samp> 
+
+   * <samp>Lebih Dari Atau Sama Dengan '>=' example a>b</samp> 
       
 - <samp>Untuk lebih jelasnya, silahkan buka [Main.java](https://github.com/suardi26/Java-Basic/blob/main/Operator%20Comparison/src/com/practice/Main.java) di repositori suardi26/Java-Basic/Operator Comparison/src/com/practice/.</samp> 
 
