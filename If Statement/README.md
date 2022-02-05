@@ -33,11 +33,11 @@
 
   } else if (condition2) {
 
-    // if the condition2 is false then code 'B' will be executed
+    // if the condition2 is true then code 'B' will be executed
 
   } else if (condition3){
 
-    // if the condition3 is false then code 'C' will be executed
+    // if the condition3 is true then code 'C' will be executed
 
   } else if{
 
