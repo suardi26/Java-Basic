@@ -3,9 +3,11 @@
 
 - <samp>When the String Value is immutable, it is different from the String Builder and String Buffer whose value can be changed (mutable).</samp>
 
-- <samp>String Buffer and String Builder are classes that are used to create string objects so that their values can be modified. but the difference</samp> 
+- <samp>String Buffer and String Builder are classes that are used to create string objects so that their values can be modified.</samp> 
 
-  <samp>is that String Buffer is synchronized so it is thread safe, while String Builder is not synchronized, but String Buffer is slower than String Builder.</samp>
+  <samp>but the difference is that String Buffer is synchronized so it is thread safe, while String Builder is</samp>
+  
+  <samp>not synchronized, but String Buffer is slower than String Builder. </samp>
   
 - <samp>Some of the methods in StringBuilder :</samp>
 
@@ -13,11 +15,15 @@
       
      - <samp>insert is a method to add StringBuilder Value of a certain character.</samp>
      
-     - <samp>delete is a method to delete StringBuilder values starting from certain characters up to certain characters depending on the specified parameters.</samp>
+     - <samp>delete is a method to delete StringBuilder values starting from certain characters up to certain characters depending on</samp>
+
+       <samp>the specified parameters.</samp>
      
      - <samp>setChartAt is a method used to change the StringBuilder value for a certain character.</samp>
      
-     - <samp>replace is a method used to change the StringBuilder value starting from a certain character up to a certain character depending on the parameters entered.</samp>
+     - <samp>replace is a method used to change the StringBuilder value starting from a certain character up to a certain character</samp> 
+      
+       <samp>depending on the parameters entered.</samp>
 
      - <samp>reverse is the method used to reverse the StringBuilder value.</samp>
 
