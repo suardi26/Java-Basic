@@ -1,7 +1,9 @@
 ## Operators Comparison
 ##### Notes !!! : this script is intended for those who are just starting to learn java. If you already understand basic Java, please skip it.
 
-- <samp>The comparison operator is an operator used to compare 2 numbers, and the result of this comparison operator is a boolean true or false.</samp>
+- <samp>The comparison operator is an operator used to compare 2 numbers, and the result of this comparison operator</samp> 
+ 
+  <samp>is a boolean true or false.</samp>
 
 - <samp>Types of comparison operators :</samp>
 
@@ -25,9 +27,9 @@
 
 ##### Note !!! : script ini diperuntukan bagi yang baru memulai belajar java. Jika Sudah Memahami Java dasar Silahkan Di skip.
 
-- <samp>Operator Comparison/Perbandingan adalah operator yang digunakan untuk membandingkan 2 buah angka, dan hasil dari operator perbandingan</samp> 
+- <samp>Operator Comparison/Perbandingan adalah operator yang digunakan untuk membandingkan 2 buah angka, dan hasil dari</samp> 
  
-  <samp>Ini adalah boolean true atau false.</samp> 
+  <samp>operator perbandingan Ini adalah boolean true atau false.</samp> 
 
 - <samp>Jenis-Jenis operator perbandingan</samp> 
 
