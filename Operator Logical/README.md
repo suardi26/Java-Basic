@@ -8,9 +8,9 @@
    <table>
    <tr>
       <th align="center">Table OR</th>
-      <th>Table AND</th>
-      <th>Table OR</th>
-      <th>Table AND</th>
+      <th align="center">Table AND</th>
+      <th align="center">Table OR</th>
+      <th align="center">Table AND</th>
    </tr>
    <tr>
 
@@ -25,7 +25,7 @@
    </td>
    <td>
 
-   | A | B | A && B |
+   | A | B | A (&&) B |
    |--|--|--|
    | false | false | false |
    | false | true | false |
@@ -36,25 +36,27 @@
    
    <td>
 
-   | A | B | A (OR) B |
+   | A | B | A (XOR) B |
    |--|--|--|
    | false | false | false |
    | false | true | true |
    | true | false | true |
-   | true | true | true |
+   | true | true | false |
    </td>
    <td>
 
-   | A | B | A && B |
-   |--|--|--|
-   | false | false | false |
-   | false | true | false |
-   | true | false | false |
-   | true | true | true |
+   |--|
+   | true (!) = false| 
+   | false (!) = true| 
 
    </td>
    </tr>
 
 </table>
         
-- <sampUntuk lebih jelasnya, silahkan buka Main.java di repositori suardi26/Java-Basic/Operator Logical/src/com/practice/.</samp>
+- <samp>Untuk lebih jelasnya, silahkan buka Main.java di repositori suardi26/Java-Basic/Operator Logical/src/com/practice/.</samp>
+
+- <samp>Have a nice day.</samp>
+
+---
+
