@@ -64,7 +64,7 @@
         } while (Kondisi);
    ```   
         
-- <samp>Untuk lebih jelasnya, silahkan buka[Main.java](https://github.com/suardi26/Java-Basic/blob/main/While%20And%20Do-While%20Looping/src/com/practice/Main.java) di repositori suardi26/Java-Basic/While And Do-While Looping/src/com/practice/</samp>
+- <samp>Untuk lebih jelasnya, silahkan buka [Main.java](https://github.com/suardi26/Java-Basic/blob/main/While%20And%20Do-While%20Looping/src/com/practice/Main.java) di repositori suardi26/Java-Basic/While And Do-While Looping/src/com/practice/</samp>
 
 - <samp>Semoga harimu menyenangkan.</samp>
         
