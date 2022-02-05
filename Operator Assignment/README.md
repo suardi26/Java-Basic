@@ -1,7 +1,6 @@
 ## Operators Assignment
 ##### Notes !!! : this script is intended for those who are just starting to learn java. If you already understand basic Java, please skip it.
 
-
 - <samp>Assignment operator is an operator used to manipulate and initialize the value of a variable.</samp>
 
 - <samp>The Assignment operator is identical to the '=' symbol and can be combined with any arithmetic operator symbol.</samp> 
