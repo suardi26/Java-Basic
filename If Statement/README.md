@@ -18,8 +18,8 @@
 
   }
   ```
-- <samp>if-else if statement / branching is the same as 'if-else statement' which is a programming technique that used to determine the flow of</samp>  
+- <samp>if-else if statement / branching is the same as 'if-else statement' which is a programming technique that used to determine</samp>  
 
-  <samp>program execution, but the difference in the 'if-else if' conditions can be more than one.</samp>
+  <samp>the flow of program execution, but the difference in the 'if-else if' conditions can be more than one.</samp>
   
   <samp>Format :</samp>
