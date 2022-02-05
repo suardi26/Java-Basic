@@ -16,7 +16,7 @@
                     ...
                     {dataArray[n]}
                     
-                    }
+            };
 
       int[][] dataArray2D = {
       
@@ -51,13 +51,14 @@
 
 ```java 
       tipeData[][] namaVariabel = {
+        
         {dataArray1},
         
         {dataArray2},
         ...
         {dataArray[n]}
         
-        }
+        };
 
       int[][] dataArray2D = {
       
