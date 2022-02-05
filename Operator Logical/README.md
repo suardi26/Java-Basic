@@ -7,16 +7,14 @@
    
    <table>
    <tr>
-   <th>Table OR</th>
+      <th>Table OR</th>
    </tr>
    <tr>
-
-   <td>
-   | A | B | A||B  |
-   |--|--|--|
-   | 1 | 2 | 3 |
-
-   </td>
+      <td>
+      | A | B | C |
+      |--|--|--|
+      | 1 | 2 | 3 |
+      </td>
    </tr> </table>
         
              table AND
