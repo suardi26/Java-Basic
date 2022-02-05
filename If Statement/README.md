@@ -26,33 +26,33 @@
   
   <samp>Format :</samp>
   
-  ```java
-  if (condition1) {
+   ```java
+   if (condition1) {
 
-  // if the condition1 is true then code 'A' will be executed
+   // if the condition1 is true then code 'A' will be executed
 
-  } else if (condition2) {
+   } else if (condition2) {
 
-    // if the condition2 is true then code 'B' will be executed
+     // if the condition2 is true then code 'B' will be executed
 
-  } else if (condition3){
+   } else if (condition3){
 
-    // if the condition3 is true then code 'C' will be executed
+     // if the condition3 is true then code 'C' will be executed
 
-  } else if{
+   } else if{
 
-    // . . . . .
+     // . . . . .
 
-    // . . . . .
+     // . . . . .
 
-    // . . . . .
+     // . . . . .
 
-  }else{
+   }else{
 
-    // This code will be executed if all conditions are not true
+     // This code will be executed if all conditions are not true
 
-  }
-  ```
+   }
+   ```
   
  - <samp>If else nested is a programming technique used to define the execution flow program, but in if else nested there is a branch</samp> 
 
