@@ -19,9 +19,11 @@
     
     - <samp>'equals' to compare the two string values whether they are equal.</samp>
 
-    - <samp>'compareTo' to compare String values alphabetically, when the first String value is greater than the second String value then the value</samp>
+    - <samp>'compareTo' to compare String values alphabetically, when the first String value is greater than the second</samp>
      
-      <samp>is positive but when the second string is greater than the first string then the value is negative, when both values are equal it will be 0.</samp>
+      <samp>String value then the value is positive but when the second string is greater than the first string then</samp>
+      
+      <samp>the value is negative, when both values are equal it will be 0.</samp>
 
     - <samp>Concatenation '+' is used for concatenation of String values.</samp>
    
