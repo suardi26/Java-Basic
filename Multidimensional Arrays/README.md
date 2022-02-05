@@ -11,7 +11,8 @@
       dataTipe[][] variabelName = {
                     {dataArray1},
                     {dataArray2},
-                    ...{}
+                    ...
+                    {dataArray[n]}
                     }
 
       int[][] dataArray2D = {
@@ -28,7 +29,7 @@
       int[][] dataArray2D = new int[3][6];
 ```
 
-- <samp>For more details, please open Main.java in repositories suardi26/Java-Basic/Multidimensional Arrays/src/com/practice/</samp>
+- <samp>For more details, please open [Main.java](https://github.com/suardi26/Java-Basic/blob/main/Multidimensional%20Arrays/src/com/ptactice/Main.java) in repositories suardi26/Java-Basic/Multidimensional Arrays/src/com/practice/</samp>
 
 - <samp>Have a nice day.</samp>
 
@@ -37,12 +38,13 @@
 ##### Note !!! : script ini diperuntukan bagi yang baru memulai belajar java. Jika Sudah Memahami Java dasar Silahkan Di skip.
 
 
-- Array 2D adalah array yang memiliki 2 indeks yaitu baris dan kolom.
+- <samp>Array 2D adalah array yang memiliki 2 indeks yaitu baris dan kolom.</samp>
 
-- Array 2D termasuk array multidimensi karena memiliki lebih dari 1 index.
+- <samp>Array 2D termasuk array multidimensi karena memiliki lebih dari 1 index.</samp>
 
-- Pemberian Nilai awal (Assignment) variabel array 2D :
-      
+- <samp>Pemberian Nilai awal (Assignment) variabel array 2D :</samp>
+
+``java      
       tipeData[][] namaVariabel = {
                     {dataArray1},
                     {dataArray2},
@@ -53,13 +55,16 @@
                     {1,3,5,7},
                     {2,4,6,8}
             }; 
+```
 
-- Deklarasi variabel array 2D :
- 
+- <samp>Deklarasi variabel array 2D :</samp>
+
+```java
       tipeData[][] namaVariabel = new tipeData[baris][kolom];
       
       int[][] dataArray2D = new int[3][6];
-      
-- Untuk lebih jelasnya, silahkan buka Main.java di repositori suardi26/Java-Basic/Multidimensional Arrays/src/com/practice/.
+```
 
-- Semoga harimu menyenangkan.
+- <samp>Untuk lebih jelasnya, silahkan buka [Main.java](https://github.com/suardi26/Java-Basic/blob/main/Multidimensional%20Arrays/src/com/ptactice/Main.java) di repositori suardi26/Java-Basic/Multidimensional Arrays/src/com/practice/.</samp>
+
+- <samp>Semoga harimu menyenangkan.</samp>
