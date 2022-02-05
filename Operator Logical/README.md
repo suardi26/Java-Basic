@@ -7,14 +7,11 @@
    
    <table>
    <tr>
-   <th>Heading 1</th>
-   <th>Heading 2</th>
+   <th>Table OR</th>
    </tr>
    <tr>
 
    <td>
-
-   |Table OR |
    | A || B || A||B |
    |--|--|--|
    | 1 | 2 | 3 |
