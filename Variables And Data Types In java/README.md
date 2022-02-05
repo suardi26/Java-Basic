@@ -7,7 +7,7 @@
 
 - <samp>For example:</samp>
   ```java
-  "double ioT = 3;"
+  double ioT = 3;
   
   //Note: The variable name is ioT and the data type is double and the value is 3.
   ```
@@ -51,7 +51,7 @@
 
 - <samp>Misalnya :</samp> 
   ```java
-  "double ioT = 3;" 
+  double ioT = 3; 
   
   //Ket: Nama variabelnya adalah ioT dan tipe datanya double serta nilainya 3.</samp>
   ```
@@ -81,7 +81,9 @@
 
 - <samp>Untuk tipe data boolean adalah tipe data yang termasuk dalam kelompok logika dan memiliki nilai true atau false.</samp>
 
-- <samp>Untuk lebih jelas, silahkan buka [Main.java](https://github.com/suardi26/Java-Basic/blob/main/Variables%20And%20Data%20Types%20In%20java/src/com/practice/Main.java) pada repositories suardi26/Java-Basic/Variables And Data Types In Java/src/com/practice/.</samp>
+- <samp>Untuk lebih jelas, silahkan buka [Main.java](https://github.com/suardi26/Java-Basic/blob/main/Variables%20And%20Data%20Types%20In%20java/src/com/practice/Main.java) pada repositories suardi26/Java-Basic/</samp>
+
+- <samp>Variables And Data Types In Java/src/com/practice/.</samp>
 
 - <samp>Semoga harimu menyenangkan.</samp>
 
