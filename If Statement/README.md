@@ -156,15 +156,15 @@
   ```java
   if (kondisi1) {
 
-   if (kondisi2) {
+    if (kondisi2) {
 
-     // Jika Kondisi1 dan Kondisi2 benar maka Kode 'A' akan di eksekusi.
+      // Jika Kondisi1 dan Kondisi2 benar maka Kode 'A' akan di eksekusi.
 
-   else{
+    }else{
 
-     // Jika Kondisi1 benar dan Kondisi2 salah maka Kode 'B' akan di eksekusi.
+      // Jika Kondisi1 benar dan Kondisi2 salah maka Kode 'B' akan di eksekusi.
 
-   }
+    }
 
   }else{
 
