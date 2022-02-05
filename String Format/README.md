@@ -1,49 +1,46 @@
-Notes !!! : this script is intended for those who are just starting to learn java. If you already understand basic Java, please skip it.
+## String Format
+##### Notes !!! : this script is intended for those who are just starting to learn java. If you already understand basic Java, please skip it.
 
-----------------------------------------String Format----------------------------------------
+- <samp>Format strings can be used by calling the 'printf()' method, the 'format()' method in the 'String' class.</samp>
 
-- Format strings can be used by calling the 'printf()' method, the 'format()' method in the 'String' class.
-
-- Character conversion only applies to certain data types :
+- <samp>Character conversion only applies to certain data types :</samp>
           
-          - %s = Strings.
-         
-          - %d = Integer.
-           
-          - %f = Floating points.
-           
-          - %c = Characters.
-           
-          - %b = Boolean.
+  - <samp>%s = Strings.</samp>
+
+  - <samp>%d = Integer.</samp>
+
+  - <samp>%f = Floating points.</samp>
+
+  - <samp>%c = Characters.</samp>
+
+  - <samp>%b = Boolean.</samp>
+
+  - <samp>%t = formats date/time values.</samp>
           
-          - %t = formats date/time values.
-          
-- For more details, please open Main.java in repositories suardi26/Java-Basic/String/src/com/practice/
+- <samp>For more details, please open [Main.java](https://github.com/suardi26/Java-Basic/blob/main/String%20Format/src/com/practice/Main.java) in repositories suardi26/Java-Basic/String Format/src/com/practice/</samp>
 
-- Have a nice day.
+- <samp>Have a nice day.</samp>
 
-/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+---
 
-Note !!! : script ini diperuntukan bagi yang baru memulai belajar java. Jika Sudah Memahami Java dasar Silahkan Di skip.
+##### Note !!! : script ini diperuntukan bagi yang baru memulai belajar java. Jika Sudah Memahami Java dasar Silahkan Di skip.
 
-----------------------------------------String Format----------------------------------------
+- <samp>format string dapat digunakan dengan memanggil method 'printf()' , method 'format()' yang ada pada class 'String',</samp>
 
-- format string dapat digunakan dengan memanggil method 'printf()' , method 'format()' yang ada pada class 'String',
-
-- Karakter konversi hanya berlaku untuk tipe data tertentu : 
+- <samp>Karakter konversi hanya berlaku untuk tipe data tertentu :</samp> 
          
-       - %s = String.
-         
-       - %d = Integer.
-         
-       - %f = Floating point.
-         
-       - %c = Character.
-         
-       - %b = Boolean.
-        
-       - %t = formats date/time values.
+  - <samp>%s = String.</samp>
+
+  - <samp>%d = Integer.</samp>
+
+  - <samp>%f = Floating point.</samp>
+
+  - <samp>%c = Character.</samp>
+
+  - <samp>%b = Boolean.</samp>
+
+  - <samp>%t = formats date/time values.</samp>
        
-- Untuk lebih jelasnya, silahkan buka Main.java di repositori suardi26/Java-Basic/String Format/src/com/practice/.
+- <samp>Untuk lebih jelasnya, silahkan buka Main.java di repositori suardi26/Java-Basic/String Format/src/com/practice/.</samp>
 
-- Semoga harimu menyenangkan.
+- <samp>Semoga harimu menyenangkan.</samp>
