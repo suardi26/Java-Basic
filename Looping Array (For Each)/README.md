@@ -14,11 +14,11 @@
 
       for (dataType variable : array) 
       { 
-      statements using variable;
+            statements using variable;
       }
 
 ```
-- <samp>For more details, please open Main.java in repositories suardi26/Java-Basic/Looping Array (For Each)/src/com/practice/</samp>
+- <samp>For more details, please open [Main.java](https://github.com/suardi26/Java-Basic/blob/main/Looping%20Array%20(For%20Each)/src/com/practice/Main.java) in repositories suardi26/Java-Basic/Looping Array (For Each)/src/com/practice/</samp>
 
 - <samp>Have a nice day.</samp>
 
@@ -43,6 +43,6 @@
       }
 
 ```
-- <samp>Untuk lebih jelasnya, silahkan buka Main.java di repositori suardi26/Java-Basic/Looping Array (For Each)/src/com/practice/.</samp>
+- <samp>Untuk lebih jelasnya, silahkan buka [Main.java](https://github.com/suardi26/Java-Basic/blob/main/Looping%20Array%20(For%20Each)/src/com/practice/Main.java) di repositori suardi26/Java-Basic/Looping Array (For Each)/src/com/practice/.</samp>
 
 - <samp>Semoga harimu menyenangkan.</samp>
