@@ -25,7 +25,7 @@
   
      <samp>expression1 is false then the value of 'variable' is expression3.</samp>
           
-- <samp>For more details, please open Main.java in repositories suardi26/Java-Basic/Operator Ternary/src/com/practice/</samp>
+- <samp>For more details, please open [Main.java](https://github.com/suardi26/Java-Basic/blob/main/Operator%20Ternary/src/com/practice/Main.java) in repositories suardi26/Java-Basic/Operator Ternary/src/com/practice/</samp>
 
 - <samp>Have a nice day.</samp>
  
@@ -50,12 +50,12 @@
 
   <samp>Format :</samp>
   ```java
-    'variable = (expression1) ? (expression2) : (expression3);
+     variable = (expression1) ? (expression2) : (expression3);
   ```
     <samp>Keterangan : ketika expression1 bernilai benar maka nilai 'variable' adalah expression2 namun ketika</samp> 
     
     <samp>expression1 bernilai salah maka nilai 'variable' adalah expression3.</samp>
           
-- <samp>Untuk lebih jelasnya, silahkan buka Main.java di repositori suardi26/Java-Basic/Operator Ternary/src/com/practice/.</samp>
+- <samp>Untuk lebih jelasnya, silahkan buka [Main.java](https://github.com/suardi26/Java-Basic/blob/main/Operator%20Ternary/src/com/practice/Main.java) di repositori suardi26/Java-Basic/Operator Ternary/src/com/practice/.</samp>
 
 - <samp>Semoga harimu menyenangkan.</samp>
