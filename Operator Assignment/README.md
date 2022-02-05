@@ -46,6 +46,6 @@
 
     <samp>E = E % 4 dapat disederhanakan menggunakan operator assignment menjadi E %= 4;</samp>
    
-- <samp>Untuk lebih jelasnya, silahkan buka [https://github.com/suardi26/Java-Basic/blob/main/Operator%20Assignment/src/com/practice/Main.java) di repositori suardi26/Java-Basic/Operator Assignment/src/com/practice/.</samp>
+- <samp>Untuk lebih jelasnya, silahkan buka [Main.java](https://github.com/suardi26/Java-Basic/blob/main/Operator%20Assignment/src/com/practice/Main.java) di repositori suardi26/Java-Basic/Operator Assignment/src/com/practice/.</samp>
 
 - <samp>Semoga harimu menyenangkan.</samp>
