@@ -5,20 +5,12 @@
 
 - <samp>Ada beberapa jenis operator logika pada Java yaitu OR (||), AND (&&), NOT (!), XOR (^).</samp>
    
-   <table>
-   <tr>
-      <th>Table OR</th>
-   </tr>
-   <tr>
-      <td>
-      | A | B | C |
-         
-      |---|---|---|
-         
-      | 1 | 2 | 3 |
-      </td>
-   </tr> 
-   </table>
+  |    A     |    B     |  A || B  |
+  | :------- | :------- | :------- |
+  | false    | false    | false    |
+  | false    | true     | true     |
+  | true     | fasle    | true     |
+  | true     | true     | true     |
         
              table AND
 
