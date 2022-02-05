@@ -35,9 +35,9 @@
    | A | B | A (OR) B |
    |--|--|--|
    | false | false | false |
-   | false | false | false |
-   | false | false | false |
-   | false | false | false |
+   | false | true | true |
+   | true | false | true |
+   | true | true | true |
    </td><td>
 
    | A | B | C |
