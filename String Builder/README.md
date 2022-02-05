@@ -43,7 +43,9 @@
 
 ##### Note !!! : script ini diperuntukan bagi yang baru memulai belajar java. Jika Sudah Memahami Java dasar Silahkan Di skip.
 
--  <samp>Ketika Nilai String itu tidak bisa berubah (immutable), maka berbeda dengan String Builder dan String Buffer yang Nilainya dapat diubah (mutable).</samp>
+-  <samp>Ketika Nilai String itu tidak bisa berubah (immutable), maka berbeda dengan String Builder dan String Buffer</samp> 
+  
+   <samp>yang Nilainya dapat diubah (mutable).</samp>
 
 -  <samp>String Buffer dan String Builder merupakan kelas yang digunakan untuk membuat object string sehingga nilainya dapat dimodifikasi.</samp> 
  
