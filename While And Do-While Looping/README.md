@@ -41,7 +41,7 @@
   <samp>tidak terpenuhi, sehingga kode program dapat dieksekusi berulang kali sesuai dengan kondisi yang ditentukan.</samp>
   
   <samp>Format :</samp> 
-  
+  ```java
         while (kondisi){
 
           // Kode akan dieksekusi.
@@ -56,13 +56,13 @@
   <samp>memeriksa suatu kondisi terlebih dahulu setelah itu pernyataan akan dieksekusi bila kondisi terpenuhi / bernilai benar.</samp>
   
   <samp>Format :</samp>
-  
+  ```java
         do {
           
           // Kode akan dieksekusi.
           
         } while (Kondisi);
-        
+   ```   
         
 - <samp>Untuk lebih jelasnya, silahkan buka[Main.java](https://github.com/suardi26/Java-Basic/blob/main/While%20And%20Do-While%20Looping/src/com/practice/Main.java) di repositori suardi26/Java-Basic/While And Do-While Looping/src/com/practice/</samp>
 
