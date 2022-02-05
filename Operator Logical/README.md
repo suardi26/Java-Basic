@@ -50,9 +50,7 @@
    |--|--|
    | false | false |
    | false | true |
-   | true | false |
-   | true | true |
-   
+  
    </td>
    </tr>
 
