@@ -45,7 +45,7 @@
    </td>
       
    <td>
-   | A |  | (!) A |
+   | A | D | (!) A |
    |--|--|--|
    | true | = | false | 
    | false | = | true | 
