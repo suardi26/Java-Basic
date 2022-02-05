@@ -81,7 +81,7 @@
 
    ```
   
-- <samp>For more details, please open Main.java in repositories suardi26/Java-Basic/If Statement/src/com/practice/</samp>
+- <samp>For more details, please open [Main.java](https://github.com/suardi26/Java-Basic/blob/main/If%20Statement/src/com/practice/Main.java) in repositories suardi26/Java-Basic/If Statement/src/com/practice/</samp>
 
 - <samp>Have a nice day.</samp>
 
@@ -145,7 +145,7 @@
   
   ```
 
-- <sampif else nested adalah teknik pemrograman yang digunakan untuk menentukan alur eksekusi program, </samp> 
+- <samp>if else nested adalah teknik pemrograman yang digunakan untuk menentukan alur eksekusi program, </samp> 
 
   <samp>namun pada if else nested terdapat percabangan di dalam percabangan. Sehingga pada saat suatu kondisi terpenuhi</samp>
   
@@ -173,3 +173,6 @@
   }
   
   ```
+- <samp>Untuk lebih jelasnya, silahkan buka Main.java di repositori suardi26/Java-Basic/If Statement/src/com/practice/.</samp>
+
+- <samp>Semoga harimu menyenangkan.</samp>
