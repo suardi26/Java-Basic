@@ -12,10 +12,10 @@
 - <samp>Format :</samp> 
 ```java
 
-for (dataType variable : array) 
-{ 
-statements using variable;
-}
+   for (dataType variable : array) 
+   { 
+   statements using variable;
+   }
 
 ```
 - <samp>For more details, please open Main.java in repositories suardi26/Java-Basic/Looping Array (For Each)/src/com/practice/</samp>
