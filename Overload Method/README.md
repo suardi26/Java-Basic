@@ -9,7 +9,7 @@
   
 - <samp>Method overloading can occur in the same class, and can also be inheritance from classes.</samp>
 
-- <samp>For more details, please open Main.java in repositories suardi26/Java-Basic/Overload Method/src/com/practice/</samp>
+- <samp>For more details, please open [Main.java](https://github.com/suardi26/Java-Basic/blob/main/Overload%20Method/src/com/practice/Main.java) in repositories suardi26/Java-Basic/Overload Method/src/com/practice/</samp>
 
 - <samp>Have a nice day.</samp> 
 
@@ -25,6 +25,6 @@
 
 - <samp>Method overloading bisa saja terjadi dalam satu class yang sama, dan bisa juga dari class turunan.</samp>
 
-- <samp>Untuk lebih jelasnya, silahkan buka Main.java di repositori suardi26/Java-Basic/Overload Method/src/com/practice/</samp>
+- <samp>Untuk lebih jelasnya, silahkan buka [Main.java](https://github.com/suardi26/Java-Basic/blob/main/Overload%20Method/src/com/practice/Main.java) di repositori suardi26/Java-Basic/Overload Method/src/com/practice/</samp>
 
 - <samp>Semoga harimu menyenangkan.</samp>
