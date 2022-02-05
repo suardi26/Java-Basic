@@ -83,7 +83,7 @@
 
 - <samp>Untuk lebih jelas, silahkan buka [Main.java](https://github.com/suardi26/Java-Basic/blob/main/Variables%20And%20Data%20Types%20In%20java/src/com/practice/Main.java) pada repositories suardi26/Java-Basic/</samp>
 
-- <samp>Variables And Data Types In Java/src/com/practice/.</samp>
+  <samp>Variables And Data Types In Java/src/com/practice/.</samp>
 
 - <samp>Semoga harimu menyenangkan.</samp>
 
