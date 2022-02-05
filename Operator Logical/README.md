@@ -23,16 +23,25 @@
   | true     | true     | true     |
             
 
-             table XOR
+   <table>
+   <tr>
+   <th>Heading 1</th>
+   <th>Heading 2</th>
+   </tr>
+   <tr>
 
-        false ^ false = false
-        false ^ true  = true
-        true  ^ false  = true
-        true  ^ true  = false
+   <td>
 
-             table NOT
-            
-        false (!) = true
-        true (!) = false
+   | A | B | C |
+   |--|--|--|
+   | 1 | 2 | 3 |
+
+   </td><td>
+
+   | A | B | C |
+   |--|--|--|
+   | 1 | 2 | 3 |
+
+   </td></tr> </table>
         
 - <sampUntuk lebih jelasnya, silahkan buka Main.java di repositori suardi26/Java-Basic/Operator Logical/src/com/practice/.</samp>
