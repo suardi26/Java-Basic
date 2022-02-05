@@ -16,7 +16,7 @@
 
    | A | B | A (OR) B |
    |--|--|--|
-   | (samp>false</samp) | false | false |
+   | (samp)false(/samp) | false | false |
    | false | true | true |
    | true | false | true |
    | true | true | true |
