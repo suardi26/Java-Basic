@@ -76,7 +76,6 @@
 [<img align="left" alt="suardi26 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 
-
+[facebook]: https://instagram.com/soeardi_26/
 [instagram]: https://facebook.com/suardi.daudmanda/
 
-[facebook]: https://instagram.com/soeardi_26/
