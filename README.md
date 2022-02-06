@@ -56,18 +56,18 @@
 
 - [Multidimensional Arrays](https://github.com/suardi26/Java-Basic/blob/main/Multidimensional%20Arrays/src/com/ptactice/Main.java)
 
-- <samp>[Exception](https://github.com/suardi26/Java-Basic/blob/main/Exception/src/com/practice/Main.java)
+- [Exception](https://github.com/suardi26/Java-Basic/blob/main/Exception/src/com/practice/Main.java)
  
-- <samp>[IO Stream](https://github.com/suardi26/Java-Basic/blob/main/IO%20Stream/src/com/tutorial/Main.java)
+- [IO Stream](https://github.com/suardi26/Java-Basic/blob/main/IO%20Stream/src/com/tutorial/Main.java)
 
-- <samp>[Access Modifier](https://github.com/suardi26/Java-Basic/blob/main/Access%20Modifier/src/com/practice/Main.java)
+- [Access Modifier](https://github.com/suardi26/Java-Basic/blob/main/Access%20Modifier/src/com/practice/Main.java)
 
-- <samp>[CRUD (Database)](https://github.com/suardi26/Java-Basic/tree/main/CRUD%20(Database)/src)
+- [CRUD (Database)](https://github.com/suardi26/Java-Basic/tree/main/CRUD%20(Database)/src)
 
-- <samp>Software :</samp> 
+- Software :</samp> 
 
   - <samp>[XAMPP Version: 7.4.14.](https://www.apachefriends.org/download.html)</samp>
 
-  - <samp>[IntelliJ IDEA Community Edition 2021.2.3.](https://www.jetbrains.com/idea/download/?from=SafeEyes#section=windows)
-</samp>
-  
+  - [IntelliJ IDEA Community Edition 2021.2.3.](https://www.jetbrains.com/idea/download/?from=SafeEyes#section=windows)
+
+### Connect with me:
