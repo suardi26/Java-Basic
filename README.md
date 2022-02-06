@@ -77,5 +77,5 @@
 
 
 
-[instagram]: https://facebook.com/suardi.daudmanda
+[instagram]: https://facebook.com/suardi.daudmanda/
 [facebook]: https://instagram.com/soeardi_26/
