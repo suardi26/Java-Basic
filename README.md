@@ -66,13 +66,9 @@
 
 ### Software :
 
-  - [XAMPP Version: 7.4.14.](https://www.apachefriends.org/download.html)
-
-  - [IntelliJ IDEA Community Edition 2021.2.3.](https://www.jetbrains.com/idea/download/?from=SafeEyes#section=windows)
-
   - <a href="https://www.apachefriends.org/download.html" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xampp.svg" height="30" width="40" />   XAMPP Version: 7.4.14.</a>
 
- - <a href="https://www.jetbrains.com/idea/download/?from=SafeEyes#section=windows" target="blank"><img align="center" src="https://img.icons8.com/material/48/000000/intellij-idea.png" height="30" width="40" />   IntelliJ IDEA Community Edition 2021.2.3.</a>
+ - <a href="https://www.jetbrains.com/idea/download/?from=SafeEyes#section=windows" target="blank"><img align="center" src="https://img.icons8.com/material/144/000000/intellij-idea.png" height="30" width="40" />   IntelliJ IDEA Community Edition 2021.2.3.</a>
 
 ### Connect with me :
 <p align="left">
