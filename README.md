@@ -56,13 +56,13 @@
 
 - [Multidimensional Arrays](https://github.com/suardi26/Java-Basic/blob/main/Multidimensional%20Arrays/src/com/ptactice/Main.java)
 
-- [Exception](https://github.com/suardi26/Java-Basic/blob/main/Exception/src/com/practice/Main.java)
+- <samp>[Exception](https://github.com/suardi26/Java-Basic/blob/main/Exception/src/com/practice/Main.java)
  
-- [IO Stream](https://github.com/suardi26/Java-Basic/blob/main/IO%20Stream/src/com/tutorial/Main.java)
+- <samp>[IO Stream](https://github.com/suardi26/Java-Basic/blob/main/IO%20Stream/src/com/tutorial/Main.java)
 
-- [Access Modifier](https://github.com/suardi26/Java-Basic/blob/main/Access%20Modifier/src/com/practice/Main.java)
+- <samp>[Access Modifier](https://github.com/suardi26/Java-Basic/blob/main/Access%20Modifier/src/com/practice/Main.java)
 
-- [CRUD (Database)](https://github.com/suardi26/Java-Basic/tree/main/CRUD%20(Database)/src)
+- <samp>[CRUD (Database)](https://github.com/suardi26/Java-Basic/tree/main/CRUD%20(Database)/src)
 
 - <samp>Software :</samp> 
 
