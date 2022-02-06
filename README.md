@@ -43,4 +43,6 @@
 - [Array List](https://github.com/suardi26/Java-Basic/blob/main/Array%20List/src/com/practice/Main.java)
 
 - [Looping Array (For Each)](https://github.com/suardi26/Java-Basic/blob/main/Looping%20Array%20(For%20Each)/src/com/practice/Main.java)
+
+- [Multidimensional Arrays](https://github.com/suardi26/Java-Basic/blob/main/Multidimensional%20Arrays/src/com/ptactice/Main.java)
   
