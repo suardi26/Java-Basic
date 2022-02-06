@@ -70,7 +70,7 @@
 
   - [IntelliJ IDEA Community Edition 2021.2.3.](https://www.jetbrains.com/idea/download/?from=SafeEyes#section=windows)
 
-  - <a href="https://www.apachefriends.org/download.html" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/512/5548/premium/5548401.png?token=exp=1644155315~hmac=d25719d3cd85f459fd2fe1060f794876" height="30" width="40" /></a>
+  - <a href="https://www.apachefriends.org/download.html" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xampp.svg" height="30" width="40" /></a>
 
   - <a href="https://www.jetbrains.com/idea/download/?from=SafeEyes#section=windows" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="suardi.daudmanda" height="30" width="40" /></a>
 
@@ -78,6 +78,6 @@
 <p align="left">
 <a href="https://fb.com/suardi.daudmanda" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="suardi.daudmanda" height="30" width="40" /></a>
 <a href="https://instagram.com/soeardi_26" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="soeardi_26" height="30" width="40" /></a>
-<a href="mailto:suardi260696@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xampp.svg" alt="soeardi_26" height="30" width="40" /></a>
+<a href="mailto:suardi260696@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="soeardi_26" height="30" width="40" /></a>
 </p>
 
