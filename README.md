@@ -20,6 +20,10 @@
 
 - [String](https://github.com/suardi26/Java-Basic/blob/main/String/src/com/practice/Main.java)
 
+- [String Format](https://github.com/suardi26/Java-Basic/blob/main/String%20Format/src/com/practice/Main.java)
+
+- [String Builder](https://github.com/suardi26/Java-Basic/blob/main/String%20Builder/src/com/practice/Main.java)
+
 - Branching
 
   - [If Statement](https://github.com/suardi26/Java-Basic/blob/main/If%20Statement/src/com/practice/Main.java)
