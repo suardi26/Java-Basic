@@ -73,8 +73,8 @@
 ### Connect with me:
 
 [<img align="left" alt="suardi26 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="suardi | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 [<img align="left" alt="suardi | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="suardi | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 
 <br/>
 
@@ -82,5 +82,9 @@
 [facebook]: https://instagram.com/soeardi_26/
 [gmail]: mailto:suardi260696@gmail.com
 
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/suardi.daudmanda" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="suardi.daudmanda" height="30" width="40" /></a>
+<a href="https://instagram.com/soeardi_26" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="soeardi_26" height="30" width="40" /></a>
+</p>
 
