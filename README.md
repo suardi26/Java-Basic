@@ -33,4 +33,8 @@
 - [Get User Input (Scanner, BufferReader, Console)](https://github.com/suardi26/Java-Basic/blob/main/Get%20User%20Input%20(Scanner%2C%20BufferReader%2CConsole)/src/com/practice/Main.java)
 
 - [Method](https://github.com/suardi26/Java-Basic/blob/main/Method/src/com/practice/Main.java)
+
+- [Recursive Function](https://github.com/suardi26/Java-Basic/blob/main/Recursive%20Function/src/com/practice/Main.java)
+
+- [Overload Method](https://github.com/suardi26/Java-Basic/blob/main/Overload%20Method/src/com/practice/Main.java)
   
