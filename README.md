@@ -31,4 +31,6 @@
   - [While And Do-While Looping](https://github.com/suardi26/Java-Basic/blob/main/While%20And%20Do-While%20Looping/src/com/practice/Main.java)
 
 - [Get User Input (Scanner, BufferReader, Console)](https://github.com/suardi26/Java-Basic/blob/main/Get%20User%20Input%20(Scanner%2C%20BufferReader%2CConsole)/src/com/practice/Main.java)
+
+- [Method](https://github.com/suardi26/Java-Basic/blob/main/Method/src/com/practice/Main.java)
   
