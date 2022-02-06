@@ -73,5 +73,4 @@
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/888/888853.png" />][instagram]
-
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://pics.freeicons.io/uploads/icons/png/7969340901574338609-512.png" />][instagram]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/888/888853.png" />][instagram]
