@@ -37,4 +37,8 @@
 - [Recursive Function](https://github.com/suardi26/Java-Basic/blob/main/Recursive%20Function/src/com/practice/Main.java)
 
 - [Overload Method](https://github.com/suardi26/Java-Basic/blob/main/Overload%20Method/src/com/practice/Main.java)
+
+- [Array](https://github.com/suardi26/Java-Basic/blob/main/Array/src/practice/com/Main.java)
+
+- [Array List](https://github.com/suardi26/Java-Basic/blob/main/Array%20List/src/com/practice/Main.java)
   
