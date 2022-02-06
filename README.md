@@ -72,4 +72,4 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="![image](https://user-images.githubusercontent.com/74533556/152678545-c9e209e0-089c-489d-8f07-1d003f400096.png)" />][instagram]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn-icons.flaticon.com/png/512/2875/premium/2875394.png?token=exp=1644147601~hmac=78c1e69e658b9c0f85aff97df2d32ca3" />][youtube]
