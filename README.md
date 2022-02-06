@@ -72,16 +72,5 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn-icons.flaticon.com/png/512/2875/premium/2875394.png?token=exp=1644147601~hmac=78c1e69e658b9c0f85aff97df2d32ca3" />][youtube]
-
-<h1 align="center">Hi 👋, I'm suardi26</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-- 👨‍💻 All of my projects are available at [https://github.com/suardi26](https://github.com/suardi26)
-
-- 📫 How to reach me **suardi260696@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/soeardi_26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="soeardi_26" height="30" width="40" /></a>
-</p>
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[instagram]: https://instagram.com/soeardi26
