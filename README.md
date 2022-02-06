@@ -71,3 +71,5 @@
   - [IntelliJ IDEA Community Edition 2021.2.3.](https://www.jetbrains.com/idea/download/?from=SafeEyes#section=windows)
 
 ### Connect with me:
+
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/888/888853.png" />][instagram]
