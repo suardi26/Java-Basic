@@ -95,7 +95,7 @@
   
   <samp>data array dan lebih dari satu maka data yang pertama akan diambil indexnya./samp>
    
-- <samp>Untuk lebih jelasnya, silahkan buka [Main.java](https://github.com/suardi26/Java-Basic/blob/main/Basic%20Operation%20(Array)/src/com/practice/Main.java) di repositori suardi26/Java-Basic/Basic Operation (Array)/src/com/practice/.
+- <samp>Untuk lebih jelasnya, silahkan buka [Main.java](https://github.com/suardi26/Java-Basic/blob/main/Basic%20Operation%20(Array)/src/com/practice/Main.java) di repositori suardi26/Java-Basic/Basic Operation (Array)/src/com/practice/.</samp>
 
 - <samp>Semoga harimu menyenangkan.</samp>
 
