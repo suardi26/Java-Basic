@@ -29,8 +29,7 @@
         int i = 257;
 
         bytes bt = (bytes) i;
-
-      ```  
+      ``` 
       </samp>
   
 - <samp>And for the conversion/casting of numeric data types in java, must be considered is when converting from data types</samp> 
