@@ -26,9 +26,9 @@
       
       <samp>
       ```java
-        int i = 257;
+      int i = 257;
 
-        bytes bt = (bytes) i;
+      bytes bt = (bytes) i;
       ``` 
       </samp>
   
