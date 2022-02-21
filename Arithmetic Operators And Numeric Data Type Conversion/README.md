@@ -88,6 +88,12 @@
   ```
   </samp>
   
+- <samp>Casting tipe data primtif ada dua tipe yaitu casting implisit dan eksplisit.</samp>
+  
+   -  Casting implisit adalah casting yang dilakukan tanpa adanya kode tambahan. casting implisit digunakan 
+  
+      untuk merubah tipe data suatu nilai, dari tipe data yang berkapasitas kecil ke tipe data yang berkapasitas besar. contoh :
+  
 - <samp>Dan untuk konversi/casting tipe data numerik pada java, yang harus diperhatikan adalah pada saat melakukan konversi dari tipe data</samp>  
   
   <samp> yang memiliki kapasitas interval yang besar ke tipe data yang memiliki kapasitas interval yang kecil.</samp> 
