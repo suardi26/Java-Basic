@@ -36,9 +36,11 @@
       
       ```java
       int number3 = 6;
+      
       byte number4 = (byte) number3;
       //
       double number5 = 5.0;
+      
       int number6 = (int) number5;
       ```
      
@@ -107,9 +109,11 @@
       <samp>memiliki nilai bilangan desimal ke tipe data yang memiliki nilai bilangan bulat. contoh :</samp>
       ```java
       int number3 = 6;
+  
       byte number4 = (byte) number3;
       //
       double number5 = 5.0;
+  
       int number6 = (int) number5;
       ```
   
