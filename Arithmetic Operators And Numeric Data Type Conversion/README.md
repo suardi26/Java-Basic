@@ -37,14 +37,14 @@
   <samp>that have a large interval capacity to data types that have a small interval capacity.</samp>
 
 - <samp>For example : </samp>
-  <samp>
+  
   ```java
     int i = 257;
                
     bytes bt = (bytes) i;
   
   ```  
-  </samp>
+  
 - <samp>Note: The variable 'bt' with byte data type will not be the same as the value of variable 'i' of type Integer, because the capacity </samp>
 
   <samp>of the byte data type is 8 bits, with intervals ranging from -128 to 127 while the value of the variable 'i' is integer</samp> 
