@@ -11,7 +11,7 @@ package com.practice;
 
         - Casting eksplisit adalah casting yang dilakukan ketika kita ingin merubah suatu type data suatu nilai. dari tipe data yang
           berkapasitas besar ke tipe data yang berkapasitas kecil atau type data yang memiliki nilai bilangan desimal ke tipe
-          data yang memiliki nilai bilangan bulat. seperti
+          data yang memiliki nilai bilangan bulat. seperti :
 
           int number3 = 6;
           byte number4 = (byte) number3;
