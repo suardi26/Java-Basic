@@ -90,9 +90,28 @@
   
 - <samp>Casting tipe data primtif ada dua tipe yaitu casting implisit dan eksplisit.</samp>
   
-   -  Casting implisit adalah casting yang dilakukan tanpa adanya kode tambahan. casting implisit digunakan 
+   -  <samp>Casting implisit adalah casting yang dilakukan tanpa adanya kode tambahan. casting implisit digunakan</samp> 
   
-      untuk merubah tipe data suatu nilai, dari tipe data yang berkapasitas kecil ke tipe data yang berkapasitas besar. contoh :
+      <samp>untuk merubah tipe data suatu nilai, dari tipe data yang berkapasitas kecil ke tipe data yang berkapasitas besar. contoh :</samp>
+  
+      ```java
+      int number1 = 5;
+      
+      long number2 = number1;
+      ``` 
+  
+   -  <samp>Casting eksplisit adalah casting yang dilakukan ketika kita ingin merubah suatu type data suatu nilai.</samp>
+  
+      <samp>dari tipe data yang berkapasitas besar ke tipe data yang berkapasitas kecil atau type data yang</samp> 
+     
+      <samp>memiliki nilai bilangan desimal ke tipe data yang memiliki nilai bilangan bulat. contoh :</samp>
+      ```java
+      int number3 = 6;
+      byte number4 = (byte) number3;
+      //
+      double number5 = 5.0;
+      int number6 = (int) number5;
+      ```
   
 - <samp>Dan untuk konversi/casting tipe data numerik pada java, yang harus diperhatikan adalah pada saat melakukan konversi dari tipe data</samp>  
   
