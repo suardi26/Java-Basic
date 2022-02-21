@@ -33,6 +33,14 @@
     - <samp>Explicit casting is casting that is done when we want to change a value's data type. from large-capacity data types</samp> 
       
       <samp>to small-capacity data types or data types that have decimal number values to data types that have integer values. example :</samp>
+      
+      ```java
+      int number3 = 6;
+      byte number4 = (byte) number3;
+      //
+      double number5 = 5.0;
+      int number6 = (int) number5;
+      ```
      
 - <samp>And for the conversion/casting of numeric data types in java, must be considered is when converting from data types</samp> 
   
