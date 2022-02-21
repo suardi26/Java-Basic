@@ -1,5 +1,24 @@
 package com.practice;
 
+/*
+    - Casting tipe data primtif ada dua tipe yaitu casting implisit dan eksplisit.
+
+        - Casting implisit adalah casting yang dilakukan tanpa adanya kode tambahan. casting implisit digunakan untuk merubah
+          tipe data suatu nilai, dari tipe data yang berkapasitas kecil ke tipe data yang berkapasitas besar. seprti :
+
+          int number1 = 5;
+          long number2 = number1;
+
+        - Casting eksplisit adalah casting yang dilakukan ketika kita ingin merubah suatu type data suatu nilai. dari tipe data yang
+          berkapasitas besar ke tipe data yang berkapasitas kecil atau type data yang memiliki nilai bilangan desimal ke tipe
+          data yang memiliki nilai bilangan bulat. seperti
+
+          int number3 = 6;
+          byte number4 = (byte) number3;
+          //
+          double number5 = 5.0;
+          int number6 = (int) number5;
+*/
 public class Main {
     public static void main(String[] args){
 
