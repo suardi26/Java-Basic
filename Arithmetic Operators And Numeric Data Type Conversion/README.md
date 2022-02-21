@@ -102,7 +102,7 @@
       long number2 = number1;
       ``` 
   
-   -  <samp>Casting eksplisit adalah casting yang dilakukan ketika kita ingin merubah suatu type data suatu nilai.</samp>
+   -  <samp>Casting eksplisit adalah casting yang dilakukan ketika kita ingin merubah type data suatu nilai.</samp>
   
       <samp>dari tipe data yang berkapasitas besar ke tipe data yang berkapasitas kecil atau type data yang</samp> 
      
