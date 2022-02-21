@@ -81,7 +81,7 @@
   
   <samp>dikarenakan kapasitas dari tipe data byte adalah 8 bit, dengan interval mulai dari -128 s.d 127 sedangkan nilai</samp> 
     
-  <samp>dari variabel 'i' yang</samp> bertipe data integer adalah 257.</samp>
+  <samp>dari variabel 'i' yang bertipe data integer adalah 257.</samp>
 
 - <samp>Untuk lebih jelasnya, silahkan buka [Main.java](https://github.com/suardi26/Java-Basic/blob/main/Arithmetic%20Operators%20And%20Numeric%20Data%20Type%20Conversion/src/com/practice/Main.java) di repositori suardi26/Java-Basic/Arithmetic Operators And </samp>
   
