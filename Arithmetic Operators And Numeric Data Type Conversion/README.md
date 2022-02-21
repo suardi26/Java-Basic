@@ -29,6 +29,10 @@
       
       long number2 = number1;
       ``` 
+      
+    - Explicit casting is casting that is done when we want to change a value's data type. from large-capacity data types 
+      
+      to small-capacity data types or data types that have decimal number values to data types that have integer values. example :
      
 - <samp>And for the conversion/casting of numeric data types in java, must be considered is when converting from data types</samp> 
   
