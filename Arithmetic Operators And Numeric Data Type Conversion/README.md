@@ -24,13 +24,13 @@
       
       data type of a value, from a small-capacity data type to a large-capacity data type. example :
       
-      <samp>
+      
       ```java
       int i = 257;
 
       bytes bt = (bytes) i;
       ``` 
-      </samp>
+     
   
 - <samp>And for the conversion/casting of numeric data types in java, must be considered is when converting from data types</samp> 
   
