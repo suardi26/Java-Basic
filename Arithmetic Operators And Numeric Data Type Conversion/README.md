@@ -17,6 +17,22 @@
   int result = (2 + 3) * 5;
   ```
   </samp>
+  
+- <samp>There are two types of primitive data type casting, namely implicit and explicit casting.</samp>
+
+    - Implicit casting is casting that is done without any additional code. Implicit casting is used to change the 
+      
+      data type of a value, from a small-capacity data type to a large-capacity data type. example :
+      
+      <samp>
+      ```java
+        int i = 257;
+
+        bytes bt = (bytes) i;
+
+      ```  
+      </samp>
+  
 - <samp>And for the conversion/casting of numeric data types in java, must be considered is when converting from data types</samp> 
   
   <samp>that have a large interval capacity to data types that have a small interval capacity.</samp>
