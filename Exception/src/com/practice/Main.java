@@ -34,7 +34,8 @@ public class Main {
             3.  Finally
                 Finally adalah keyword yang digunakan untuk menjalankan block program yang akan dieksekusi setelah block program
                 yang ada di dalam try dan catch. Block program yang ada di finally akan dieksekusi ketika ada kesalahan maupun tidak ada
-                kesalahan.
+                kesalahan, misalnya pada block try kita membaca file dan ketika proses selesai maka kita dapat menutup koneksi ke file
+                tersebut melalui block finally.
             4.  throw
                 throw adalah keyword yang digunakan untuk melemparkan suatu pesan kesalahan yang dibuat secara manual.
                 format : 'throw new Exception("Kesalahan Terjadi !!")'.
