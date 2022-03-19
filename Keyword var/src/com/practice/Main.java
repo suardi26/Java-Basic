@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 /*
     - Keyword var diperkenalkan pada java 10.
-    - Keyword var digunakan untuk mendeteksi secara otomatis value dari nilai variabel sehingaa dapat menentukan tipe data
+    - Keyword var digunakan untuk mendeteksi secara otomatis value dari nilai variabel sehingga dapat menentukan tipe data
       variabel secara otomatis.
 
     - Berikut adalah contoh kondisi dimana var dapat digunakan dan kondisi dimana var tidak dapat digunakan.
