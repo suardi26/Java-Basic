@@ -4,6 +4,8 @@
 
 - [Keyword var](https://github.com/suardi26/Java-Basic/blob/main/Keyword%20var/src/com/practice/Main.java)
 
+- [Method Variable Argument](https://github.com/suardi26/Java-Basic/blob/main/Method%20Variable%20Argument/src/com/practice/Main.java)
+
 - Operators
 
   - [Arithmetic Operators And Numeric Data Type Conversion](https://github.com/suardi26/Java-Basic/blob/main/Arithmetic%20Operators%20And%20Numeric%20Data%20Type%20Conversion/src/com/practice/Main.java)
