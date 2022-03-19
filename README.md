@@ -2,6 +2,8 @@
 
 - [Variables And Data Types In java](https://github.com/suardi26/Java-Basic/blob/main/Variables%20And%20Data%20Types%20In%20java/src/com/practice/Main.java)
 
+- [Keyword var](https://github.com/suardi26/Java-Basic/blob/main/Keyword%20var/src/com/practice/Main.java)
+
 - Operators
 
   - [Arithmetic Operators And Numeric Data Type Conversion](https://github.com/suardi26/Java-Basic/blob/main/Arithmetic%20Operators%20And%20Numeric%20Data%20Type%20Conversion/src/com/practice/Main.java)
