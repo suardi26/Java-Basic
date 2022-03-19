@@ -13,7 +13,7 @@ public class Main {
 
        // Tipe Data Dasar / Primitive Pada Java.
        // byte,short,integer,long,float,double,boolean,char
-
+       
        // byte adalah tipe data yang termasuk numerik/angka yang bersifat bilangan bulat dan berkapasitas 8 bit.
        byte bt =  6;
        System.out.println("(###############-Tipe Data Byte-###############)");
