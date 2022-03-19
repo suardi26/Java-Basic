@@ -25,3 +25,27 @@
 - <samp>Have a nice day.</samp>
 
 ---
+
+- Keyword var diperkenalkan pada java 10.
+    
+- Keyword var digunakan untuk mendeteksi secara otomatis value dari nilai variabel sehingga 
+
+  dapat menentukan tipe data variabel secara otomatis.
+
+- Keyword var tidak dapat digunakan dalam deklarasi variabel instance atau variabel global.
+
+- Keyword var tidak dapat digunakan tanpa inisialisasi eksplisit.
+
+- Keyword var juga tidak bisa bernilai null.
+
+- Kita dapat mendeklarasikan tipe data apa pun dengan keyword var.
+
+- var tidak dapat digunakan sebagai Generic Type dan var tidak dapat digunakan dengan Generic Type.
+
+- var juga tidak dapat digunakan dengan lambda Expression.
+
+- var tidak dapat digunakan untuk parameter suatu method dan method dengan return value.
+
+- <samp>Untuk lebih jelasnya, silahkan buka project [Keyword var](https://github.com/suardi26/Java-Basic/tree/main/Keyword%20var/src/com/practice) di repositori suardi26/Java-Basic/Keyword var/src/com/practice/</samp>
+
+- <samp>Semoga harimu menyenangkan.</samp>
