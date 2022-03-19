@@ -1,24 +1,24 @@
 ## Keyword var
 
-- The keyword var was introduced in java 10.
+- <samp>The keyword var was introduced in java 10.</samp>
     
-- The var keyword is used to automatically detect the value of a variable value so that 
+- <samp>The var keyword is used to automatically detect the value of a variable value so that</samp> 
 
-  it can determine the variable data type automatically.
+  <samp>it can determine the variable data type automatically.</samp>
 
-- The var keyword cannot be used in the declaration of instance variables or global variables.
+- <samp>The var keyword cannot be used in the declaration of instance variables or global variables.</samp>
 
-- The keyword var cannot be used without explicit initialization.
+- <samp>The keyword var cannot be used without explicit initialization.</samp>
 
-- The keyword var also cannot be null.
+- <samp>The keyword var also cannot be null.</samp>
 
-- We can declare any data type with var keyword.
+- <samp>We can declare any data type with var keyword.</samp>
 
-- var cannot be used as Generic Type and var cannot be used with Generic Type.
+- <samp>var cannot be used as Generic Type and var cannot be used with Generic Type.</samp>
 
-- var also cannot be used with lambda Expressions.
+- <samp>var also cannot be used with lambda Expressions.</samp>
 
-- var cannot be used to parameterize a method and a method with a return value.
+- <samp>var cannot be used to parameterize a method and a method with a return value.</samp>
 
 - <samp>For more details, please open [Keyword var](https://github.com/suardi26/Java-Basic/tree/main/Keyword%20var/src/com/practice) in repositories suardi26/Java-Basic/Keyword var/src/com/practice/</samp>
 
