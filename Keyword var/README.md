@@ -26,25 +26,25 @@
 
 ---
 
-- Keyword var diperkenalkan pada java 10.
+- <samp>Keyword var diperkenalkan pada java 10.<samp>
     
-- Keyword var digunakan untuk mendeteksi secara otomatis value dari nilai variabel sehingga 
+- <samp>Keyword var digunakan untuk mendeteksi secara otomatis value dari nilai variabel sehingga<samp> 
 
-  dapat menentukan tipe data variabel secara otomatis.
+  <samp>dapat menentukan tipe data variabel secara otomatis.<samp>
 
-- Keyword var tidak dapat digunakan dalam deklarasi variabel instance atau variabel global.
+- <samp>Keyword var tidak dapat digunakan dalam deklarasi variabel instance atau variabel global.<samp>
 
-- Keyword var tidak dapat digunakan tanpa inisialisasi eksplisit.
+- <samp>Keyword var tidak dapat digunakan tanpa inisialisasi eksplisit.<samp>
 
-- Keyword var juga tidak bisa bernilai null.
+- <samp>Keyword var juga tidak bisa bernilai null.<samp>
 
-- Kita dapat mendeklarasikan tipe data apa pun dengan keyword var.
+- <samp>Kita dapat mendeklarasikan tipe data apa pun dengan keyword var.<samp>
 
-- var tidak dapat digunakan sebagai Generic Type dan var tidak dapat digunakan dengan Generic Type.
+- <samp>var tidak dapat digunakan sebagai Generic Type dan var tidak dapat digunakan dengan Generic Type.<samp>
 
-- var juga tidak dapat digunakan dengan lambda Expression.
+- <samp>var juga tidak dapat digunakan dengan lambda Expression.<samp>
 
-- var tidak dapat digunakan untuk parameter suatu method dan method dengan return value.
+- <samp>var tidak dapat digunakan untuk parameter suatu method dan method dengan return value.<samp>
 
 - <samp>Untuk lebih jelasnya, silahkan buka project [Keyword var](https://github.com/suardi26/Java-Basic/tree/main/Keyword%20var/src/com/practice) di repositori suardi26/Java-Basic/Keyword var/src/com/practice/</samp>
 
