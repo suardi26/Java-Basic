@@ -18,4 +18,28 @@
 
 - <samp>For more details, please open [Main.java](https://github.com/suardi26/Java-Basic/blob/main/Method%20Variable%20Argument/src/com/practice/Main.java) in repositories suardi26/Java-Basic/Method Variable Argument/src/com/practice/</samp>
 
-- </samp>Have a nice day.</samp>
+- <samp>Have a nice day.</samp>
+
+...
+
+- Method Variabel Argument digunakan untuk mengirim data yang jumlahnya tidak pasti.
+
+- Ketika kita ingin mengirim sejumlah data yang jumlahnya tidak pasti dapat menggunakan Array 
+
+  sebagai parameter di method ataupun menggunakan variabel argument.
+
+- Data yang dikirim menggunakan Variabel Argument dapat berisi nol atau lebih argument.
+
+- Parameter dengan tipe variabel argument hanya boleh satu saja dalam satu method.
+  
+  contoh 'methodSearch( String name, int... numbers)'.
+
+- Parameter dengan tipe variabel argument, hanya bisa ditempatkan di posisi akhir parameter jika terdapat lebih dari satu parameter. 
+
+  contoh 'methodSearch( String name, int... numbers)', 'methodSum( int... numbers )'
+
+- Data - data yang dikirim melalui variabel argument di tampung pada Array.
+
+- <samp>Untuk lebih jelasnya, silahkan buka [Main.java](https://github.com/suardi26/Java-Basic/blob/main/Method%20Variable%20Argument/src/com/practice/Main.java) di repositori suardi26/Java-Basic/Method Variable Argument/src/com/practice/</samp>
+
+- <samp>Have a nice day.</samp>
